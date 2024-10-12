@@ -1,0 +1,96 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "cd3a3d0a-5d09-4bbe-8c89-7d42c3a13a97")
+	(paper "A3")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 29.21 30.48) (xy 50.8 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ec6ca1a-cba4-46f9-bb20-e2126b236d2a")
+	)
+	(wire
+		(pts
+			(xy 29.21 33.02) (xy 50.8 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c7c5266-047e-4759-be08-64a49cf686b6")
+	)
+	(wire
+		(pts
+			(xy 30.48 152.4) (xy 38.1 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ee38274-08c1-42e8-9025-40f45084a890")
+	)
+	(label "5V"
+		(at 50.8 30.48 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1ccad45b-ee4a-4b98-8467-65e54d0d0d2f")
+	)
+	(label "3.3V"
+		(at 50.8 33.02 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5e3be7ee-1abf-46e8-a5d0-c30f38cff7f9")
+	)
+	(hierarchical_label "RAIN_SENSE"
+		(shape bidirectional)
+		(at 30.48 152.4 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "362d5770-6977-4beb-b583-8dbdf09d9e7b")
+	)
+	(hierarchical_label "3.3V"
+		(shape input)
+		(at 29.21 33.02 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6f0a8d29-97f6-40b9-a710-e3cfe777f52e")
+	)
+	(hierarchical_label "5V"
+		(shape input)
+		(at 29.21 30.48 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ee6afec4-8070-4a5b-a6f5-c3f4b0ecd838")
+	)
+)
