@@ -1,4 +1,4 @@
-# OpenMower Mainboard for YardForce Mowers
+# Universal OpenMower Mainboard
 
 
 
@@ -6,7 +6,7 @@
 
 This hardware version is in beta state. Expect for things to not work at the current state!
 
-If you want to build an OpenMower based on a YardForce platform, I recommend the tested v1 hardware.
+If you want to build an OpenMower, I recommend the tested v1 hardware.
 
 
 
@@ -20,16 +20,7 @@ This repository contains the design files for a custom mainboard specifically de
 
 ## List of Compatible Mowers
 
-This mainboard is compatible with the following mower models:
-
-- YardForce Classic 500(B)
-- YardForce SA-series mowers (SA650, SA900, ...)
-
-
-
-## Additional Information
-
-This mainboard is the reference board for OpenMower and includes more features than actually required to build an OpenMower robot. This way it can be used as a template for other mower models. Additional features include a gigabit Ethernet switch, LiPo charger, and a 12V auxiliary power supply for extensions.
+This mainboard is compatible with the following mower models: TBD
 
 
 
