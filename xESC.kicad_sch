@@ -3319,16 +3319,6 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 139.7) (xy 142.24 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1dc40d2a-595c-4c5d-9082-b8fe2f8c73de")
-	)
-	(wire
-		(pts
 			(xy 185.42 102.87) (xy 203.2 102.87)
 		)
 		(stroke
@@ -3446,16 +3436,6 @@
 			(type default)
 		)
 		(uuid "3833e499-9388-48a8-b51a-f71929ea16f1")
-	)
-	(wire
-		(pts
-			(xy 318.77 46.99) (xy 323.85 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3c40807c-6864-49ff-a2eb-2116e436790a")
 	)
 	(wire
 		(pts
@@ -3659,6 +3639,16 @@
 	)
 	(wire
 		(pts
+			(xy 134.62 139.7) (xy 142.24 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76e3545d-8a77-47b6-8334-337ce4f3e431")
+	)
+	(wire
+		(pts
 			(xy 214.63 99.06) (xy 214.63 113.03)
 		)
 		(stroke
@@ -3739,6 +3729,16 @@
 	)
 	(wire
 		(pts
+			(xy 283.21 17.78) (xy 283.21 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "864afffc-ebd5-49b8-95f7-a06ced6c0e34")
+	)
+	(wire
+		(pts
 			(xy 82.55 36.83) (xy 96.52 36.83)
 		)
 		(stroke
@@ -3786,6 +3786,16 @@
 			(type default)
 		)
 		(uuid "8ebacc79-7116-4838-adf1-b570439b3171")
+	)
+	(wire
+		(pts
+			(xy 100.33 139.7) (xy 127 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90fe3a07-36f8-4c2c-b4d5-9faa02693574")
 	)
 	(wire
 		(pts
@@ -3899,7 +3909,7 @@
 	)
 	(wire
 		(pts
-			(xy 304.8 46.99) (xy 311.15 46.99)
+			(xy 304.8 46.99) (xy 323.85 46.99)
 		)
 		(stroke
 			(width 0)
@@ -4046,16 +4056,6 @@
 			(type default)
 		)
 		(uuid "db7fef29-7a24-4ad8-91bc-b99c988d2437")
-	)
-	(wire
-		(pts
-			(xy 283.21 17.78) (xy 283.21 22.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ddcbbe63-4868-400e-9a96-c1fb5dfd4864")
 	)
 	(wire
 		(pts
@@ -4206,16 +4206,6 @@
 			(type default)
 		)
 		(uuid "fb548c21-8b03-4434-8db8-b744835edd21")
-	)
-	(wire
-		(pts
-			(xy 283.21 30.48) (xy 283.21 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fb73a63f-c9ec-43cd-9521-3dfed9f70258")
 	)
 	(wire
 		(pts
@@ -7891,92 +7881,6 @@
 				)
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/35c1a146-5cd7-4cc8-a12d-17de73f02598"
 					(reference "U19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 314.96 46.99 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "37f8a8a9-16e6-4ada-8613-ff92c182cec1")
-		(property "Reference" "R78"
-			(at 321.564 48.006 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "150R"
-			(at 317.5 46.99 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 314.96 48.768 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 314.96 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 314.96 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLC" "C22808"
-			(at 314.96 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "115d8c4f-e879-47d8-b894-3abaa04c740a")
-		)
-		(pin "2"
-			(uuid "e8223f2e-16e1-4f9b-9d59-63c346c608ba")
-		)
-		(instances
-			(project "hw-openmower-universal"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
-					(reference "R78")
-					(unit 1)
-				)
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/35c1a146-5cd7-4cc8-a12d-17de73f02598"
-					(reference "R79")
-					(unit 1)
-				)
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/0359b790-c26c-4759-a59f-5a6b50a14036"
-					(reference "R80")
 					(unit 1)
 				)
 			)
@@ -14246,7 +14150,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 283.21 26.67 0)
+		(at 130.81 139.7 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14254,7 +14158,7 @@
 		(dnp no)
 		(uuid "a35b2635-2bd6-4dbc-a856-ed26cde1b9a3")
 		(property "Reference" "R43"
-			(at 282.194 33.274 90)
+			(at 137.414 140.716 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14263,7 +14167,7 @@
 			)
 		)
 		(property "Value" "150R"
-			(at 283.21 29.21 90)
+			(at 133.35 139.7 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14272,7 +14176,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 281.432 26.67 90)
+			(at 130.81 141.478 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14281,7 +14185,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 283.21 26.67 0)
+			(at 130.81 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14290,7 +14194,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 283.21 26.67 0)
+			(at 130.81 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14299,7 +14203,7 @@
 			)
 		)
 		(property "JLC" "C22808"
-			(at 283.21 26.67 0)
+			(at 130.81 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)

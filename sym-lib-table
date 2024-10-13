@@ -11,4 +11,5 @@
   (lib (name "xcore")(type "KiCad")(uri "${KIPRJMOD}/xcore-lib/xcore.kicad_sym")(options "")(descr ""))
   (lib (name "local_GPS")(type "KiCad")(uri "${KIPRJMOD}/components/extern/symbols/local_GPS.kicad_sym")(options "")(descr ""))
   (lib (name "SATA-Molex-67800-8005")(type "KiCad")(uri "${KIPRJMOD}/components/extern/symbols/SATA-Molex-67800-8005.kicad_sym")(options "")(descr ""))
+  (lib (name "mousebites")(type "KiCad")(uri "${KIPRJMOD}/components/xtech/symbols/mousebites.kicad_sym")(options "")(descr ""))
 )

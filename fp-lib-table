@@ -12,4 +12,5 @@
   (lib (name "local_GPS")(type "KiCad")(uri "${KIPRJMOD}/components/extern/footprints/local_GPS.pretty")(options "")(descr ""))
   (lib (name "SATA-Molex-67800-8005")(type "KiCad")(uri "${KIPRJMOD}/components/extern/footprints/SATA-Molex-67800-8005.pretty")(options "")(descr ""))
   (lib (name "local_FUSE")(type "KiCad")(uri "${KIPRJMOD}/components/extern/footprints/local_FUSE.pretty")(options "")(descr ""))
+  (lib (name "mousebites")(type "KiCad")(uri "${KIPRJMOD}/components/xtech/footprints/mousebites.pretty")(options "")(descr ""))
 )

@@ -2980,7 +2980,7 @@
 		(uuid "3347bdc7-06e6-4478-9884-0f539f0a614e")
 	)
 	(label "ETH1.PAIR_D_P"
-		(at 205.74 132.08 0)
+		(at 205.74 129.54 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2991,7 +2991,7 @@
 		(uuid "05e9f12d-28d0-4b1b-8fdd-8a34896a8088")
 	)
 	(label "ETH2.PAIR_C_P"
-		(at 205.74 212.09 0)
+		(at 205.74 209.55 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3002,7 +3002,7 @@
 		(uuid "0c89b2ef-924f-41d1-8750-13f2b3f97f55")
 	)
 	(label "ETH2.PAIR_B_P"
-		(at 205.74 214.63 0)
+		(at 205.74 207.01 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3013,7 +3013,7 @@
 		(uuid "0e990334-2b74-45b9-bf4c-d1fae39b025b")
 	)
 	(label "ETH2.PAIR_D_N"
-		(at 205.74 217.17 0)
+		(at 205.74 219.71 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3035,7 +3035,7 @@
 		(uuid "227de037-5c43-44a0-86dd-7b69f995bf08")
 	)
 	(label "ETH1.PAIR_A_N"
-		(at 205.74 114.3 0)
+		(at 205.74 116.84 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3057,7 +3057,7 @@
 		(uuid "2e7b463e-48b9-469a-9172-114862f13486")
 	)
 	(label "ETH1.PAIR_D_N"
-		(at 205.74 129.54 0)
+		(at 205.74 132.08 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3068,7 +3068,7 @@
 		(uuid "35b38fe0-dc8d-40b5-b54e-15766d125648")
 	)
 	(label "ETH1.PAIR_A_P"
-		(at 205.74 116.84 0)
+		(at 205.74 114.3 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3079,7 +3079,7 @@
 		(uuid "52cdf206-22ca-4018-9684-f984b36dcd13")
 	)
 	(label "ETH1.PAIR_B_N"
-		(at 205.74 119.38 0)
+		(at 205.74 127 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3090,7 +3090,7 @@
 		(uuid "53b0c2dc-c3d6-43d5-8a68-dc3fae4587fa")
 	)
 	(label "ETH2.PAIR_D_P"
-		(at 205.74 219.71 0)
+		(at 205.74 217.17 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3101,7 +3101,7 @@
 		(uuid "625cb6ad-a39a-499a-90ec-ee371608f80f")
 	)
 	(label "ETH1.PAIR_C_N"
-		(at 205.74 121.92 0)
+		(at 205.74 124.46 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3167,7 +3167,7 @@
 		(uuid "a9fb012e-63d6-4407-a8ca-5bcbd49d2ec9")
 	)
 	(label "ETH2.PAIR_C_N"
-		(at 205.74 209.55 0)
+		(at 205.74 212.09 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3178,7 +3178,7 @@
 		(uuid "aeb9749b-89f9-4fa7-89e6-ee44972bb358")
 	)
 	(label "ETH1.PAIR_C_P"
-		(at 205.74 124.46 0)
+		(at 205.74 121.92 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3189,7 +3189,7 @@
 		(uuid "b0345abd-6ecd-4282-b52a-6a673432decb")
 	)
 	(label "ETH2.PAIR_B_N"
-		(at 205.74 207.01 0)
+		(at 205.74 214.63 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3233,7 +3233,7 @@
 		(uuid "d0f81501-4f47-4e71-8c75-54cac7a092f0")
 	)
 	(label "ETH1.PAIR_B_P"
-		(at 205.74 127 0)
+		(at 205.74 119.38 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3244,7 +3244,7 @@
 		(uuid "d49bdcc3-97b2-4428-900b-f9b8ce4a8cc8")
 	)
 	(label "ETH2.PAIR_A_N"
-		(at 205.74 201.93 0)
+		(at 205.74 204.47 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3266,7 +3266,7 @@
 		(uuid "f63564ae-8adf-4c55-b498-e0749952d09e")
 	)
 	(label "ETH2.PAIR_A_P"
-		(at 205.74 204.47 0)
+		(at 205.74 201.93 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
