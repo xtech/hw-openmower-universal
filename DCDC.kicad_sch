@@ -141,164 +141,6 @@
 				)
 			)
 		)
-		(symbol "Device:C_Polarized"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0.254)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "C"
-				(at 0.635 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "C_Polarized"
-				(at 0.635 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 0.9652 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Polarized capacitor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "cap capacitor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "CP_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "C_Polarized_0_1"
-				(rectangle
-					(start -2.286 0.508)
-					(end 2.286 1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 2.286) (xy -0.762 2.286)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 2.794) (xy -1.27 1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 2.286 -0.508)
-					(end -2.286 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-			)
-			(symbol "C_Polarized_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 2.794)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 2.794)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Device:L"
 			(pin_numbers hide)
 			(pin_names
@@ -1621,6 +1463,12 @@
 		)
 	)
 	(junction
+		(at 290.83 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "04c1b29d-6683-4ef0-81f5-b562615959dc")
+	)
+	(junction
 		(at 212.09 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1633,16 +1481,16 @@
 		(uuid "0ec11124-d107-43fc-b9b7-7bfc7232f91d")
 	)
 	(junction
-		(at 273.05 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "16bcc585-5be1-4ac7-b0ff-be17eb4941e0")
-	)
-	(junction
 		(at 76.2 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "26529fbe-2c4a-4773-bdda-66b0f9b3805f")
+	)
+	(junction
+		(at 280.67 135.89)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "41e4df23-5405-4cde-8545-c270135f437c")
 	)
 	(junction
 		(at 236.22 151.13)
@@ -1651,28 +1499,16 @@
 		(uuid "4513a519-cd9b-44f4-8c87-b52fd3aa8576")
 	)
 	(junction
-		(at 280.67 135.89)
+		(at 295.91 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "48cd998e-8f10-491d-a491-23c8460c0c1b")
+		(uuid "48df0968-5cda-42f7-9a1a-c4253d71b3ff")
 	)
 	(junction
-		(at 288.29 135.89)
+		(at 290.83 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4d56b7da-6740-4d28-b72d-d8983d4ce60f")
-	)
-	(junction
-		(at 273.05 135.89)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "569c27af-d61a-4f3a-bb2c-53e42b938a4a")
-	)
-	(junction
-		(at 288.29 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "64471020-7070-457d-9cef-4922ab183347")
+		(uuid "5636570c-5c29-46c3-8d2a-e4e617a2e7c8")
 	)
 	(junction
 		(at 154.94 128.27)
@@ -1681,28 +1517,40 @@
 		(uuid "6541c099-692c-4431-8da2-a4643e51ca8c")
 	)
 	(junction
-		(at 318.77 135.89)
+		(at 265.43 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "679c971f-7962-4de4-982d-db7137c1cb6c")
+		(uuid "6fdc6cc1-2997-4dab-8087-05476cc048d2")
 	)
 	(junction
-		(at 295.91 135.89)
+		(at 275.59 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "87bfab69-4fa4-4260-8a7c-667ff591435a")
+		(uuid "702b746f-cdc7-481b-b436-1c3bd80cedfc")
 	)
 	(junction
-		(at 336.55 128.27)
+		(at 270.51 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "905a2fe3-4e0b-47bc-bdd0-dade26f3b549")
+		(uuid "776375c9-2bc4-4424-9ea8-4da2b291d505")
 	)
 	(junction
-		(at 265.43 135.89)
+		(at 275.59 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "91d31b10-a9f7-428a-a553-7d2803bb15c0")
+		(uuid "82653d8d-464e-422f-8315-383a8c89c200")
+	)
+	(junction
+		(at 285.75 135.89)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "86409511-c268-4894-8ea5-779a2943feca")
+	)
+	(junction
+		(at 353.06 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9dac0230-6833-44ba-b40d-d15f82d6bc69")
 	)
 	(junction
 		(at 115.57 128.27)
@@ -1723,10 +1571,10 @@
 		(uuid "a4909b4f-0ce2-45e3-a53e-a5ec678a0e5b")
 	)
 	(junction
-		(at 330.2 135.89)
+		(at 353.06 172.72)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "abde9960-e0f9-4a5b-b977-5ed60801b76c")
+		(uuid "ac26c398-5093-4966-b73e-988bd6cee798")
 	)
 	(junction
 		(at 236.22 128.27)
@@ -1735,10 +1583,28 @@
 		(uuid "ad15c2e4-f3aa-4d71-b8b1-881da232d92f")
 	)
 	(junction
+		(at 265.43 135.89)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c490b53a-b35a-40fc-8302-9273b96509ab")
+	)
+	(junction
 		(at 256.54 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cae080ee-df00-4381-8254-c54705752677")
+	)
+	(junction
+		(at 270.51 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d2af4f05-2a46-4864-b6ab-d1792f7e4337")
+	)
+	(junction
+		(at 285.75 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d341a25d-d10f-40f6-9a58-f5b674972a7f")
 	)
 	(junction
 		(at 195.58 156.21)
@@ -1747,34 +1613,20 @@
 		(uuid "d5b0085c-edd4-4498-943e-4d2526875641")
 	)
 	(junction
-		(at 265.43 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dd75a828-0929-4371-b01e-e39f4fe5d4db")
-	)
-	(junction
-		(at 318.77 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e99856b7-eff7-424e-bc9d-f57635182e3c")
-	)
-	(junction
 		(at 280.67 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ea368fdb-47d4-416b-9bca-0ff5602ba9db")
+		(uuid "e2b5a157-d222-47a7-98b4-74e995b0ca26")
 	)
-	(junction
-		(at 295.91 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ec9a48b4-aa08-431f-855b-40ae56887f6d")
-	)
-	(junction
-		(at 330.2 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f8e7964d-3898-4626-8493-a2eabe1f3091")
+	(wire
+		(pts
+			(xy 353.06 128.27) (xy 355.6 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02d30945-f534-4c3e-b370-fe79ee20a0fc")
 	)
 	(wire
 		(pts
@@ -1838,6 +1690,16 @@
 	)
 	(wire
 		(pts
+			(xy 195.58 140.97) (xy 204.47 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2519f24b-4c74-4734-a392-c8dd709d4de0")
+	)
+	(wire
+		(pts
 			(xy 236.22 128.27) (xy 236.22 140.97)
 		)
 		(stroke
@@ -1845,6 +1707,16 @@
 			(type default)
 		)
 		(uuid "2692da80-fc25-4517-aff3-e2ec7b33dd5f")
+	)
+	(wire
+		(pts
+			(xy 290.83 128.27) (xy 295.91 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "278be8ed-cdd4-42ae-a04d-bcde2044705a")
 	)
 	(wire
 		(pts
@@ -1858,13 +1730,23 @@
 	)
 	(wire
 		(pts
-			(xy 288.29 128.27) (xy 295.91 128.27)
+			(xy 290.83 135.89) (xy 295.91 135.89)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3187aba9-531a-4693-b1f3-81af9111e61a")
+		(uuid "2f832626-528f-4a5f-970c-eb67529f1ab0")
+	)
+	(wire
+		(pts
+			(xy 280.67 128.27) (xy 285.75 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a3253db-c826-416f-8fc3-e2bdeb25578f")
 	)
 	(wire
 		(pts
@@ -1888,7 +1770,7 @@
 	)
 	(wire
 		(pts
-			(xy 330.2 128.27) (xy 336.55 128.27)
+			(xy 295.91 128.27) (xy 342.9 128.27)
 		)
 		(stroke
 			(width 0)
@@ -1918,13 +1800,13 @@
 	)
 	(wire
 		(pts
-			(xy 273.05 128.27) (xy 280.67 128.27)
+			(xy 353.06 128.27) (xy 353.06 160.02)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "52a787ac-0568-4890-9585-39ead2350b0a")
+		(uuid "54f7a2ce-7046-4838-817b-1e7135b44685")
 	)
 	(wire
 		(pts
@@ -1935,16 +1817,6 @@
 			(type default)
 		)
 		(uuid "564e672a-5959-473a-90fa-64ab446b1eee")
-	)
-	(wire
-		(pts
-			(xy 318.77 128.27) (xy 330.2 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "575ac1c9-5538-4154-b67c-a7d2cde0054b")
 	)
 	(wire
 		(pts
@@ -1975,6 +1847,16 @@
 			(type default)
 		)
 		(uuid "71d407b5-c912-4a16-887a-dabcb82c3135")
+	)
+	(wire
+		(pts
+			(xy 270.51 135.89) (xy 275.59 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7606f747-a241-46b1-88be-873c0751ff8d")
 	)
 	(wire
 		(pts
@@ -2015,16 +1897,6 @@
 			(type default)
 		)
 		(uuid "7c9b1745-041d-4ad4-ae60-58b47ef59f0e")
-	)
-	(wire
-		(pts
-			(xy 295.91 128.27) (xy 318.77 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7d1fe0fb-d980-4347-8fed-c75f410c7323")
 	)
 	(wire
 		(pts
@@ -2078,6 +1950,16 @@
 	)
 	(wire
 		(pts
+			(xy 285.75 135.89) (xy 290.83 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88f37919-1032-4d1b-a246-47ac693f7775")
+	)
+	(wire
+		(pts
 			(xy 248.92 128.27) (xy 248.92 133.35)
 		)
 		(stroke
@@ -2118,26 +2000,6 @@
 	)
 	(wire
 		(pts
-			(xy 288.29 135.89) (xy 280.67 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9b03e435-8fb2-4004-b494-33b9c344baf7")
-	)
-	(wire
-		(pts
-			(xy 318.77 135.89) (xy 295.91 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9e1abdfa-afe5-423c-9671-53d3d7128000")
-	)
-	(wire
-		(pts
 			(xy 212.09 128.27) (xy 220.98 128.27)
 		)
 		(stroke
@@ -2145,16 +2007,6 @@
 			(type default)
 		)
 		(uuid "a0157d1c-cbf2-412c-a17b-fcfaa73a5d94")
-	)
-	(wire
-		(pts
-			(xy 280.67 135.89) (xy 273.05 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a0e3dbb3-17c7-4dca-a794-254cfd674520")
 	)
 	(wire
 		(pts
@@ -2168,16 +2020,6 @@
 	)
 	(wire
 		(pts
-			(xy 295.91 135.89) (xy 288.29 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a7d4e08b-14bd-42b8-9a54-d5c634824bc5")
-	)
-	(wire
-		(pts
 			(xy 154.94 133.35) (xy 154.94 128.27)
 		)
 		(stroke
@@ -2185,6 +2027,16 @@
 			(type default)
 		)
 		(uuid "aa4cf0d1-0034-4c69-94a1-e97ec50da551")
+	)
+	(wire
+		(pts
+			(xy 275.59 135.89) (xy 280.67 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aaf616e7-18e4-4ac3-a179-fa12c559e711")
 	)
 	(wire
 		(pts
@@ -2198,13 +2050,13 @@
 	)
 	(wire
 		(pts
-			(xy 280.67 128.27) (xy 288.29 128.27)
+			(xy 353.06 172.72) (xy 353.06 179.07)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b53b1d24-a2b6-4289-8d30-8897c63bd5de")
+		(uuid "b7df8905-6eed-4cee-88b7-2fc77a44d76d")
 	)
 	(wire
 		(pts
@@ -2238,16 +2090,6 @@
 	)
 	(wire
 		(pts
-			(xy 330.2 135.89) (xy 318.77 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "be7ff1c2-7833-48b4-b344-3d1e09c55c1d")
-	)
-	(wire
-		(pts
 			(xy 138.43 140.97) (xy 138.43 148.59)
 		)
 		(stroke
@@ -2258,17 +2100,7 @@
 	)
 	(wire
 		(pts
-			(xy 330.2 135.89) (xy 336.55 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c2110549-2f8b-4b3e-b4a5-bdb7ce9439c8")
-	)
-	(wire
-		(pts
-			(xy 342.9 128.27) (xy 355.6 128.27)
+			(xy 342.9 128.27) (xy 353.06 128.27)
 		)
 		(stroke
 			(width 0)
@@ -2308,7 +2140,7 @@
 	)
 	(wire
 		(pts
-			(xy 273.05 135.89) (xy 265.43 135.89)
+			(xy 265.43 135.89) (xy 270.51 135.89)
 		)
 		(stroke
 			(width 0)
@@ -2338,6 +2170,26 @@
 	)
 	(wire
 		(pts
+			(xy 265.43 128.27) (xy 270.51 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e194dea0-a2be-4c74-aa06-8085c49b2061")
+	)
+	(wire
+		(pts
+			(xy 353.06 167.64) (xy 353.06 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e36f7f3b-afe8-4bd0-b8e7-b681d4ed230a")
+	)
+	(wire
+		(pts
 			(xy 265.43 135.89) (xy 265.43 148.59)
 		)
 		(stroke
@@ -2345,16 +2197,6 @@
 			(type default)
 		)
 		(uuid "ecec877a-3b58-4054-bad6-e71d7edca77b")
-	)
-	(wire
-		(pts
-			(xy 265.43 128.27) (xy 273.05 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ef84ef0f-2adf-462f-9618-e975cbd8fc7c")
 	)
 	(wire
 		(pts
@@ -2368,13 +2210,53 @@
 	)
 	(wire
 		(pts
-			(xy 336.55 128.27) (xy 342.9 128.27)
+			(xy 275.59 128.27) (xy 280.67 128.27)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fc25e912-d41b-4eab-a6a4-f2487223b931")
+		(uuid "f0a77b0f-4c86-4372-b934-d9a4a8e95631")
+	)
+	(wire
+		(pts
+			(xy 285.75 128.27) (xy 290.83 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0ac8a2d-af40-4050-adbe-1afe1f1cb2c9")
+	)
+	(wire
+		(pts
+			(xy 270.51 128.27) (xy 275.59 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0d2fe88-87b9-4906-83da-dbe0c2f13cb5")
+	)
+	(wire
+		(pts
+			(xy 280.67 135.89) (xy 285.75 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f57f75db-49ff-4d9b-9557-ec66ad402a51")
+	)
+	(wire
+		(pts
+			(xy 346.71 172.72) (xy 353.06 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f949013c-4729-48e3-92d9-0719b7c76ab3")
 	)
 	(wire
 		(pts
@@ -2385,6 +2267,28 @@
 			(type default)
 		)
 		(uuid "fdab8596-f91e-4550-be93-d2661af1d0b4")
+	)
+	(label "BIAS"
+		(at 346.71 172.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "22645a29-a76e-46fa-8ea9-40d0b23acbff")
+	)
+	(label "BIAS"
+		(at 204.47 140.97 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "30e36fe7-0270-49d0-979a-6d83510832bd")
 	)
 	(hierarchical_label "VIN"
 		(shape input)
@@ -2411,34 +2315,17 @@
 		(uuid "5b9c8d59-786d-47ed-adda-a44d50a21791")
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 288.29 132.08 0)
+		(lib_id "power:GND")
+		(at 353.06 186.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "03733018-9558-4f68-9328-bbf40d735dbc")
-		(property "Reference" "C32"
-			(at 290.068 142.24 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100uF@6.3V"
-			(at 292.608 142.24 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
-			(at 289.2552 135.89 0)
+		(fields_autoplaced yes)
+		(uuid "050cf8ee-cfd8-4d18-a40b-aa692e81e8ae")
+		(property "Reference" "#PWR0119"
+			(at 353.06 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2446,8 +2333,16 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 288.29 132.08 0)
+		(property "Value" "GND"
+			(at 353.06 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 353.06 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2455,8 +2350,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
-			(at 288.29 132.08 0)
+		(property "Datasheet" ""
+			(at 353.06 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2464,350 +2359,8 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C15008"
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "APPLICATION" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CASE" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIGURATION" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONNECTOR" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CURRENT_RATING" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Centerline_Pitch" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DESIGNATOR" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "EU_RoHS_Compliance" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FINISH" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_PATH" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_REFERENCE" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GENDER" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_DATE" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_NOTE" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_PATH" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_REF" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_LINK" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Number_of_Positions" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ORIENTATION" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_DESCRIPTION" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_REV" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PITCH" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "POSITIONS" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Product_Type" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RESISTANCE" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_COMPLIANT" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SIGNAL_INTEGRITY" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPICE_MODEL" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TYPE" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_AC" ""
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_DC" ""
-			(at 288.29 132.08 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 353.06 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2816,15 +2369,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "75f2b2bb-18ea-46e2-999d-2cc7b73faecc")
-		)
-		(pin "2"
-			(uuid "ccc9a2c8-f3d1-4d9b-b6bf-5d38b5af512d")
+			(uuid "6cb6bf17-7194-46be-9d46-11631d1c1f82")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
-					(reference "C32")
+					(reference "#PWR0119")
 					(unit 1)
 				)
 			)
@@ -2889,7 +2439,7 @@
 			(uuid "51ee83c2-b312-44c8-8138-f4f9771241ca")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "#PWR0118")
 					(unit 1)
@@ -2925,7 +2475,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 209.042 163.83 90)
 			(effects
 				(font
@@ -2952,7 +2502,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C149504"
+		(property "JLC" "C25803"
 			(at 210.82 163.83 0)
 			(effects
 				(font
@@ -3310,7 +2860,7 @@
 			(uuid "9d70b32f-0c7f-4c19-aafe-bba42e21ab6d")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "R56")
 					(unit 1)
@@ -3376,7 +2926,7 @@
 			(uuid "239bc9db-8aec-433a-a3d6-6b13cf37269a")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "#PWR0142")
 					(unit 1)
@@ -3442,852 +2992,9 @@
 			(uuid "3843868e-d5a1-4426-b0a3-9c39c67bed66")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "#PWR0146")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 330.2 132.08 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0eec5af5-37a9-4fe7-80aa-bf9ee60b6525")
-		(property "Reference" "C35"
-			(at 326.39 130.8099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "100nF"
-			(at 326.39 133.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 331.1652 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLC" "C307331"
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "APPLICATION" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CASE" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIGURATION" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONNECTOR" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CURRENT_RATING" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Centerline_Pitch" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DESIGNATOR" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "EU_RoHS_Compliance" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FINISH" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_PATH" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_REFERENCE" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GENDER" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_DATE" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_NOTE" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_PATH" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_REF" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_LINK" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Number_of_Positions" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ORIENTATION" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_DESCRIPTION" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_REV" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PITCH" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "POSITIONS" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Product_Type" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RESISTANCE" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_COMPLIANT" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SIGNAL_INTEGRITY" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPICE_MODEL" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TYPE" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_AC" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_DC" ""
-			(at 330.2 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ed0d2bd0-6f0c-4e5a-9457-caf70401e29c")
-		)
-		(pin "2"
-			(uuid "6fcea78e-13bd-454d-a42b-779ae6e5a41b")
-		)
-		(instances
-			(project "hw-xbot-devkit"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
-					(reference "C35")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 295.91 132.08 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1313bdcc-c37f-4f90-bfa3-fbfe11b3ed92")
-		(property "Reference" "C33"
-			(at 299.72 130.8099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "470nF@50V"
-			(at 299.72 133.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 296.8752 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLC" "C13967"
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "APPLICATION" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CASE" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIGURATION" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONNECTOR" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CURRENT_RATING" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Centerline_Pitch" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DESIGNATOR" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "EU_RoHS_Compliance" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FINISH" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_PATH" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_REFERENCE" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GENDER" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_DATE" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_NOTE" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_PATH" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_REF" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_LINK" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Number_of_Positions" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ORIENTATION" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_DESCRIPTION" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_REV" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PITCH" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "POSITIONS" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Product_Type" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RESISTANCE" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_COMPLIANT" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SIGNAL_INTEGRITY" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPICE_MODEL" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TYPE" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_AC" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_DC" ""
-			(at 295.91 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e975ef01-e8a7-455d-9c88-71a4e23ef062")
-		)
-		(pin "2"
-			(uuid "4afb79ad-c5fa-41e8-87d1-98f0514db3a4")
-		)
-		(instances
-			(project "hw-xbot-devkit"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
-					(reference "C33")
 					(unit 1)
 				)
 			)
@@ -4704,9 +3411,88 @@
 			(uuid "d7d04ed8-5d50-4b53-97a7-9c28d3645720")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "L1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 265.43 132.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1e2093cf-9c62-45fe-b4be-4aeb7144ad58")
+		(property "Reference" "C29"
+			(at 269.24 130.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "47uF/10V"
+			(at 269.24 133.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 266.3952 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 265.43 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 265.43 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C96123"
+			(at 265.43 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "90d7a894-d484-4622-b4bb-cde21b293555")
+		)
+		(pin "2"
+			(uuid "0993bafb-d574-49d1-877a-d913482ae0f0")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
+					(reference "C29")
 					(unit 1)
 				)
 			)
@@ -5125,7 +3911,7 @@
 			(uuid "4b57120c-16c5-43c3-a6cb-e0aeabc2966b")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "C22")
 					(unit 1)
@@ -5782,9 +4568,246 @@
 			(uuid "3fa7cb79-de76-4007-96f7-5c67be66448c")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "U11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 285.75 132.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "35ca82ef-1384-4cc9-95d2-9b7c11c714c0")
+		(property "Reference" "C33"
+			(at 289.56 130.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "47uF/10V"
+			(at 289.56 133.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 286.7152 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 285.75 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 285.75 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C96123"
+			(at 285.75 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8b913167-4dc7-49f8-98b6-291d27fe46e4")
+		)
+		(pin "2"
+			(uuid "43243ea2-237f-4631-ad82-e579be96bb92")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
+					(reference "C33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 290.83 132.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "36841cd6-30c7-4a25-9580-db0a521304f3")
+		(property "Reference" "C117"
+			(at 294.64 130.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "47uF/10V"
+			(at 294.64 133.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 291.7952 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 290.83 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 290.83 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C96123"
+			(at 290.83 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "39519024-a4d1-4915-81a6-b9b7ca580a0d")
+		)
+		(pin "2"
+			(uuid "9ff70528-566e-4754-985d-88f122e0e17c")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
+					(reference "C117")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 275.59 132.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3ee19b00-eac7-4380-b70b-6683f4b6b8ed")
+		(property "Reference" "C31"
+			(at 279.4 130.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "47uF/10V"
+			(at 279.4 133.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 276.5552 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 275.59 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 275.59 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C96123"
+			(at 275.59 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "db61f2a3-6740-4598-97f0-91655080a0e8")
+		)
+		(pin "2"
+			(uuid "4a46e1ec-60f4-4ffb-9548-f0303d26ce85")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
+					(reference "C31")
 					(unit 1)
 				)
 			)
@@ -5818,7 +4841,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 234.442 157.48 90)
 			(effects
 				(font
@@ -5845,7 +4868,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C153306"
+		(property "JLC" "C2828637"
 			(at 236.22 157.48 0)
 			(effects
 				(font
@@ -6203,9 +5226,88 @@
 			(uuid "317a0a9e-1779-46c1-97c2-9eceaf44b1c1")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "R61")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 280.67 132.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "476a0321-9c0a-43d0-a821-3eb86e76627e")
+		(property "Reference" "C32"
+			(at 284.48 130.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "47uF/10V"
+			(at 284.48 133.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 281.6352 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 280.67 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 280.67 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C96123"
+			(at 280.67 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c16d5c64-e63f-4a84-aa61-507e94175acc")
+		)
+		(pin "2"
+			(uuid "afa5de34-7fdd-4151-abdb-0a9d53fcbb33")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
+					(reference "C32")
 					(unit 1)
 				)
 			)
@@ -6269,7 +5371,7 @@
 			(uuid "58881898-73da-4be4-a557-4699e9b93807")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "#PWR0143")
 					(unit 1)
@@ -6690,7 +5792,7 @@
 			(uuid "cf045cdb-5da1-4df2-9e5e-d56dfc3f4da1")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "D15")
 					(unit 1)
@@ -7111,9 +6213,431 @@
 			(uuid "7dce6fcd-45be-494e-89cf-449548784686")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "C23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 353.06 182.88 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "53a2c8a2-f8df-421a-8d1d-9ea2cdc7fff7")
+		(property "Reference" "C115"
+			(at 349.25 181.6099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1uF@50V"
+			(at 349.25 184.1499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 354.0252 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C15849"
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "APPLICATION" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CASE" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CONFIGURATION" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CONNECTOR" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CURRENT_RATING" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Centerline_Pitch" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESIGNATOR" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EU_RoHS_Compliance" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FINISH" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FOOTPRINT" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FOOTPRINT_PATH" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FOOTPRINT_REFERENCE" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "GENDER" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LATEST_REVISION_DATE" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LATEST_REVISION_NOTE" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY_PATH" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY_REF" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_LINK" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Number_of_Positions" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ORIENTATION" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_DESCRIPTION" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_REV" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PITCH" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "POSITIONS" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHED" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Product_Type" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RESISTANCE" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_COMPLIANT" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SERIES" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SIGNAL_INTEGRITY" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPICE_MODEL" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TECHNOLOGY" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TYPE" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VOLTAGE_RATING_AC" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VOLTAGE_RATING_DC" ""
+			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2d615601-6e8c-40ff-a980-061198563440")
+		)
+		(pin "2"
+			(uuid "3cf1bb78-11fc-499b-b3e7-0aaec36d190b")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
+					(reference "C115")
 					(unit 1)
 				)
 			)
@@ -7177,7 +6701,7 @@
 			(uuid "4816a3ff-e520-4fc7-ae74-de386b4a20ac")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "#PWR0112")
 					(unit 1)
@@ -7187,15 +6711,16 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 273.05 132.08 0)
+		(at 295.91 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "6af31a1c-d377-4d1d-b08e-b4621b0e13be")
-		(property "Reference" "C30"
-			(at 274.828 142.24 90)
+		(fields_autoplaced yes)
+		(uuid "71009d54-e916-424e-b0ef-64d02416c165")
+		(property "Reference" "C118"
+			(at 299.72 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7203,8 +6728,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uF@6.3V"
-			(at 277.368 142.24 90)
+		(property "Value" "470nF@50V"
+			(at 299.72 133.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7212,8 +6737,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
-			(at 274.0152 135.89 0)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 296.8752 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7222,7 +6747,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7231,7 +6756,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7239,8 +6764,8 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C15008"
-			(at 273.05 132.08 0)
+		(property "JLC" "C13967"
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7249,7 +6774,7 @@
 			)
 		)
 		(property "APPLICATION" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7258,7 +6783,7 @@
 			)
 		)
 		(property "CASE" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7267,7 +6792,7 @@
 			)
 		)
 		(property "CONFIGURATION" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7276,7 +6801,7 @@
 			)
 		)
 		(property "CONNECTOR" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7285,7 +6810,7 @@
 			)
 		)
 		(property "CURRENT_RATING" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7294,7 +6819,7 @@
 			)
 		)
 		(property "Centerline_Pitch" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7303,7 +6828,7 @@
 			)
 		)
 		(property "Comment" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7312,7 +6837,7 @@
 			)
 		)
 		(property "DESIGNATOR" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7321,7 +6846,7 @@
 			)
 		)
 		(property "EU_RoHS_Compliance" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7330,7 +6855,7 @@
 			)
 		)
 		(property "FINISH" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7339,7 +6864,7 @@
 			)
 		)
 		(property "FOOTPRINT" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7348,7 +6873,7 @@
 			)
 		)
 		(property "FOOTPRINT_PATH" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7357,7 +6882,7 @@
 			)
 		)
 		(property "FOOTPRINT_REFERENCE" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7366,7 +6891,7 @@
 			)
 		)
 		(property "GENDER" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7375,7 +6900,7 @@
 			)
 		)
 		(property "LATEST_REVISION_DATE" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7384,7 +6909,7 @@
 			)
 		)
 		(property "LATEST_REVISION_NOTE" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7393,7 +6918,7 @@
 			)
 		)
 		(property "LIBRARY_PATH" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7402,7 +6927,7 @@
 			)
 		)
 		(property "LIBRARY_REF" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7411,7 +6936,7 @@
 			)
 		)
 		(property "MANUFACTURER_LINK" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7420,7 +6945,7 @@
 			)
 		)
 		(property "Number_of_Positions" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7429,7 +6954,7 @@
 			)
 		)
 		(property "ORIENTATION" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7438,7 +6963,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7447,7 +6972,7 @@
 			)
 		)
 		(property "PART_DESCRIPTION" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7456,7 +6981,7 @@
 			)
 		)
 		(property "PART_REV" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7465,7 +6990,7 @@
 			)
 		)
 		(property "PITCH" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7474,7 +6999,7 @@
 			)
 		)
 		(property "POSITIONS" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7483,7 +7008,7 @@
 			)
 		)
 		(property "PUBLISHED" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7492,7 +7017,7 @@
 			)
 		)
 		(property "PUBLISHER" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7501,7 +7026,7 @@
 			)
 		)
 		(property "Product_Type" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7510,7 +7035,7 @@
 			)
 		)
 		(property "RESISTANCE" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7519,7 +7044,7 @@
 			)
 		)
 		(property "ROHS_COMPLIANT" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7528,7 +7053,7 @@
 			)
 		)
 		(property "SERIES" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7537,7 +7062,7 @@
 			)
 		)
 		(property "SIGNAL_INTEGRITY" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7546,7 +7071,7 @@
 			)
 		)
 		(property "SPICE_MODEL" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7555,7 +7080,7 @@
 			)
 		)
 		(property "TECHNOLOGY" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7564,7 +7089,7 @@
 			)
 		)
 		(property "TYPE" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7573,7 +7098,7 @@
 			)
 		)
 		(property "VOLTAGE_RATING_AC" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7582,7 +7107,7 @@
 			)
 		)
 		(property "VOLTAGE_RATING_DC" ""
-			(at 273.05 132.08 0)
+			(at 295.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7591,15 +7116,436 @@
 			)
 		)
 		(pin "1"
-			(uuid "715697aa-be6c-49f3-aa43-d6fa0f047d8b")
+			(uuid "cc12fb48-2095-4b85-8ecf-7609cda2eeea")
 		)
 		(pin "2"
-			(uuid "31e25393-4df6-49bb-af49-cde5b490ee86")
+			(uuid "81053b2a-c3f5-4d35-bede-2ecec412d601")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
-					(reference "C30")
+					(reference "C118")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 353.06 163.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7149eba5-6e53-45f6-8255-d7b09d7c40ea")
+		(property "Reference" "R82"
+			(at 355.6 162.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0R"
+			(at 355.6 165.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 351.282 163.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C21189"
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "APPLICATION" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CASE" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CONFIGURATION" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CONNECTOR" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CURRENT_RATING" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Centerline_Pitch" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESIGNATOR" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EU_RoHS_Compliance" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FINISH" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FOOTPRINT" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FOOTPRINT_PATH" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FOOTPRINT_REFERENCE" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "GENDER" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LATEST_REVISION_DATE" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LATEST_REVISION_NOTE" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY_PATH" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY_REF" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_LINK" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Number_of_Positions" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ORIENTATION" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_DESCRIPTION" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_REV" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PITCH" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "POSITIONS" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHED" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Product_Type" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RESISTANCE" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_COMPLIANT" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SERIES" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SIGNAL_INTEGRITY" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPICE_MODEL" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TECHNOLOGY" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TYPE" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VOLTAGE_RATING_AC" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VOLTAGE_RATING_DC" ""
+			(at 353.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "23202731-fb80-4ecf-a23f-3d1bf245a45d")
+		)
+		(pin "2"
+			(uuid "0da9902f-10b6-424f-a0ff-ef394d80bd47")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
+					(reference "R82")
 					(unit 1)
 				)
 			)
@@ -7623,7 +7569,7 @@
 				)
 			)
 		)
-		(property "Value" "470nF@50V"
+		(property "Value" "470nF/25V"
 			(at 208.28 128.27 90)
 			(effects
 				(font
@@ -7631,7 +7577,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 212.09 132.3848 0)
 			(effects
 				(font
@@ -7658,7 +7604,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C13967"
+		(property "JLC" "C1623"
 			(at 208.28 133.35 0)
 			(effects
 				(font
@@ -8016,7 +7962,7 @@
 			(uuid "b9a35d8e-d0a5-43ef-a56d-e21a7153cfc0")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "C27")
 					(unit 1)
@@ -8052,7 +7998,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 129.2352 156.21 0)
 			(effects
 				(font
@@ -8428,7 +8374,7 @@
 			(uuid "06e72fc2-bc0d-401a-95e1-0c44bd81ecd5")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "C25")
 					(unit 1)
@@ -8495,7 +8441,7 @@
 			(uuid "016e7048-9e65-4b68-b990-aa994ac01659")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "#PWR0117")
 					(unit 1)
@@ -8561,7 +8507,7 @@
 			(uuid "9de5dc60-62a2-4107-b51a-b1d3234a0d40")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "#PWR0115")
 					(unit 1)
@@ -8597,7 +8543,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 136.652 152.4 90)
 			(effects
 				(font
@@ -8973,76 +8919,9 @@
 			(uuid "a1e9c001-5dcb-4b9e-b3be-14740d01cbc1")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "R51")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 195.58 140.97 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9e467126-1e29-43bc-b694-5a80202fab10")
-		(property "Reference" "#PWR0119"
-			(at 201.93 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 199.39 140.9699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 195.58 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 195.58 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 195.58 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6be002fc-3c17-4ae8-b071-bd5e7ee824b7")
-		)
-		(instances
-			(project "hw-xbot-devkit"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
-					(reference "#PWR0119")
 					(unit 1)
 				)
 			)
@@ -9106,466 +8985,9 @@
 			(uuid "5949a82d-52c7-43d6-a94d-3f8459bfa697")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "#PWR0114")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 336.55 132.08 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a04c41a0-83a3-4f7f-9daa-edfca76bbc54")
-		(property "Reference" "C36"
-			(at 339.725 129.9209 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "680uF"
-			(at 339.725 132.4609 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_10x12.5"
-			(at 337.5152 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number" "GVM1V681M1010"
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Stock_PN" "CP-SMD-680uF-35V"
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" "P124828TR-ND"
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLC" "C413667"
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "APPLICATION" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CASE" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIGURATION" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONNECTOR" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CURRENT_RATING" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Centerline_Pitch" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DESIGNATOR" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "EU_RoHS_Compliance" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FINISH" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_PATH" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_REFERENCE" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GENDER" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_DATE" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_NOTE" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_PATH" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_REF" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_LINK" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Number_of_Positions" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ORIENTATION" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_DESCRIPTION" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_REV" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PITCH" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "POSITIONS" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Product_Type" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RESISTANCE" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_COMPLIANT" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SIGNAL_INTEGRITY" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPICE_MODEL" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TYPE" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_AC" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_DC" ""
-			(at 336.55 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c11a1d7e-6cbb-4686-8c59-acb77485f700")
-		)
-		(pin "2"
-			(uuid "ba9dae07-4d09-42e9-bb0d-939911cdb81e")
-		)
-		(instances
-			(project "hw-xbot-devkit"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
-					(reference "C36")
 					(unit 1)
 				)
 			)
@@ -9629,7 +9051,7 @@
 			(uuid "8422678c-e0ec-44b4-9ba4-f77346a42c20")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "#PWR0116")
 					(unit 1)
@@ -9695,7 +9117,7 @@
 			(uuid "d1b14115-2cca-4602-a8aa-3a6ddf54f6ac")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "#PWR0141")
 					(unit 1)
@@ -9761,7 +9183,7 @@
 			(uuid "7c9889dc-13ea-45a2-945b-f2ab8ab6cc8f")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "#PWR0113")
 					(unit 1)
@@ -9797,7 +9219,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 249.8852 140.97 0)
 			(effects
 				(font
@@ -10173,431 +9595,9 @@
 			(uuid "12853c98-641f-4c43-b99f-320a9b20d7d0")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "C28")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 318.77 132.08 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c4e1f5e6-39d4-4e01-9d8e-4d30b65c951e")
-		(property "Reference" "C34"
-			(at 314.96 130.8099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "100nF"
-			(at 314.96 133.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 319.7352 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLC" "C307331"
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "APPLICATION" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CASE" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIGURATION" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONNECTOR" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CURRENT_RATING" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Centerline_Pitch" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DESIGNATOR" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "EU_RoHS_Compliance" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FINISH" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_PATH" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_REFERENCE" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GENDER" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_DATE" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_NOTE" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_PATH" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_REF" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_LINK" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Number_of_Positions" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ORIENTATION" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_DESCRIPTION" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_REV" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PITCH" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "POSITIONS" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Product_Type" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RESISTANCE" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_COMPLIANT" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SIGNAL_INTEGRITY" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPICE_MODEL" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TYPE" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_AC" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_DC" ""
-			(at 318.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8077920b-d358-4acc-aaca-459ac9433dda")
-		)
-		(pin "2"
-			(uuid "cd51cc20-c836-412b-8120-6b318f51c5b0")
-		)
-		(instances
-			(project "hw-xbot-devkit"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
-					(reference "C34")
 					(unit 1)
 				)
 			)
@@ -10622,7 +9622,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2uF"
+		(property "Value" "2.2uF/16V"
 			(at 210.82 111.7599 0)
 			(effects
 				(font
@@ -10631,7 +9631,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 207.9752 114.3 0)
 			(effects
 				(font
@@ -10658,7 +9658,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C377773"
+		(property "JLC" "C23630"
 			(at 207.01 110.49 0)
 			(effects
 				(font
@@ -11016,7 +10016,7 @@
 			(uuid "a5f4e353-c14d-403f-8c5d-020b984b8f06")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "C26")
 					(unit 1)
@@ -11026,15 +10026,16 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 280.67 132.08 0)
+		(at 270.51 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "cf75948c-4847-407a-90a3-6fd0e9d01ae4")
-		(property "Reference" "C31"
-			(at 282.448 142.24 90)
+		(fields_autoplaced yes)
+		(uuid "cf32a877-1576-4b54-aafa-d0f8ffd65bb3")
+		(property "Reference" "C30"
+			(at 274.32 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11042,8 +10043,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uF@6.3V"
-			(at 284.988 142.24 90)
+		(property "Value" "47uF/10V"
+			(at 274.32 133.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11052,7 +10053,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
-			(at 281.6352 135.89 0)
+			(at 271.4752 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11061,7 +10062,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 280.67 132.08 0)
+			(at 270.51 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11070,7 +10071,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 280.67 132.08 0)
+			(at 270.51 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11078,350 +10079,8 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C15008"
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "APPLICATION" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CASE" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIGURATION" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONNECTOR" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CURRENT_RATING" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Centerline_Pitch" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DESIGNATOR" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "EU_RoHS_Compliance" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FINISH" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_PATH" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_REFERENCE" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GENDER" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_DATE" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_NOTE" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_PATH" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_REF" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_LINK" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Number_of_Positions" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ORIENTATION" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_DESCRIPTION" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_REV" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PITCH" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "POSITIONS" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Product_Type" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RESISTANCE" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_COMPLIANT" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SIGNAL_INTEGRITY" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPICE_MODEL" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TYPE" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_AC" ""
-			(at 280.67 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_DC" ""
-			(at 280.67 132.08 0)
+		(property "JLC" "C96123"
+			(at 270.51 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11430,435 +10089,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "51b855bc-9d1c-48ac-9871-fd93a8ff4517")
+			(uuid "57b24bd9-9efa-4ce9-8a86-7df238f26032")
 		)
 		(pin "2"
-			(uuid "50049a98-2aa7-4406-a4c2-af9fa2a2b08b")
+			(uuid "b9f08498-6281-488e-827d-b50749b42952")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
-					(reference "C31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 265.43 132.08 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e4d64352-9d44-40bb-a7fb-1be4f03df2ee")
-		(property "Reference" "C29"
-			(at 267.208 142.24 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100uF@6.3V"
-			(at 269.748 142.24 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
-			(at 266.3952 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLC" "C15008"
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "APPLICATION" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CASE" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIGURATION" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONNECTOR" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CURRENT_RATING" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Centerline_Pitch" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DESIGNATOR" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "EU_RoHS_Compliance" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FINISH" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_PATH" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_REFERENCE" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GENDER" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_DATE" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_NOTE" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_PATH" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_REF" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_LINK" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Number_of_Positions" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ORIENTATION" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_DESCRIPTION" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_REV" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PITCH" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "POSITIONS" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Product_Type" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RESISTANCE" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_COMPLIANT" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SIGNAL_INTEGRITY" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPICE_MODEL" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TYPE" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_AC" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_DC" ""
-			(at 265.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2929832f-80c1-47b1-97cd-820c29267ced")
-		)
-		(pin "2"
-			(uuid "5eca2f1f-e196-47a7-874f-18047b0a3d17")
-		)
-		(instances
-			(project "hw-xbot-devkit"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
-					(reference "C29")
+					(reference "C30")
 					(unit 1)
 				)
 			)
@@ -12277,7 +10516,7 @@
 			(uuid "c0ee1874-9077-4b93-8235-df58d590d15c")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "C24")
 					(unit 1)
@@ -12344,7 +10583,7 @@
 			(uuid "ece70945-7ce9-46e8-8095-f99b2d38c04b")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "#PWR0138")
 					(unit 1)
@@ -12380,7 +10619,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 234.442 144.78 90)
 			(effects
 				(font
@@ -12407,7 +10646,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C149504"
+		(property "JLC" "C122538"
 			(at 236.22 144.78 0)
 			(effects
 				(font
@@ -12765,7 +11004,7 @@
 			(uuid "50058455-65cb-468e-8c52-cdc86cbe5137")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "R57")
 					(unit 1)
@@ -13186,7 +11425,7 @@
 			(uuid "ac361a56-83e7-406b-be88-f9cc48edd98a")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/71e66163-297a-487a-b761-c3ab25312c26"
 					(reference "R62")
 					(unit 1)

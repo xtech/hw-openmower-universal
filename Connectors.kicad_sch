@@ -1805,12 +1805,6 @@
 		)
 	)
 	(junction
-		(at 95.25 166.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "16c0b505-86bd-4d33-81d9-16a3e9b6ac41")
-	)
-	(junction
 		(at 234.95 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2144,7 +2138,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 166.37) (xy 95.25 177.8)
+			(xy 95.25 152.4) (xy 95.25 177.8)
 		)
 		(stroke
 			(width 0)
@@ -2671,16 +2665,6 @@
 			(type default)
 		)
 		(uuid "a4486099-9e5d-4eea-a771-26887f371b96")
-	)
-	(wire
-		(pts
-			(xy 95.25 152.4) (xy 95.25 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a6473def-fef1-45db-8a6e-0caf083f482f")
 	)
 	(wire
 		(pts
@@ -3928,7 +3912,7 @@
 			(uuid "70bb286d-e244-416e-9674-03677ad55acc")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "J7")
 					(unit 1)
@@ -4347,7 +4331,7 @@
 			(uuid "98db4a6a-4718-4f2e-9c89-ff9e70188ff6")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "R7")
 					(unit 1)
@@ -4766,7 +4750,7 @@
 			(uuid "4100884b-82e9-4b22-97d1-3ffb4c11c93f")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "C9")
 					(unit 1)
@@ -5185,428 +5169,9 @@
 			(uuid "d016c35e-0a74-4a51-bdc9-626404fa40b5")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "C5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 99.06 166.37 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "31252bfb-62b3-4f90-93d6-005244de6ace")
-		(property "Reference" "C10"
-			(at 99.06 158.75 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100nF@50V"
-			(at 99.06 161.29 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 95.25 167.3352 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLC" "C307331"
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "APPLICATION" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CASE" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIGURATION" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONNECTOR" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CURRENT_RATING" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Centerline_Pitch" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DESIGNATOR" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "EU_RoHS_Compliance" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FINISH" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_PATH" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_REFERENCE" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GENDER" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_DATE" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_NOTE" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_PATH" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_REF" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_LINK" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Number_of_Positions" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ORIENTATION" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_DESCRIPTION" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_REV" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PITCH" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "POSITIONS" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Product_Type" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RESISTANCE" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_COMPLIANT" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SIGNAL_INTEGRITY" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPICE_MODEL" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TYPE" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_AC" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_DC" ""
-			(at 99.06 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "cb41af23-6740-46f8-91e7-8e9d5f824d1b")
-		)
-		(pin "1"
-			(uuid "421f0b70-0ec7-4f88-96e6-3f19de766090")
-		)
-		(instances
-			(project "hw-xbot-devkit"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
-					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -6034,7 +5599,7 @@
 			(uuid "57ebb30a-2f83-4793-81be-e04911d418f2")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "U3")
 					(unit 1)
@@ -6102,7 +5667,7 @@
 			(uuid "0ee1c210-e1ed-4d02-bb25-d3dfbd4811eb")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "#PWR016")
 					(unit 1)
@@ -6168,7 +5733,7 @@
 			(uuid "67dcd747-5641-464f-9c09-e5deedcca5b6")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "#PWR033")
 					(unit 1)
@@ -6587,7 +6152,7 @@
 			(uuid "f6c96ca8-5696-420a-814e-6cabd9bf7638")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "C4")
 					(unit 1)
@@ -7006,7 +6571,7 @@
 			(uuid "46916b72-584e-4c61-80be-2e5e7e65b318")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "R14")
 					(unit 1)
@@ -7074,7 +6639,7 @@
 			(uuid "32578db6-3e0d-45dc-9d0e-aaef0d5fd1dc")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "#PWR020")
 					(unit 1)
@@ -7141,7 +6706,7 @@
 			(uuid "dfc435b0-5749-4d87-9f62-d7c7e9c94777")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "#PWR022")
 					(unit 1)
@@ -7560,7 +7125,7 @@
 			(uuid "bff4ae3a-7cf8-4adf-a81c-b01898d159eb")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "R11")
 					(unit 1)
@@ -8001,7 +7566,7 @@
 			(uuid "9fa3b777-71ae-425b-81b4-6924a72c298b")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "J6")
 					(unit 1)
@@ -8420,7 +7985,7 @@
 			(uuid "6d21c49e-0e17-4763-8e6e-188d59f45d0d")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "C15")
 					(unit 1)
@@ -8840,7 +8405,7 @@
 			(uuid "91421d06-a494-4df8-9717-b2f3f59f025b")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "R8")
 					(unit 1)
@@ -9259,7 +8824,7 @@
 			(uuid "e6992ae6-1f25-4cab-a0f5-6a0727d8de71")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "C14")
 					(unit 1)
@@ -9678,7 +9243,7 @@
 			(uuid "f012d069-1a27-471a-b483-49e22cf0f28a")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "R12")
 					(unit 1)
@@ -9745,7 +9310,7 @@
 			(uuid "2c9a916a-4c49-4bad-8f58-9009dcbad6be")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "#PWR023")
 					(unit 1)
@@ -9813,77 +9378,9 @@
 			(uuid "3340bdd7-de00-4429-b5b8-d2520ec31bf1")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "#PWR012")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 102.87 166.37 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b530b862-0b83-4714-926d-950b6e50cfc7")
-		(property "Reference" "#PWR021"
-			(at 109.22 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 106.68 166.3699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 102.87 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 102.87 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 102.87 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c715bf81-8100-405b-b46f-8b74ada3f7cb")
-		)
-		(instances
-			(project "hw-xbot-devkit"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
-					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -9948,7 +9445,7 @@
 			(uuid "5425f836-0272-48b8-968b-bf59655efa76")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "#PWR014")
 					(unit 1)
@@ -10015,7 +9512,7 @@
 			(uuid "01e1b77c-fca7-4a36-a97f-3a4c855b5807")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "#PWR015")
 					(unit 1)
@@ -10081,7 +9578,7 @@
 			(uuid "64ff5993-747a-4691-b07d-b873451cb70d")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "#PWR031")
 					(unit 1)
@@ -10500,7 +9997,7 @@
 			(uuid "258f4cb8-3e10-4b2e-8acd-0d43cf5f1ec0")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "R13")
 					(unit 1)
@@ -11084,7 +10581,7 @@
 			(uuid "c725c33a-a653-430e-bf81-ac22c42c5dae")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8/5c5bf481-2b1d-44ba-859c-79de071ec3d5"
 					(reference "J8")
 					(unit 1)

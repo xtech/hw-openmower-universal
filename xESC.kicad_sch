@@ -5096,7 +5096,7 @@
 			(uuid "35ae6178-5d33-49fe-9a95-59cf97f71ccd")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "C97")
 					(unit 1)
@@ -5185,7 +5185,7 @@
 			(uuid "caf07e08-dcfe-4f9b-982d-0e9f9a1349a9")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "U28")
 					(unit 1)
@@ -5608,7 +5608,7 @@
 			)
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/0359b790-c26c-4759-a59f-5a6b50a14036"
 					(reference "U41")
 					(unit 1)
@@ -6046,7 +6046,7 @@
 			(uuid "bafa1820-707e-4d3c-b32c-c2933bc0bc45")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/0359b790-c26c-4759-a59f-5a6b50a14036"
 					(reference "D17")
 					(unit 1)
@@ -6518,7 +6518,7 @@
 			(uuid "c78a2bdb-683a-4b22-8101-a17d684aabae")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/0359b790-c26c-4759-a59f-5a6b50a14036"
 					(reference "U10")
 					(unit 1)
@@ -6954,7 +6954,7 @@
 			(uuid "fa9a57d2-f39b-4e53-a573-7aceacc4b607")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/0359b790-c26c-4759-a59f-5a6b50a14036"
 					(reference "D20")
 					(unit 1)
@@ -7383,7 +7383,7 @@
 			(uuid "ddb222d5-fa5b-456f-805a-d38207527a7e")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "C105")
 					(unit 1)
@@ -7457,7 +7457,7 @@
 			(uuid "de6e3d28-5b02-4361-85d6-25c10a802a12")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "#PWR069")
 					(unit 1)
@@ -7880,7 +7880,7 @@
 			)
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/0359b790-c26c-4759-a59f-5a6b50a14036"
 					(reference "U20")
 					(unit 1)
@@ -7966,7 +7966,7 @@
 			(uuid "e8223f2e-16e1-4f9b-9d59-63c346c608ba")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "R78")
 					(unit 1)
@@ -8041,7 +8041,7 @@
 			(uuid "e0ba1d8e-fde0-4fb6-b1d4-7c2980bca0e0")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "#PWR094")
 					(unit 1)
@@ -8115,7 +8115,7 @@
 			(uuid "1bbe14da-c669-4a77-a41d-3c550f0377f0")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "#PWR085")
 					(unit 1)
@@ -8544,7 +8544,7 @@
 			(uuid "c81b5190-1b5a-4bc1-933c-5f731e5310ca")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/0359b790-c26c-4759-a59f-5a6b50a14036"
 					(reference "C75")
 					(unit 1)
@@ -8618,7 +8618,7 @@
 			(uuid "2cd50591-9c7b-461f-a50a-3db5b916b523")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "#PWR082")
 					(unit 1)
@@ -9041,7 +9041,7 @@
 			)
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/0359b790-c26c-4759-a59f-5a6b50a14036"
 					(reference "U38")
 					(unit 1)
@@ -9470,7 +9470,7 @@
 			(uuid "7d22b225-c9c2-47bc-9cab-f09ba9a0b3a2")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "C61")
 					(unit 1)
@@ -9544,7 +9544,7 @@
 			(uuid "b5b5488a-a407-4b62-ba94-fa138e0fd2e6")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/0359b790-c26c-4759-a59f-5a6b50a14036"
 					(reference "#PWR0137")
 					(unit 1)
@@ -9618,7 +9618,7 @@
 			(uuid "19b9aff1-d43c-4c9e-8d7d-e40087b3f4de")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "#PWR066")
 					(unit 1)
@@ -10041,7 +10041,7 @@
 			)
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/0359b790-c26c-4759-a59f-5a6b50a14036"
 					(reference "U35")
 					(unit 1)
@@ -10464,7 +10464,7 @@
 			)
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/0359b790-c26c-4759-a59f-5a6b50a14036"
 					(reference "U32")
 					(unit 1)
@@ -10887,7 +10887,7 @@
 			)
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/0359b790-c26c-4759-a59f-5a6b50a14036"
 					(reference "U23")
 					(unit 1)
@@ -11036,7 +11036,7 @@
 			(uuid "492d5fb1-02ce-42ef-b6f8-9d18bb1329cd")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "J45")
 					(unit 1)
@@ -11465,7 +11465,7 @@
 			(uuid "a9ae979b-5fc8-4bb3-afbe-8ced1459fbdf")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "C88")
 					(unit 1)
@@ -11539,7 +11539,7 @@
 			(uuid "97eb9eb1-c410-4788-ae71-537dad18e464")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "#PWR073")
 					(unit 1)
@@ -11626,7 +11626,7 @@
 			(uuid "f908dd45-8d04-4599-bad9-623b416259fb")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "J48")
 					(unit 1)
@@ -12055,7 +12055,7 @@
 			(uuid "48776adb-4fa5-4cdd-9162-a1812bb82d6e")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "R31")
 					(unit 1)
@@ -12484,7 +12484,7 @@
 			(uuid "884c24c3-003b-4e4e-81cc-30a569cbb23e")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "C85")
 					(unit 1)
@@ -12558,7 +12558,7 @@
 			(uuid "522a3636-f68c-4f83-94c9-b9308c3bb01c")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/0359b790-c26c-4759-a59f-5a6b50a14036"
 					(reference "#PWR0134")
 					(unit 1)
@@ -12986,7 +12986,7 @@
 			(uuid "70f713bd-1233-4b4c-bd05-3022e514ad9e")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "D4")
 					(unit 1)
@@ -13060,7 +13060,7 @@
 			(uuid "3ba88d21-0485-4d16-97ce-c0cb97cfbe91")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "#PWR079")
 					(unit 1)
@@ -13489,7 +13489,7 @@
 			(uuid "3e2db33c-e9af-464d-9b11-3309eb563825")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "C102")
 					(unit 1)
@@ -13565,7 +13565,7 @@
 			(uuid "dd7fe2e5-e071-4215-b86f-932f1388e5e1")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "J39")
 					(unit 1)
@@ -13640,7 +13640,7 @@
 			(uuid "f2a2d180-a497-4b7d-b1a6-c909898fbd8d")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "#PWR097")
 					(unit 1)
@@ -13718,7 +13718,7 @@
 			(uuid "09076505-d470-450b-9dd1-5d76bedc08ee")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/0359b790-c26c-4759-a59f-5a6b50a14036"
 					(reference "R27")
 					(unit 1)
@@ -13799,7 +13799,7 @@
 			(uuid "ea170205-11ba-41d5-8607-9b67a0994dc4")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "J22")
 					(unit 1)
@@ -14228,7 +14228,7 @@
 			(uuid "76c2d971-2209-425a-b5b8-ac47854b2c4f")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "C108")
 					(unit 1)
@@ -14314,7 +14314,7 @@
 			(uuid "bca4cb35-41eb-4437-a725-8158510390d8")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "R43")
 					(unit 1)
@@ -14743,7 +14743,7 @@
 			(uuid "fcc5f54d-b454-45b0-8771-d42392b89c8a")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "C91")
 					(unit 1)
@@ -14820,7 +14820,7 @@
 			(uuid "a6b1156b-8623-4b21-905d-c0df13eb4bf4")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "J42")
 					(unit 1)
@@ -15249,7 +15249,7 @@
 			(uuid "d3246b98-f75f-448a-9239-3a765798570c")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "C51")
 					(unit 1)
@@ -15678,7 +15678,7 @@
 			(uuid "beae1363-4656-4c72-9da9-ca629e273249")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/0359b790-c26c-4759-a59f-5a6b50a14036"
 					(reference "C72")
 					(unit 1)
@@ -15754,7 +15754,7 @@
 			(uuid "707930a8-2f11-4d99-a09c-3db696e6abdf")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "D31")
 					(unit 1)
@@ -16183,7 +16183,7 @@
 			(uuid "6774beed-392e-45d3-9629-5388399ac0e6")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "C111")
 					(unit 1)
@@ -16261,7 +16261,7 @@
 			(uuid "60e75991-896c-460a-8c55-60ab9df68ef1")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "R28")
 					(unit 1)
@@ -16335,7 +16335,7 @@
 			(uuid "6b8e26a9-3bee-4d48-8309-57031fb61d27")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "#PWR088")
 					(unit 1)
@@ -16771,7 +16771,7 @@
 			(uuid "b6b04517-65df-4ce2-9730-b5a54f26edba")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/0359b790-c26c-4759-a59f-5a6b50a14036"
 					(reference "D18")
 					(unit 1)
@@ -16845,7 +16845,7 @@
 			(uuid "642e0a04-04a2-4de4-8444-c03a1169872c")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "#PWR01")
 					(unit 1)
@@ -16933,7 +16933,7 @@
 			(uuid "e39309a6-7a6b-4951-8c7a-2fa8cc8ea0a5")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "J36")
 					(unit 1)
@@ -17362,7 +17362,7 @@
 			(uuid "43fa7365-f57a-44e6-9b01-aab0b9f0804b")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/0359b790-c26c-4759-a59f-5a6b50a14036"
 					(reference "C74")
 					(unit 1)
@@ -17791,7 +17791,7 @@
 			(uuid "1b834b91-182c-4647-a5b1-327f491c5115")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/0359b790-c26c-4759-a59f-5a6b50a14036"
 					(reference "C73")
 					(unit 1)
@@ -18218,7 +18218,7 @@
 			(uuid "56b68b92-68c3-482d-8a7d-ce79b17eb64d")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "C21")
 					(unit 1)
@@ -18292,7 +18292,7 @@
 			(uuid "8958bae7-50c8-47a9-9a0c-09d234306504")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "#PWR0100")
 					(unit 1)
@@ -18715,7 +18715,7 @@
 			)
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/0359b790-c26c-4759-a59f-5a6b50a14036"
 					(reference "U26")
 					(unit 1)
@@ -18789,7 +18789,7 @@
 			(uuid "2e2a57bf-9916-41da-9152-2162cfe25baa")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/0359b790-c26c-4759-a59f-5a6b50a14036"
 					(reference "#PWR0136")
 					(unit 1)
@@ -19218,7 +19218,7 @@
 			(uuid "a6793209-c6a4-45be-8fef-25ec24be9db4")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "C94")
 					(unit 1)
@@ -19647,7 +19647,7 @@
 			(uuid "072b859e-4f1f-4523-ac0a-83525ce5a739")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "C54")
 					(unit 1)
@@ -19721,7 +19721,7 @@
 			(uuid "1160de04-0f31-4387-b378-62d635b57f6b")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/0359b790-c26c-4759-a59f-5a6b50a14036"
 					(reference "#PWR0135")
 					(unit 1)
@@ -19795,7 +19795,7 @@
 			(uuid "c3841677-522d-4c0b-9f5e-b690f141b7a9")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "#PWR0103")
 					(unit 1)
@@ -19869,7 +19869,7 @@
 			(uuid "16eb28be-0c4c-4b25-b14c-11025b451483")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/0359b790-c26c-4759-a59f-5a6b50a14036"
 					(reference "#PWR0133")
 					(unit 1)
@@ -20305,7 +20305,7 @@
 			(uuid "1155e02b-7250-4059-9d72-dc74fa7e17eb")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/0359b790-c26c-4759-a59f-5a6b50a14036"
 					(reference "D19")
 					(unit 1)
@@ -20379,7 +20379,7 @@
 			(uuid "cfa73afa-9481-4e25-ae08-05473d5fa135")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "#PWR091")
 					(unit 1)
@@ -20453,7 +20453,7 @@
 			(uuid "8feb8a8e-7e52-4068-b936-40f55d41767f")
 		)
 		(instances
-			(project "hw-xbot-devkit"
+			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2dcb05ea-788f-4ed6-923e-0b0051e68de3"
 					(reference "#PWR056")
 					(unit 1)
