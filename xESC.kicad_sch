@@ -3549,7 +3549,7 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 127) (xy 284.48 128.27)
+			(xy 271.78 127) (xy 271.78 128.27)
 		)
 		(stroke
 			(width 0)
@@ -3609,7 +3609,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 127) (xy 271.78 127)
+			(xy 306.07 127) (xy 284.48 127)
 		)
 		(stroke
 			(width 0)
@@ -4438,18 +4438,18 @@
 		(uuid "622b5ed9-a774-4ae6-a128-eb9a0f475966")
 	)
 	(label "HALL_SENSOR.U"
-		(at 254 127 0)
+		(at 306.07 121.92 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "65e48a2e-b500-45b3-82ef-2b3a3d408d4d")
 	)
 	(label "HALL_SENSOR.V"
-		(at 306.07 121.92 180)
+		(at 306.07 124.46 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4471,7 +4471,7 @@
 		(uuid "7b9f17c2-932e-4c20-b086-e79de90553e6")
 	)
 	(label "HALL_SENSOR.W"
-		(at 306.07 124.46 180)
+		(at 306.07 127 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7963,7 +7963,8 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 284.48 128.27 0)
+		(at 271.78 128.27 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7972,7 +7973,7 @@
 		(fields_autoplaced yes)
 		(uuid "4a7e7660-8d20-4a55-bfc5-45f7cda539a7")
 		(property "Reference" "#PWR085"
-			(at 284.48 134.62 0)
+			(at 271.78 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7981,7 +7982,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 284.48 133.35 0)
+			(at 271.78 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7989,7 +7990,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 284.48 128.27 0)
+			(at 271.78 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7998,7 +7999,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 284.48 128.27 0)
+			(at 271.78 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8007,7 +8008,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 284.48 128.27 0)
+			(at 271.78 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)

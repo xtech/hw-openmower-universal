@@ -3987,6 +3987,12 @@
 		(uuid "4c56588b-4213-4d42-b635-4a8d3a08eff8")
 	)
 	(junction
+		(at 176.53 -27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4fd67242-b72e-4d6e-9948-eb83a8677b2e")
+	)
+	(junction
 		(at 109.22 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4075,6 +4081,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9da63cb5-a685-4e99-abbe-9f07d60c825f")
+	)
+	(junction
+		(at 161.29 -35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9edb9e1d-55d2-4d4a-842c-fe93e12f5057")
 	)
 	(junction
 		(at 422.91 124.46)
@@ -4189,12 +4201,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d8fba985-ddec-4c96-8d29-93e21e9bd619")
-	)
-	(junction
-		(at 176.53 -27.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d9d50816-ed99-43e7-a5fd-e47ab1488864")
 	)
 	(junction
 		(at 82.55 55.88)
@@ -4559,16 +4565,6 @@
 			(type default)
 		)
 		(uuid "1f7733c1-812c-43af-8816-b4ccd020b98a")
-	)
-	(wire
-		(pts
-			(xy 161.29 -35.56) (xy 149.86 -35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1fa480da-0500-4706-9809-cedad4df859d")
 	)
 	(wire
 		(pts
@@ -4942,16 +4938,6 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 -27.94) (xy 176.53 -27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4d8d5236-d62a-4f49-8972-ca0c39856a6f")
-	)
-	(wire
-		(pts
 			(xy 151.13 102.87) (xy 185.42 102.87)
 		)
 		(stroke
@@ -4959,6 +4945,16 @@
 			(type default)
 		)
 		(uuid "50cba1f4-7df7-4b24-901c-73fbdbda0752")
+	)
+	(wire
+		(pts
+			(xy 176.53 -35.56) (xy 176.53 -27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5136473a-087d-45a1-adfb-fc9208b1ef2e")
 	)
 	(wire
 		(pts
@@ -5229,6 +5225,16 @@
 			(type default)
 		)
 		(uuid "7a76cd19-a7e4-4d31-8322-e369e030e2ca")
+	)
+	(wire
+		(pts
+			(xy 161.29 -35.56) (xy 176.53 -35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d7bad6d-920d-49eb-b728-d4e50362915e")
 	)
 	(wire
 		(pts
@@ -5922,6 +5928,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 -35.56) (xy 152.4 -35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cdc0bf7f-d49c-4692-8fd6-3b874aaba585")
+	)
+	(wire
+		(pts
 			(xy 121.92 55.88) (xy 238.76 55.88)
 		)
 		(stroke
@@ -6129,6 +6145,16 @@
 			(type default)
 		)
 		(uuid "e6a4abfb-9eba-46c7-bb01-857fb68ebcd5")
+	)
+	(wire
+		(pts
+			(xy 160.02 -35.56) (xy 161.29 -35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8370b8f-c6c2-4bd4-9046-1f8bbb81cff1")
 	)
 	(wire
 		(pts
@@ -7623,7 +7649,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "120k"
 			(at 163.83 -30.4801 0)
 			(effects
 				(font
@@ -7632,7 +7658,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 159.512 -31.75 90)
 			(effects
 				(font
@@ -7651,6 +7677,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 161.29 -31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C25808"
 			(at 161.29 -31.75 0)
 			(effects
 				(font
@@ -11810,7 +11845,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "22k"
 			(at 163.83 -22.8601 0)
 			(effects
 				(font
@@ -11819,7 +11854,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 159.512 -24.13 90)
 			(effects
 				(font
@@ -11838,6 +11873,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 161.29 -24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C31850"
 			(at 161.29 -24.13 0)
 			(effects
 				(font
@@ -31873,6 +31917,83 @@
 			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2930b75f-7142-4414-b99a-728851a6a7da/06123601-78a7-45a5-9135-d0172885f72e"
 					(reference "C78")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:L")
+		(at 156.21 -35.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "df9901ff-dc38-4e2d-8719-2953c1d1ecdc")
+		(property "Reference" "L2"
+			(at 156.21 -39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "47uH"
+			(at 156.21 -36.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_Sunlord_SWPA5040S"
+			(at 156.21 -35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 156.21 -35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Inductor"
+			(at 156.21 -35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C86617"
+			(at 156.21 -35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "088dcc73-ce14-418e-b687-31b899cfbaa0")
+		)
+		(pin "2"
+			(uuid "062d2f27-aea4-4222-9c5e-e6c78d117238")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2930b75f-7142-4414-b99a-728851a6a7da/06123601-78a7-45a5-9135-d0172885f72e"
+					(reference "L2")
 					(unit 1)
 				)
 			)
