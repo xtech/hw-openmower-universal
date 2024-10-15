@@ -116,6 +116,7 @@
 		(drill 0.6)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(zone_connect 2)
 		(uuid "aa2a5c47-ffa8-4c77-9149-4cd8b7c44948")
 	)
 	(pad "2" thru_hole circle
@@ -124,6 +125,7 @@
 		(drill 0.6)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(zone_connect 2)
 		(uuid "039bc992-a30d-4a00-882b-dec703b34303")
 	)
 	(pad "3" thru_hole circle
@@ -132,6 +134,7 @@
 		(drill 0.6)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(zone_connect 2)
 		(uuid "797f8ccc-97d9-4c5f-9786-12d77e30f168")
 	)
 )
