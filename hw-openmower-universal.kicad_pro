@@ -1072,16 +1072,8 @@
       "DCDC"
     ],
     [
-      "81b10ec4-e8a8-41c0-a60c-c42e77e8cd0d",
-      "AuxPSU"
-    ],
-    [
       "2930b75f-7142-4414-b99a-728851a6a7da",
       "subpcb_charger"
-    ],
-    [
-      "071ae788-b4b6-41d7-84cd-c6677942e0cd",
-      "subpcb_aux"
     ]
   ],
   "text_variables": {

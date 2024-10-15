@@ -523,6 +523,12 @@
 		)
 	)
 	(junction
+		(at 63.5 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0241bb98-8aba-48de-ba2f-733dcff45675")
+	)
+	(junction
 		(at 36.83 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -541,6 +547,12 @@
 		(uuid "06f3f3df-36cb-4bae-9fbf-1042cb4c9e11")
 	)
 	(junction
+		(at 72.39 187.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "07b4892b-edc5-489b-bd05-18d5d878530a")
+	)
+	(junction
 		(at 36.83 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -557,12 +569,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0fbedc62-0c8e-4105-a861-64df004b22de")
-	)
-	(junction
-		(at 39.37 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "17bbed85-9ad0-4b96-a437-177b21a8991d")
 	)
 	(junction
 		(at 160.02 83.82)
@@ -589,6 +595,12 @@
 		(uuid "280e334c-f1f3-4983-a34b-0d943408295e")
 	)
 	(junction
+		(at 58.42 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3a7f9e4d-c1ec-4262-8de6-25c61294824d")
+	)
+	(junction
 		(at 134.62 127)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -613,12 +625,6 @@
 		(uuid "56adc72a-47af-4af9-be14-8036e32f054c")
 	)
 	(junction
-		(at 41.91 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5cd7e636-0b22-4fc5-901d-fea9aa4d7e3d")
-	)
-	(junction
 		(at 151.13 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -629,6 +635,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6a7af438-6648-4478-8c65-5ce621ca9747")
+	)
+	(junction
+		(at 58.42 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "744c9e4a-a6f8-4852-9fe7-5f6167517577")
 	)
 	(junction
 		(at 120.65 87.63)
@@ -661,16 +673,16 @@
 		(uuid "7f155ab9-4fa3-4335-b2d5-368c6f4a29ac")
 	)
 	(junction
-		(at 41.91 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "82b81d1b-951a-4469-90db-e9dfc7bf9b5f")
-	)
-	(junction
 		(at 62.23 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "86a30bac-6060-41ef-8f50-fe60e0fa1818")
+	)
+	(junction
+		(at 69.85 187.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "879ef944-139a-47f7-9b48-7ad9c2df270f")
 	)
 	(junction
 		(at 63.5 114.3)
@@ -685,16 +697,16 @@
 		(uuid "8d3af374-c123-4bf1-a81b-333cffac19a4")
 	)
 	(junction
-		(at 39.37 68.58)
+		(at 59.69 187.96)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "8e655ef4-ebfa-4b97-a0d5-83ea04412f14")
+		(uuid "9a8ef8a5-fa65-48cd-bd97-fbc9c7adf341")
 	)
 	(junction
-		(at 36.83 83.82)
+		(at 63.5 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "983d607c-c6b9-450b-b6bc-3a63699afef9")
+		(uuid "9adaeb3b-c460-415a-88cc-9b2b4f601b17")
 	)
 	(junction
 		(at 62.23 36.83)
@@ -709,16 +721,16 @@
 		(uuid "ab4acc2d-a97b-445b-a176-09e7866bf6e1")
 	)
 	(junction
-		(at 36.83 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bac44263-6c15-4cfd-8002-f25ebe190358")
-	)
-	(junction
 		(at 59.69 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bd235a96-5059-4488-8ca5-8af4c88b8316")
+	)
+	(junction
+		(at 57.15 187.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c091bd5f-3984-47e7-96a1-f7a9cb065acf")
 	)
 	(junction
 		(at 49.53 36.83)
@@ -775,12 +787,6 @@
 		(uuid "e3fd1b15-5bcf-4773-ae69-f262b9bee3e3")
 	)
 	(junction
-		(at 289.56 124.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "eb51f851-5268-44ac-8a62-6194413ecd2c")
-	)
-	(junction
 		(at 181.61 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -797,6 +803,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fd457e0c-1aec-4a07-bb09-03a3d0a62e7c")
+	)
+	(junction
+		(at 62.23 187.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fe924849-0f1a-4eb5-a3f9-d0516bf3b531")
 	)
 	(bus_entry
 		(at 269.24 144.78)
@@ -908,6 +920,16 @@
 	)
 	(wire
 		(pts
+			(xy 58.42 153.67) (xy 58.42 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00a1134d-6ffb-493a-9131-2544db9f6d45")
+	)
+	(wire
+		(pts
 			(xy 287.02 127) (xy 276.86 127)
 		)
 		(stroke
@@ -925,16 +947,6 @@
 			(type default)
 		)
 		(uuid "0b392edf-0485-4ee3-8daa-ea1a74f8ce92")
-	)
-	(wire
-		(pts
-			(xy 41.91 66.04) (xy 41.91 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0b85433e-b299-4d77-9b34-4479e4e976b6")
 	)
 	(wire
 		(pts
@@ -978,16 +990,6 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 68.58) (xy 36.83 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "19170f6b-6a6e-401a-8ed4-c17bc2fcebd6")
-	)
-	(wire
-		(pts
 			(xy 276.86 127) (xy 276.86 163.83)
 		)
 		(stroke
@@ -1025,6 +1027,16 @@
 			(type default)
 		)
 		(uuid "21e4f89d-2a3a-4ca4-968e-71578b854344")
+	)
+	(wire
+		(pts
+			(xy 59.69 187.96) (xy 62.23 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21e5de3e-916b-4ec3-a823-35fa90b03a74")
 	)
 	(wire
 		(pts
@@ -1158,16 +1170,6 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 66.04) (xy 36.83 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38e8b195-f729-4d60-9e68-69df4600f9a2")
-	)
-	(wire
-		(pts
 			(xy 151.13 87.63) (xy 151.13 127)
 		)
 		(stroke
@@ -1208,26 +1210,6 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 83.82) (xy 46.99 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ea63be8-01f5-4e08-9ff9-d3b9ac0bdce2")
-	)
-	(wire
-		(pts
-			(xy 39.37 68.58) (xy 41.91 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ea69d62-2d0e-4ac3-8f40-8d2a358a914f")
-	)
-	(wire
-		(pts
 			(xy 287.02 100.33) (xy 287.02 127)
 		)
 		(stroke
@@ -1258,16 +1240,6 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 83.82) (xy 39.37 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3fc1655f-3b59-4b3e-b171-9c14e4a0d2d8")
-	)
-	(wire
-		(pts
 			(xy 62.23 36.83) (xy 67.31 36.83)
 		)
 		(stroke
@@ -1275,16 +1247,6 @@
 			(type default)
 		)
 		(uuid "400093e7-ac11-40d7-850b-02aa8202d265")
-	)
-	(wire
-		(pts
-			(xy 36.83 68.58) (xy 39.37 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "408be4b1-3ff9-4095-87eb-8bd76f3d393e")
 	)
 	(wire
 		(pts
@@ -1305,6 +1267,16 @@
 			(type default)
 		)
 		(uuid "461030f0-0aac-4ee5-84a8-07d069868dda")
+	)
+	(wire
+		(pts
+			(xy 66.04 137.16) (xy 63.5 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "462cf05f-a21b-443a-b583-a0c7bc6842c7")
 	)
 	(bus
 		(pts
@@ -1428,16 +1400,6 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 66.04) (xy 31.75 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6471447f-1f5a-4fd4-9d57-59c465fa490d")
-	)
-	(wire
-		(pts
 			(xy 55.88 36.83) (xy 59.69 36.83)
 		)
 		(stroke
@@ -1478,6 +1440,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 130.81) (xy 63.5 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6baf2a7b-e112-40c4-b402-f3886fc90333")
+	)
+	(wire
+		(pts
 			(xy 120.65 78.74) (xy 120.65 87.63)
 		)
 		(stroke
@@ -1498,17 +1470,7 @@
 	)
 	(wire
 		(pts
-			(xy 306.07 186.69) (xy 326.39 186.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6d3b8d45-bfca-4f6e-9419-db108d566b10")
-	)
-	(wire
-		(pts
-			(xy 289.56 124.46) (xy 289.56 129.54)
+			(xy 289.56 100.33) (xy 289.56 129.54)
 		)
 		(stroke
 			(width 0)
@@ -1568,16 +1530,6 @@
 	)
 	(wire
 		(pts
-			(xy 297.18 151.13) (xy 308.61 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "799d58f9-cead-4cc3-91b8-d0587c02fee3")
-	)
-	(wire
-		(pts
 			(xy 62.23 83.82) (xy 64.77 83.82)
 		)
 		(stroke
@@ -1585,6 +1537,16 @@
 			(type default)
 		)
 		(uuid "7b548c3e-00cc-4ba0-87e6-9506b719dae7")
+	)
+	(wire
+		(pts
+			(xy 63.5 153.67) (xy 63.5 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e4295ef-11a5-41d3-9e8d-f978e8b7794b")
 	)
 	(bus
 		(pts
@@ -1595,16 +1557,6 @@
 			(type default)
 		)
 		(uuid "7fdd544b-ffbb-4c45-9c8f-2819fd79ff84")
-	)
-	(wire
-		(pts
-			(xy 46.99 68.58) (xy 46.99 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "817add21-f5f1-43aa-9940-3812b5940f25")
 	)
 	(wire
 		(pts
@@ -1628,16 +1580,6 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 83.82) (xy 46.99 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "84d34237-7777-4fc8-b285-96b1fcf9261e")
-	)
-	(wire
-		(pts
 			(xy 63.5 107.95) (xy 63.5 114.3)
 		)
 		(stroke
@@ -1648,33 +1590,23 @@
 	)
 	(wire
 		(pts
-			(xy 308.61 151.13) (xy 308.61 184.15)
+			(xy 72.39 181.61) (xy 72.39 187.96)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8834474e-e5a3-4378-89a6-44afac46fb60")
+		(uuid "897ca252-2645-4add-8ffb-795f4fa31b06")
 	)
 	(wire
 		(pts
-			(xy 41.91 68.58) (xy 46.99 68.58)
+			(xy 57.15 181.61) (xy 57.15 187.96)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8adb1455-0f08-4e2f-ba92-0430be13b9df")
-	)
-	(wire
-		(pts
-			(xy 294.64 100.33) (xy 294.64 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8b91a262-0e47-4b38-b9b4-5c40dadfc508")
+		(uuid "8a17f4be-8269-424d-aef7-1d1781fa756c")
 	)
 	(wire
 		(pts
@@ -1738,23 +1670,13 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 81.28) (xy 31.75 83.82)
+			(xy 74.93 187.96) (xy 72.39 187.96)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "974d174a-a630-4187-8e97-94401d8dc93d")
-	)
-	(wire
-		(pts
-			(xy 326.39 181.61) (xy 316.23 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "97586e47-1307-4d73-bd09-06593a061d83")
+		(uuid "9901f98b-c34d-4ece-b96d-9b784e155df3")
 	)
 	(bus
 		(pts
@@ -1765,36 +1687,6 @@
 			(type default)
 		)
 		(uuid "99262eac-0334-44d5-bf84-32afb84cdd38")
-	)
-	(wire
-		(pts
-			(xy 39.37 83.82) (xy 41.91 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9928c34c-1859-49f1-8cf6-658a24b888b3")
-	)
-	(wire
-		(pts
-			(xy 308.61 184.15) (xy 326.39 184.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "99c6731d-7188-493b-a1e3-62c7e170d998")
-	)
-	(wire
-		(pts
-			(xy 306.07 153.67) (xy 306.07 186.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9db11c88-cec8-464a-b949-621496fdcda8")
 	)
 	(wire
 		(pts
@@ -1818,23 +1710,13 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 83.82) (xy 39.37 83.82)
+			(xy 69.85 187.96) (xy 72.39 187.96)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a6bcf9ca-a27f-4337-a305-9d73fc96c8a5")
-	)
-	(wire
-		(pts
-			(xy 316.23 124.46) (xy 289.56 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a77c59da-9171-4cff-a06b-77f1cf4e8228")
+		(uuid "a74b0c80-3e12-4e11-a0d6-f4a24f2a6459")
 	)
 	(wire
 		(pts
@@ -1888,6 +1770,26 @@
 	)
 	(wire
 		(pts
+			(xy 62.23 187.96) (xy 64.77 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af1094f8-64d3-474d-9450-fe2f37645873")
+	)
+	(wire
+		(pts
+			(xy 58.42 130.81) (xy 58.42 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2378e62-3b99-4c9f-be02-f7e2fa21938d")
+	)
+	(wire
+		(pts
 			(xy 36.83 50.8) (xy 36.83 53.34)
 		)
 		(stroke
@@ -1895,6 +1797,16 @@
 			(type default)
 		)
 		(uuid "b35b5ebc-43ee-4ab2-afb2-b2e99831deb1")
+	)
+	(wire
+		(pts
+			(xy 60.96 137.16) (xy 58.42 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b668955d-ab08-4a75-aba3-15b49a6fe2fb")
 	)
 	(bus
 		(pts
@@ -1908,13 +1820,13 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 81.28) (xy 36.83 83.82)
+			(xy 66.04 160.02) (xy 63.5 160.02)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b7cf7654-cba1-47b1-ba74-7ca75acfd77e")
+		(uuid "b68e3b32-3faf-49f9-85d1-7ba7fc887226")
 	)
 	(wire
 		(pts
@@ -1935,16 +1847,6 @@
 			(type default)
 		)
 		(uuid "bc98c354-d45f-48c0-830b-4bda5358a5a4")
-	)
-	(wire
-		(pts
-			(xy 31.75 83.82) (xy 36.83 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bcc8d648-3b9b-4fdd-9525-ba77f44ed5c2")
 	)
 	(bus
 		(pts
@@ -2068,16 +1970,6 @@
 	)
 	(wire
 		(pts
-			(xy 297.18 100.33) (xy 297.18 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cfca961d-60c6-40ee-8eb9-829af620aa9c")
-	)
-	(wire
-		(pts
 			(xy 36.83 53.34) (xy 39.37 53.34)
 		)
 		(stroke
@@ -2085,16 +1977,6 @@
 			(type default)
 		)
 		(uuid "d373f8c3-3c46-40a6-8b18-f552ad9999d4")
-	)
-	(wire
-		(pts
-			(xy 294.64 153.67) (xy 306.07 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d49305b4-3dbb-4c6b-89ce-01a2d6739e11")
 	)
 	(wire
 		(pts
@@ -2108,13 +1990,13 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 81.28) (xy 41.91 83.82)
+			(xy 57.15 187.96) (xy 59.69 187.96)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d98f4581-3cc5-408d-8a4a-6b34023a701f")
+		(uuid "d6d2b135-e19a-4d18-8a0c-c43a013576db")
 	)
 	(wire
 		(pts
@@ -2258,23 +2140,13 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 100.33) (xy 289.56 124.46)
+			(xy 67.31 187.96) (xy 69.85 187.96)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f51cf7b2-1f61-4f18-a3e1-dfb9d94d4322")
-	)
-	(wire
-		(pts
-			(xy 316.23 181.61) (xy 316.23 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f520af22-b28f-422d-9326-33ea377d9d4b")
+		(uuid "f525615e-8dfb-41f5-907d-7b3763a03f5d")
 	)
 	(wire
 		(pts
@@ -2318,16 +2190,6 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 68.58) (xy 39.37 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fb9d47e7-54f1-4505-83a8-38348bd01e9a")
-	)
-	(wire
-		(pts
 			(xy 41.91 53.34) (xy 46.99 53.34)
 		)
 		(stroke
@@ -2355,6 +2217,16 @@
 			(type default)
 		)
 		(uuid "fde57870-3151-4dc7-9d08-bba1adcd8ecf")
+	)
+	(wire
+		(pts
+			(xy 60.96 160.02) (xy 58.42 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "feb33c65-2b2e-4891-ae0c-8b42ad17b50e")
 	)
 	(wire
 		(pts
@@ -2452,8 +2324,19 @@
 		)
 		(uuid "1b73e5b6-c467-4206-94c7-6e5b95a6b35d")
 	)
+	(label "5V"
+		(at 68.58 137.16 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "277c0ea6-5134-4143-aba4-0ea62ebcc4b8")
+	)
 	(label "AGPIO1"
-		(at 76.2 114.3 90)
+		(at 71.12 114.3 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2496,6 +2379,28 @@
 		)
 		(uuid "3f97893c-a978-4966-9094-265866b78a6e")
 	)
+	(label "V_BATTERY"
+		(at 57.15 181.61 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5399d69b-a7c0-4256-89a4-680c8513c3f2")
+	)
+	(label "AGPIO2"
+		(at 71.12 137.16 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "61f94bf0-5684-421d-a8a2-2a18350a0003")
+	)
 	(label "UART2.TX"
 		(at 162.56 100.33 90)
 		(fields_autoplaced yes)
@@ -2517,6 +2422,17 @@
 			(justify left bottom)
 		)
 		(uuid "6e80568c-5467-47ba-8f0e-8c0cb9d158ea")
+	)
+	(label "UART2.TX"
+		(at 73.66 137.16 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "713c694c-e279-4cbf-b692-991340ee5075")
 	)
 	(label "UART2{TX RX}"
 		(at 226.06 119.38 0)
@@ -2540,6 +2456,17 @@
 		)
 		(uuid "72542c25-e8bf-41d2-a844-363f22ef763e")
 	)
+	(label "UART4.TX"
+		(at 73.66 160.02 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "74dca04c-fd61-46c0-93db-8a6a3d324de5")
+	)
 	(label "UART1.TX"
 		(at 73.66 114.3 90)
 		(fields_autoplaced yes)
@@ -2561,6 +2488,28 @@
 			(justify left bottom)
 		)
 		(uuid "85d8c228-3cf5-4d25-bfc3-ab8658d6d2fd")
+	)
+	(label "UART2.RX"
+		(at 76.2 137.16 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "87b213dd-7f9d-4fd2-9837-d0cbf263067f")
+	)
+	(label "5V"
+		(at 68.58 160.02 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "953faa81-f36c-46f3-841a-308bcfe56746")
 	)
 	(label "AGPIO4"
 		(at 125.73 160.02 90)
@@ -2584,6 +2533,17 @@
 		)
 		(uuid "978a61e5-ec82-41d4-8cc0-2945816010a4")
 	)
+	(label "V_BATTERY"
+		(at 58.42 153.67 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a29df59b-35b5-4bcb-aba7-f7fe81dd9357")
+	)
 	(label "UART6.RX"
 		(at 266.7 147.32 270)
 		(fields_autoplaced yes)
@@ -2606,6 +2566,17 @@
 		)
 		(uuid "b33ec580-0c93-41b0-b1ef-1a5f23406f27")
 	)
+	(label "UART4.RX"
+		(at 76.2 160.02 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bac533f2-c1f4-4b14-acf3-2254243ac4d9")
+	)
 	(label "UART4{TX RX}"
 		(at 226.06 115.57 0)
 		(fields_autoplaced yes)
@@ -2627,6 +2598,28 @@
 			(justify right bottom)
 		)
 		(uuid "c29ac13a-7d7c-4d16-89c1-0ae4f60ff0ab")
+	)
+	(label "AGPIO3"
+		(at 71.12 160.02 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c2cbc133-dbf2-4ddc-bfba-60577596bad6")
+	)
+	(label "V_BATTERY"
+		(at 58.42 130.81 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c5503f34-9046-4696-a6ec-3bb30b1bdc29")
 	)
 	(label "UART2.RX"
 		(at 160.02 100.33 90)
@@ -2695,7 +2688,7 @@
 		(uuid "e87c52ba-3a52-4561-bd15-b364c1791af0")
 	)
 	(label "UART1.RX"
-		(at 71.12 114.3 90)
+		(at 76.2 114.3 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4071,7 +4064,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 41.91 78.74 0)
+		(at 69.85 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -4079,7 +4072,7 @@
 		(dnp no)
 		(uuid "128728b5-dab0-4a24-aa4b-97b3491de840")
 		(property "Reference" "H7"
-			(at 44.45 77.4954 0)
+			(at 72.39 62.2554 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4088,7 +4081,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 44.45 79.8068 0)
+			(at 72.39 64.5668 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4097,7 +4090,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4106,7 +4099,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4115,7 +4108,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4124,7 +4117,7 @@
 			)
 		)
 		(property "Config" "do not place"
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4133,7 +4126,7 @@
 			)
 		)
 		(property "DNP" "Y"
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4142,7 +4135,7 @@
 			)
 		)
 		(property "APPLICATION" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4151,7 +4144,7 @@
 			)
 		)
 		(property "CASE" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4160,7 +4153,7 @@
 			)
 		)
 		(property "CONFIGURATION" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4169,7 +4162,7 @@
 			)
 		)
 		(property "CONNECTOR" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4178,7 +4171,7 @@
 			)
 		)
 		(property "CURRENT_RATING" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4187,7 +4180,7 @@
 			)
 		)
 		(property "Centerline_Pitch" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4196,7 +4189,7 @@
 			)
 		)
 		(property "Comment" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4205,7 +4198,7 @@
 			)
 		)
 		(property "DESIGNATOR" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4214,7 +4207,7 @@
 			)
 		)
 		(property "EU_RoHS_Compliance" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4223,7 +4216,7 @@
 			)
 		)
 		(property "FINISH" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4232,7 +4225,7 @@
 			)
 		)
 		(property "FOOTPRINT" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4241,7 +4234,7 @@
 			)
 		)
 		(property "FOOTPRINT_PATH" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4250,7 +4243,7 @@
 			)
 		)
 		(property "FOOTPRINT_REFERENCE" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4259,7 +4252,7 @@
 			)
 		)
 		(property "GENDER" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4268,7 +4261,7 @@
 			)
 		)
 		(property "LATEST_REVISION_DATE" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4277,7 +4270,7 @@
 			)
 		)
 		(property "LATEST_REVISION_NOTE" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4286,7 +4279,7 @@
 			)
 		)
 		(property "LIBRARY_PATH" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4295,7 +4288,7 @@
 			)
 		)
 		(property "LIBRARY_REF" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4304,7 +4297,7 @@
 			)
 		)
 		(property "MANUFACTURER_LINK" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4313,7 +4306,7 @@
 			)
 		)
 		(property "Number_of_Positions" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4322,7 +4315,7 @@
 			)
 		)
 		(property "ORIENTATION" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4331,7 +4324,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4340,7 +4333,7 @@
 			)
 		)
 		(property "PART_DESCRIPTION" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4349,7 +4342,7 @@
 			)
 		)
 		(property "PART_REV" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4358,7 +4351,7 @@
 			)
 		)
 		(property "PITCH" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4367,7 +4360,7 @@
 			)
 		)
 		(property "POSITIONS" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4376,7 +4369,7 @@
 			)
 		)
 		(property "PUBLISHED" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4385,7 +4378,7 @@
 			)
 		)
 		(property "PUBLISHER" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4394,7 +4387,7 @@
 			)
 		)
 		(property "Product_Type" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4403,7 +4396,7 @@
 			)
 		)
 		(property "RESISTANCE" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4412,7 +4405,7 @@
 			)
 		)
 		(property "ROHS_COMPLIANT" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4421,7 +4414,7 @@
 			)
 		)
 		(property "SERIES" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4430,7 +4423,7 @@
 			)
 		)
 		(property "SIGNAL_INTEGRITY" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4439,7 +4432,7 @@
 			)
 		)
 		(property "SPICE_MODEL" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4448,7 +4441,7 @@
 			)
 		)
 		(property "TECHNOLOGY" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4457,7 +4450,7 @@
 			)
 		)
 		(property "TYPE" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4466,7 +4459,7 @@
 			)
 		)
 		(property "VOLTAGE_RATING_AC" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4475,7 +4468,7 @@
 			)
 		)
 		(property "VOLTAGE_RATING_DC" ""
-			(at 41.91 78.74 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4561,34 +4554,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 46.99 63.5 0)
+		(lib_id "power:GND")
+		(at 63.5 130.81 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "2057a4b0-e3dd-485f-9933-2cdb657d7f04")
-		(property "Reference" "H12"
-			(at 49.53 62.2554 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 49.53 64.5668 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
-			(at 46.99 63.5 0)
+		(uuid "1bb360ba-1442-4a47-8991-2bf2d4704762")
+		(property "Reference" "#PWR081"
+			(at 63.5 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4596,8 +4571,16 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 46.99 63.5 0)
+		(property "Value" "GND"
+			(at 63.373 126.4158 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4605,8 +4588,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 46.99 63.5 0)
+		(property "Datasheet" ""
+			(at 63.5 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4614,359 +4597,8 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "do not place"
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DNP" "Y"
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "APPLICATION" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CASE" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIGURATION" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONNECTOR" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CURRENT_RATING" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Centerline_Pitch" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DESIGNATOR" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "EU_RoHS_Compliance" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FINISH" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_PATH" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_REFERENCE" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GENDER" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_DATE" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_NOTE" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_PATH" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_REF" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_LINK" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Number_of_Positions" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ORIENTATION" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_DESCRIPTION" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_REV" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PITCH" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "POSITIONS" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Product_Type" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RESISTANCE" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_COMPLIANT" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SIGNAL_INTEGRITY" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPICE_MODEL" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TYPE" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_AC" ""
-			(at 46.99 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_DC" ""
-			(at 46.99 63.5 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 63.5 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4975,12 +4607,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "16c1e505-08c6-4413-9dbd-a80fcadd286d")
+			(uuid "3c11edc0-b1cb-4f0e-8da7-5cfc56481402")
 		)
 		(instances
 			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
-					(reference "H12")
+					(reference "#PWR081")
 					(unit 1)
 				)
 			)
@@ -6756,6 +6388,158 @@
 		)
 	)
 	(symbol
+		(lib_id "mousebites:Mousebite_8")
+		(at 60.96 139.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "364ac675-e3aa-4905-b214-091f0aa9e734")
+		(property "Reference" "U51"
+			(at 60.96 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "~"
+			(at 67.31 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "mousebites:Mousebite_8"
+			(at 60.96 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 60.96 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 60.96 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ed56d176-7f17-4718-932d-804f932a5f4e")
+		)
+		(pin "7"
+			(uuid "4b94ec20-74b2-415a-901d-e9a53723d147")
+		)
+		(pin "3"
+			(uuid "0cf2b117-23bf-41aa-868c-24554ddcae73")
+		)
+		(pin "6"
+			(uuid "b5f25b8d-2823-4ea9-b99d-2fabbaa6a6a2")
+		)
+		(pin "8"
+			(uuid "1a4136b9-1fc2-48c5-9ca3-f93a8f90604d")
+		)
+		(pin "2"
+			(uuid "afb111ad-1971-4038-8abd-4552a3121cf0")
+		)
+		(pin "4"
+			(uuid "b21e0d54-f232-43c9-ab9c-de474673318e")
+		)
+		(pin "5"
+			(uuid "d2704bed-7ecf-4b03-a58b-24e203096e68")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "U51")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 62.23 55.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4bb150b5-ab58-4b8c-862b-d5bbb338eb89")
+		(property "Reference" "#PWR064"
+			(at 62.23 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 62.357 60.2742 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 62.23 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 62.23 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 62.23 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b57b8a3e-da8a-4dd2-afd1-94276b512a14")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "#PWR064")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 36.83 48.26 0)
 		(unit 1)
@@ -6763,8 +6547,8 @@
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(uuid "3f4b786b-8230-4145-8843-9c71fd9015af")
-		(property "Reference" "H18"
+		(uuid "58b66842-0d77-42d3-b118-2874ecdac3b4")
+		(property "Reference" "H10"
 			(at 39.37 47.0154 0)
 			(effects
 				(font
@@ -7162,1414 +6946,6 @@
 		)
 		(property "VOLTAGE_RATING_DC" ""
 			(at 36.83 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b7793034-de08-4a80-92f8-455582ebdfd1")
-		)
-		(instances
-			(project "hw-openmower-universal"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
-					(reference "H18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 62.23 55.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4bb150b5-ab58-4b8c-862b-d5bbb338eb89")
-		(property "Reference" "#PWR064"
-			(at 62.23 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 62.357 60.2742 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 62.23 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 62.23 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 62.23 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b57b8a3e-da8a-4dd2-afd1-94276b512a14")
-		)
-		(instances
-			(project "hw-openmower-universal"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
-					(reference "#PWR064")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 46.99 78.74 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "4d347b76-6b81-459b-a40d-04326d83eeae")
-		(property "Reference" "H8"
-			(at 49.53 77.4954 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 49.53 79.8068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Config" "do not place"
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DNP" "Y"
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "APPLICATION" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CASE" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIGURATION" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONNECTOR" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CURRENT_RATING" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Centerline_Pitch" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DESIGNATOR" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "EU_RoHS_Compliance" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FINISH" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_PATH" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_REFERENCE" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GENDER" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_DATE" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_NOTE" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_PATH" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_REF" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_LINK" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Number_of_Positions" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ORIENTATION" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_DESCRIPTION" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_REV" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PITCH" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "POSITIONS" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Product_Type" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RESISTANCE" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_COMPLIANT" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SIGNAL_INTEGRITY" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPICE_MODEL" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TYPE" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_AC" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_DC" ""
-			(at 46.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6714cfa3-62f8-449e-987d-a66d0dd72a91")
-		)
-		(instances
-			(project "hw-openmower-universal"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
-					(reference "H8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 41.91 48.26 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "4dfcc87b-cec2-4e31-a1f3-bd0dace1107b")
-		(property "Reference" "H19"
-			(at 44.45 47.0154 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 44.45 49.3268 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Config" "do not place"
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DNP" "Y"
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "APPLICATION" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CASE" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIGURATION" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONNECTOR" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CURRENT_RATING" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Centerline_Pitch" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DESIGNATOR" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "EU_RoHS_Compliance" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FINISH" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_PATH" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_REFERENCE" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GENDER" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_DATE" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_NOTE" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_PATH" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_REF" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_LINK" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Number_of_Positions" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ORIENTATION" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_DESCRIPTION" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_REV" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PITCH" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "POSITIONS" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Product_Type" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RESISTANCE" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_COMPLIANT" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SIGNAL_INTEGRITY" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPICE_MODEL" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TYPE" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_AC" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_DC" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f9109ef9-6b0f-4277-951e-8bc95ecedbae")
-		)
-		(instances
-			(project "hw-openmower-universal"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
-					(reference "H19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 39.37 86.36 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "554f5783-d839-4da7-b51c-e2f590f6e0d5")
-		(property "Reference" "#PWR062"
-			(at 39.37 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 39.497 90.7542 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 39.37 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 39.37 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 39.37 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "877155dd-481c-4e7d-bc5d-6a245ed56a35")
-		)
-		(instances
-			(project "hw-openmower-universal"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
-					(reference "#PWR062")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 36.83 63.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "58b66842-0d77-42d3-b118-2874ecdac3b4")
-		(property "Reference" "H10"
-			(at 39.37 62.2554 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 39.37 64.5668 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Config" "do not place"
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DNP" "Y"
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "APPLICATION" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CASE" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIGURATION" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONNECTOR" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CURRENT_RATING" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Centerline_Pitch" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DESIGNATOR" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "EU_RoHS_Compliance" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FINISH" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_PATH" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_REFERENCE" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GENDER" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_DATE" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_NOTE" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_PATH" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_REF" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_LINK" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Number_of_Positions" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ORIENTATION" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_DESCRIPTION" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_REV" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PITCH" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "POSITIONS" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Product_Type" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RESISTANCE" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_COMPLIANT" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SIGNAL_INTEGRITY" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPICE_MODEL" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TYPE" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_AC" ""
-			(at 36.83 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_DC" ""
-			(at 36.83 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9518,7 +7894,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 36.83 78.74 0)
+		(at 69.85 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -9526,7 +7902,7 @@
 		(dnp no)
 		(uuid "67ad2fd2-b3a5-47f2-93fb-169e8cf59c49")
 		(property "Reference" "H6"
-			(at 39.37 77.4954 0)
+			(at 72.39 77.4954 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9535,7 +7911,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 39.37 79.8068 0)
+			(at 72.39 79.8068 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9544,7 +7920,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9553,7 +7929,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9562,7 +7938,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9571,7 +7947,7 @@
 			)
 		)
 		(property "Config" "do not place"
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9580,7 +7956,7 @@
 			)
 		)
 		(property "DNP" "Y"
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9589,7 +7965,7 @@
 			)
 		)
 		(property "APPLICATION" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9598,7 +7974,7 @@
 			)
 		)
 		(property "CASE" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9607,7 +7983,7 @@
 			)
 		)
 		(property "CONFIGURATION" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9616,7 +7992,7 @@
 			)
 		)
 		(property "CONNECTOR" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9625,7 +8001,7 @@
 			)
 		)
 		(property "CURRENT_RATING" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9634,7 +8010,7 @@
 			)
 		)
 		(property "Centerline_Pitch" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9643,7 +8019,7 @@
 			)
 		)
 		(property "Comment" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9652,7 +8028,7 @@
 			)
 		)
 		(property "DESIGNATOR" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9661,7 +8037,7 @@
 			)
 		)
 		(property "EU_RoHS_Compliance" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9670,7 +8046,7 @@
 			)
 		)
 		(property "FINISH" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9679,7 +8055,7 @@
 			)
 		)
 		(property "FOOTPRINT" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9688,7 +8064,7 @@
 			)
 		)
 		(property "FOOTPRINT_PATH" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9697,7 +8073,7 @@
 			)
 		)
 		(property "FOOTPRINT_REFERENCE" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9706,7 +8082,7 @@
 			)
 		)
 		(property "GENDER" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9715,7 +8091,7 @@
 			)
 		)
 		(property "LATEST_REVISION_DATE" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9724,7 +8100,7 @@
 			)
 		)
 		(property "LATEST_REVISION_NOTE" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9733,7 +8109,7 @@
 			)
 		)
 		(property "LIBRARY_PATH" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9742,7 +8118,7 @@
 			)
 		)
 		(property "LIBRARY_REF" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9751,7 +8127,7 @@
 			)
 		)
 		(property "MANUFACTURER_LINK" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9760,7 +8136,7 @@
 			)
 		)
 		(property "Number_of_Positions" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9769,7 +8145,7 @@
 			)
 		)
 		(property "ORIENTATION" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9778,7 +8154,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9787,7 +8163,7 @@
 			)
 		)
 		(property "PART_DESCRIPTION" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9796,7 +8172,7 @@
 			)
 		)
 		(property "PART_REV" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9805,7 +8181,7 @@
 			)
 		)
 		(property "PITCH" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9814,7 +8190,7 @@
 			)
 		)
 		(property "POSITIONS" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9823,7 +8199,7 @@
 			)
 		)
 		(property "PUBLISHED" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9832,7 +8208,7 @@
 			)
 		)
 		(property "PUBLISHER" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9841,7 +8217,7 @@
 			)
 		)
 		(property "Product_Type" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9850,7 +8226,7 @@
 			)
 		)
 		(property "RESISTANCE" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9859,7 +8235,7 @@
 			)
 		)
 		(property "ROHS_COMPLIANT" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9868,7 +8244,7 @@
 			)
 		)
 		(property "SERIES" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9877,7 +8253,7 @@
 			)
 		)
 		(property "SIGNAL_INTEGRITY" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9886,7 +8262,7 @@
 			)
 		)
 		(property "SPICE_MODEL" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9895,7 +8271,7 @@
 			)
 		)
 		(property "TECHNOLOGY" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9904,7 +8280,7 @@
 			)
 		)
 		(property "TYPE" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9913,7 +8289,7 @@
 			)
 		)
 		(property "VOLTAGE_RATING_AC" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9922,7 +8298,7 @@
 			)
 		)
 		(property "VOLTAGE_RATING_DC" ""
-			(at 36.83 78.74 0)
+			(at 69.85 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9937,71 +8313,6 @@
 			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "H6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 39.37 71.12 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "68da460f-092d-4c2a-af75-931d2f327826")
-		(property "Reference" "#PWR061"
-			(at 39.37 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 39.497 75.5142 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 39.37 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 39.37 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 39.37 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b1e6b096-912b-4e69-ba2d-be5d548fdcdd")
-		)
-		(instances
-			(project "hw-openmower-universal"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
-					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -10428,6 +8739,93 @@
 			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "H28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "mousebites:Mousebite_8")
+		(at 60.96 162.56 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "73defd9c-d5f2-416f-a852-e307124110ec")
+		(property "Reference" "U52"
+			(at 60.96 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "~"
+			(at 67.31 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "mousebites:Mousebite_8"
+			(at 60.96 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 60.96 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 60.96 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "51c3128b-df5d-47c0-9e70-dac49a0db723")
+		)
+		(pin "7"
+			(uuid "d9316680-5130-4bda-8ca9-d930e0620893")
+		)
+		(pin "3"
+			(uuid "743b2177-8a2f-4a8c-8768-fea9ff56f67d")
+		)
+		(pin "6"
+			(uuid "3116514b-b389-480b-a318-9b62080028ed")
+		)
+		(pin "8"
+			(uuid "56e85d72-da55-4ab5-abda-e8bf6e248c50")
+		)
+		(pin "2"
+			(uuid "20c51c3c-3940-4365-adc0-f11f43123212")
+		)
+		(pin "4"
+			(uuid "23767ea5-59ea-4775-b8c7-ee52bd835fdf")
+		)
+		(pin "5"
+			(uuid "b5f37765-e899-4ce0-9d27-ddb681724f89")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "U52")
 					(unit 1)
 				)
 			)
@@ -10861,7 +9259,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 31.75 78.74 0)
+		(at 41.91 48.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -10869,7 +9267,7 @@
 		(dnp no)
 		(uuid "7bb0d3f0-b012-4674-bccc-b93b9113f19d")
 		(property "Reference" "H5"
-			(at 34.29 77.4954 0)
+			(at 44.45 47.0154 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10878,7 +9276,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 34.29 79.8068 0)
+			(at 44.45 49.3268 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10887,7 +9285,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10896,7 +9294,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10905,7 +9303,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10914,7 +9312,7 @@
 			)
 		)
 		(property "Config" "do not place"
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10923,7 +9321,7 @@
 			)
 		)
 		(property "DNP" "Y"
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10932,7 +9330,7 @@
 			)
 		)
 		(property "APPLICATION" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10941,7 +9339,7 @@
 			)
 		)
 		(property "CASE" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10950,7 +9348,7 @@
 			)
 		)
 		(property "CONFIGURATION" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10959,7 +9357,7 @@
 			)
 		)
 		(property "CONNECTOR" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10968,7 +9366,7 @@
 			)
 		)
 		(property "CURRENT_RATING" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10977,7 +9375,7 @@
 			)
 		)
 		(property "Centerline_Pitch" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10986,7 +9384,7 @@
 			)
 		)
 		(property "Comment" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10995,7 +9393,7 @@
 			)
 		)
 		(property "DESIGNATOR" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11004,7 +9402,7 @@
 			)
 		)
 		(property "EU_RoHS_Compliance" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11013,7 +9411,7 @@
 			)
 		)
 		(property "FINISH" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11022,7 +9420,7 @@
 			)
 		)
 		(property "FOOTPRINT" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11031,7 +9429,7 @@
 			)
 		)
 		(property "FOOTPRINT_PATH" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11040,7 +9438,7 @@
 			)
 		)
 		(property "FOOTPRINT_REFERENCE" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11049,7 +9447,7 @@
 			)
 		)
 		(property "GENDER" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11058,7 +9456,7 @@
 			)
 		)
 		(property "LATEST_REVISION_DATE" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11067,7 +9465,7 @@
 			)
 		)
 		(property "LATEST_REVISION_NOTE" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11076,7 +9474,7 @@
 			)
 		)
 		(property "LIBRARY_PATH" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11085,7 +9483,7 @@
 			)
 		)
 		(property "LIBRARY_REF" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11094,7 +9492,7 @@
 			)
 		)
 		(property "MANUFACTURER_LINK" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11103,7 +9501,7 @@
 			)
 		)
 		(property "Number_of_Positions" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11112,7 +9510,7 @@
 			)
 		)
 		(property "ORIENTATION" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11121,7 +9519,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11130,7 +9528,7 @@
 			)
 		)
 		(property "PART_DESCRIPTION" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11139,7 +9537,7 @@
 			)
 		)
 		(property "PART_REV" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11148,7 +9546,7 @@
 			)
 		)
 		(property "PITCH" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11157,7 +9555,7 @@
 			)
 		)
 		(property "POSITIONS" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11166,7 +9564,7 @@
 			)
 		)
 		(property "PUBLISHED" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11175,7 +9573,7 @@
 			)
 		)
 		(property "PUBLISHER" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11184,7 +9582,7 @@
 			)
 		)
 		(property "Product_Type" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11193,7 +9591,7 @@
 			)
 		)
 		(property "RESISTANCE" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11202,7 +9600,7 @@
 			)
 		)
 		(property "ROHS_COMPLIANT" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11211,7 +9609,7 @@
 			)
 		)
 		(property "SERIES" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11220,7 +9618,7 @@
 			)
 		)
 		(property "SIGNAL_INTEGRITY" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11229,7 +9627,7 @@
 			)
 		)
 		(property "SPICE_MODEL" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11238,7 +9636,7 @@
 			)
 		)
 		(property "TECHNOLOGY" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11247,7 +9645,7 @@
 			)
 		)
 		(property "TYPE" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11256,7 +9654,7 @@
 			)
 		)
 		(property "VOLTAGE_RATING_AC" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11265,7 +9663,7 @@
 			)
 		)
 		(property "VOLTAGE_RATING_DC" ""
-			(at 31.75 78.74 0)
+			(at 41.91 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11286,34 +9684,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 69.85 63.5 0)
+		(lib_id "mousebites:Mousebite_8")
+		(at 59.69 190.5 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "83da1345-bdbe-43c8-bf9b-757fa2c42c25")
-		(property "Reference" "H16"
-			(at 72.39 62.2554 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 72.39 64.5668 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
-			(at 69.85 63.5 0)
+		(fields_autoplaced yes)
+		(uuid "7ee74573-3534-4f12-b4ce-b7df64edd81d")
+		(property "Reference" "U53"
+			(at 59.69 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11321,8 +9702,25 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 69.85 63.5 0)
+		(property "Value" "~"
+			(at 66.04 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "mousebites:Mousebite_8"
+			(at 59.69 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 59.69 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11331,367 +9729,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Config" "do not place"
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DNP" "Y"
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "APPLICATION" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CASE" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIGURATION" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONNECTOR" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CURRENT_RATING" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Centerline_Pitch" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DESIGNATOR" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "EU_RoHS_Compliance" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FINISH" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_PATH" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_REFERENCE" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GENDER" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_DATE" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_NOTE" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_PATH" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_REF" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_LINK" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Number_of_Positions" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ORIENTATION" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_DESCRIPTION" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_REV" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PITCH" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "POSITIONS" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Product_Type" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RESISTANCE" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_COMPLIANT" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SIGNAL_INTEGRITY" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPICE_MODEL" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TYPE" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_AC" ""
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_DC" ""
-			(at 69.85 63.5 0)
+			(at 59.69 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11700,12 +9738,98 @@
 			)
 		)
 		(pin "1"
-			(uuid "2419dde4-b82d-4080-9fdd-d8393263ad7c")
+			(uuid "9eb3f81a-7e64-42d4-93ee-07218f9498b5")
+		)
+		(pin "7"
+			(uuid "67ad036a-5598-412e-be7a-d87750da7441")
+		)
+		(pin "3"
+			(uuid "75d50931-b9ba-4e87-a16c-ea8ef73cf52e")
+		)
+		(pin "6"
+			(uuid "6efb274b-26b3-48e7-bd04-110de02b70dd")
+		)
+		(pin "8"
+			(uuid "883e9812-0316-40f7-9946-603691b97895")
+		)
+		(pin "2"
+			(uuid "4e0ba7ba-6a02-4f2e-bd43-9827f3f98f97")
+		)
+		(pin "4"
+			(uuid "b302ef66-e24c-4aa0-9085-46c1e2ba1215")
+		)
+		(pin "5"
+			(uuid "1ed7a2f5-b4f4-4d8c-bf88-4dd2c7845c77")
 		)
 		(instances
 			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
-					(reference "H16")
+					(reference "U53")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 63.5 153.67 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9644b7b5-c132-4c6b-97df-0d8545595c9f")
+		(property "Reference" "#PWR082"
+			(at 63.5 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 63.373 149.2758 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 63.5 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d797f442-ae1b-4a0b-b4cb-537e5289b89d")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "#PWR082")
 					(unit 1)
 				)
 			)
@@ -13612,432 +11736,6 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 41.91 63.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "c48bca19-43ae-49ca-a667-1bf3187a5d36")
-		(property "Reference" "H11"
-			(at 44.45 62.2554 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 44.45 64.5668 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Config" "do not place"
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DNP" "Y"
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "APPLICATION" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CASE" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIGURATION" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONNECTOR" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CURRENT_RATING" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Centerline_Pitch" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DESIGNATOR" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "EU_RoHS_Compliance" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FINISH" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_PATH" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_REFERENCE" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GENDER" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_DATE" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_NOTE" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_PATH" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_REF" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_LINK" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Number_of_Positions" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ORIENTATION" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_DESCRIPTION" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_REV" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PITCH" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "POSITIONS" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Product_Type" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RESISTANCE" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_COMPLIANT" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SIGNAL_INTEGRITY" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPICE_MODEL" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TYPE" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_AC" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_DC" ""
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "62b9a963-1989-4389-a9c8-9401e2ebe212")
-		)
-		(instances
-			(project "hw-openmower-universal"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
-					(reference "H11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
 		(at 64.77 48.26 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14964,6 +12662,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 72.39 181.61 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ef290699-f8ae-47e9-8cea-f8cb4ee052d2")
+		(property "Reference" "#PWR083"
+			(at 72.39 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 72.263 177.2158 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 72.39 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 72.39 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 72.39 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5bd245d6-96c3-46f2-acff-106aac33fe2c")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "#PWR083")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 62.23 34.29 0)
 		(unit 1)
@@ -15478,432 +13241,6 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 69.85 78.74 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "fa6504b2-028b-4347-a7c7-f65b6de9939e")
-		(property "Reference" "H4"
-			(at 72.39 77.4954 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 72.39 79.8068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Config" "do not place"
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DNP" "Y"
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "APPLICATION" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CASE" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIGURATION" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONNECTOR" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CURRENT_RATING" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Centerline_Pitch" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DESIGNATOR" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "EU_RoHS_Compliance" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FINISH" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_PATH" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_REFERENCE" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GENDER" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_DATE" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_NOTE" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_PATH" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_REF" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_LINK" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Number_of_Positions" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ORIENTATION" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_DESCRIPTION" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_REV" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PITCH" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "POSITIONS" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Product_Type" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RESISTANCE" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_COMPLIANT" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SIGNAL_INTEGRITY" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPICE_MODEL" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TYPE" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_AC" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_DC" ""
-			(at 69.85 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1d3080da-722f-4085-9e1f-f7850abd32f9")
-		)
-		(instances
-			(project "hw-openmower-universal"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
-					(reference "H4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
 		(at 30.48 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16323,432 +13660,6 @@
 			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "H32")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 31.75 63.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "fee04749-7c51-44fd-ab70-86efcbd402af")
-		(property "Reference" "H9"
-			(at 34.29 62.2554 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 34.29 64.5668 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Config" "do not place"
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DNP" "Y"
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "APPLICATION" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CASE" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIGURATION" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONNECTOR" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CURRENT_RATING" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Centerline_Pitch" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DESIGNATOR" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "EU_RoHS_Compliance" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FINISH" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_PATH" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_REFERENCE" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GENDER" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_DATE" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_NOTE" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_PATH" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_REF" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_LINK" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Number_of_Positions" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ORIENTATION" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_DESCRIPTION" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_REV" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PITCH" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "POSITIONS" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Product_Type" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RESISTANCE" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_COMPLIANT" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SIGNAL_INTEGRITY" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPICE_MODEL" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TYPE" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_AC" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_DC" ""
-			(at 31.75 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1b803564-056f-47f1-b008-0366f78122c7")
-		)
-		(instances
-			(project "hw-openmower-universal"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
-					(reference "H9")
 					(unit 1)
 				)
 			)
@@ -17269,74 +14180,6 @@
 		)
 	)
 	(sheet
-		(at 326.39 176.53)
-		(size 60.96 53.34)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "071ae788-b4b6-41d7-84cd-c6677942e0cd")
-		(property "Sheetname" "subpcb_aux"
-			(at 326.39 175.8184 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "subpcb_aux.kicad_sch"
-			(at 326.39 230.4546 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "ENABLE" input
-			(at 326.39 184.15 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "2ffece4c-cea2-4112-96d6-82802faf7a88")
-		)
-		(pin "VIN" input
-			(at 326.39 181.61 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "ccaf7191-e3b1-46d4-a22c-a4e75d51255f")
-		)
-		(pin "RASPI_FAN_ON" input
-			(at 326.39 186.69 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "d6f63785-68bc-419d-84bd-82b4b0fac876")
-		)
-		(instances
-			(project "hw-openmower-universal"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
-					(page "14")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 199.39 163.83)
 		(size 100.33 67.31)
 		(fields_autoplaced yes)
@@ -17757,26 +14600,6 @@
 				(justify left)
 			)
 			(uuid "78ca04ed-8756-42a4-8568-42af86b27594")
-		)
-		(pin "GPIO14" output
-			(at 297.18 100.33 270)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "34fb01c8-55a4-4752-bb1c-84b26f906813")
-		)
-		(pin "RASPI_FAN_ON" output
-			(at 294.64 100.33 270)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "90b86ad2-228f-4dbf-b3b4-fdb64ea9e29c")
 		)
 		(pin "AGPIO[0..5]" output
 			(at 241.3 100.33 270)

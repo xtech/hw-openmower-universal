@@ -3013,7 +3013,7 @@
 		(uuid "0e990334-2b74-45b9-bf4c-d1fae39b025b")
 	)
 	(label "ETH2.PAIR_D_N"
-		(at 205.74 219.71 0)
+		(at 205.74 217.17 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3090,7 +3090,7 @@
 		(uuid "53b0c2dc-c3d6-43d5-8a68-dc3fae4587fa")
 	)
 	(label "ETH2.PAIR_D_P"
-		(at 205.74 217.17 0)
+		(at 205.74 219.71 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
