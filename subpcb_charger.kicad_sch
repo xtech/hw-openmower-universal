@@ -9527,7 +9527,7 @@
 			)
 			(uuid "ac3c7a0d-d9d0-43c8-95e1-2a6e0489473e")
 		)
-		(pin "5V_Main" input
+		(pin "5V" input
 			(at 182.88 72.39 180)
 			(effects
 				(font
@@ -9535,7 +9535,7 @@
 				)
 				(justify left)
 			)
-			(uuid "6062e053-eb2e-401a-bbe6-8b54bbdb9096")
+			(uuid "d2aefbb4-87d7-4893-a54e-c46c1ce649db")
 		)
 		(instances
 			(project "hw-openmower-universal"
