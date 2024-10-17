@@ -523,6 +523,18 @@
 		)
 	)
 	(junction
+		(at 21.59 250.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "004d54f5-a5be-4433-a0d1-283fd2431734")
+	)
+	(junction
+		(at 34.29 250.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "006327c3-42f6-43f9-bd2d-5de0cc1d44c1")
+	)
+	(junction
 		(at 63.5 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -535,10 +547,22 @@
 		(uuid "02c2e4df-0275-4ff8-b9a3-5d9e88399ad0")
 	)
 	(junction
+		(at 26.67 229.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "02e8b34b-36c7-45e2-be4f-5876908665cb")
+	)
+	(junction
 		(at 29.21 283.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "031d5003-436d-4b84-9b39-8f26376bd24a")
+	)
+	(junction
+		(at 34.29 220.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "037999cb-fe1d-42f3-a282-3971995903cf")
 	)
 	(junction
 		(at 67.31 237.49)
@@ -551,6 +575,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "06ef8f43-7aaa-4731-b97c-bebb6a10ec94")
+	)
+	(junction
+		(at 24.13 229.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "06f3cf81-ebc2-4234-9a5e-d3e867c7974f")
 	)
 	(junction
 		(at 39.37 53.34)
@@ -571,6 +601,12 @@
 		(uuid "0bcbb6ec-0f7e-4259-a398-8c76c0792331")
 	)
 	(junction
+		(at 21.59 220.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0be74371-5ef4-4e6b-8cdc-1968ff033937")
+	)
+	(junction
 		(at 59.69 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -589,6 +625,12 @@
 		(uuid "18085069-7b30-4791-bae0-a4e4a703ddd1")
 	)
 	(junction
+		(at 24.13 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1d3bdf64-c01d-49b1-b60a-869371e0b87d")
+	)
+	(junction
 		(at 68.58 214.63)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -601,10 +643,22 @@
 		(uuid "230e6d10-2053-4503-abb6-b3541a7e0c75")
 	)
 	(junction
+		(at 31.75 203.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "235a1c85-b4e5-4750-87ae-91d573acb85d")
+	)
+	(junction
 		(at 151.13 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2635826b-cf8a-4c02-81b7-1878c421c9e4")
+	)
+	(junction
+		(at 34.29 179.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "268a754f-e4d5-4dec-88c5-bb75e5c6c661")
 	)
 	(junction
 		(at 55.88 36.83)
@@ -619,10 +673,40 @@
 		(uuid "280e334c-f1f3-4983-a34b-0d943408295e")
 	)
 	(junction
+		(at 26.67 194.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "316bc9ee-1996-4c67-899d-a97c70dfa38b")
+	)
+	(junction
+		(at 29.21 241.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "33c30df4-e966-4288-a56f-3e765a290969")
+	)
+	(junction
+		(at 26.67 151.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "37fdaad7-4245-448c-a5b1-a9c9fafe52dd")
+	)
+	(junction
 		(at 58.42 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3a7f9e4d-c1ec-4262-8de6-25c61294824d")
+	)
+	(junction
+		(at 31.75 220.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3a9ac1a1-5d78-4f16-b737-840c9e691d05")
+	)
+	(junction
+		(at 31.75 179.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3aface3e-b986-42c2-b3be-b9de126fb982")
 	)
 	(junction
 		(at 53.34 260.35)
@@ -661,10 +745,28 @@
 		(uuid "41750f90-145d-4ce9-b4ae-24af376c5304")
 	)
 	(junction
+		(at 36.83 194.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "421b9847-ca0a-4b86-8b8d-dcaf14ab2407")
+	)
+	(junction
 		(at 52.07 237.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "42efc90c-0d8f-4e79-b49c-99bbb545ec8b")
+	)
+	(junction
+		(at 21.59 241.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "42f5acdd-46d6-4dd3-a38f-f01877ea2202")
+	)
+	(junction
+		(at 31.75 241.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "44d40d46-c03d-453f-ab2a-e54a91a53fb2")
 	)
 	(junction
 		(at 134.62 127)
@@ -685,10 +787,22 @@
 		(uuid "49f7c6b3-87db-4aec-9ee7-fab31580fa39")
 	)
 	(junction
+		(at 29.21 179.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4c5ec687-20e8-431c-a3f6-986007f81318")
+	)
+	(junction
 		(at 55.88 274.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4ca59395-4856-4e0b-88ce-042c02f67d90")
+	)
+	(junction
+		(at 24.13 203.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4d3e795a-49f6-489a-8159-913549d69291")
 	)
 	(junction
 		(at 62.23 68.58)
@@ -697,16 +811,70 @@
 		(uuid "4f11c311-b298-4c1b-b8ab-96daec71316a")
 	)
 	(junction
+		(at 34.29 241.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "50f657e2-8020-46cb-a3f3-564cd4fe330f")
+	)
+	(junction
 		(at 58.42 283.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "515360c2-d35e-46bc-8af0-71f2d3ef9286")
 	)
 	(junction
+		(at 34.29 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "51ae925a-e167-487f-ba4c-86d78b1dece5")
+	)
+	(junction
+		(at 24.13 179.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "53575cf7-4282-4818-841b-7356127b1ce0")
+	)
+	(junction
+		(at 24.13 151.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "544eea34-b38f-42f0-af3f-bbb5af1ba377")
+	)
+	(junction
+		(at 26.67 179.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "547e61ff-fa94-4d90-b2a8-31ee7bb9537a")
+	)
+	(junction
+		(at 26.67 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "57bfec30-619a-4a08-a8bc-a07bbccc0a68")
+	)
+	(junction
+		(at 31.75 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5cf97236-bf97-4a3e-bd04-7242848216ac")
+	)
+	(junction
 		(at 34.29 274.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "669e5ac0-b804-43f3-9213-2a3e0e7d1ac3")
+	)
+	(junction
+		(at 24.13 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "66a9d976-90bb-4445-b62a-d092048e3fc0")
+	)
+	(junction
+		(at 31.75 229.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6706bf11-3cda-4b90-a1d7-b9bd9559b7e7")
 	)
 	(junction
 		(at 60.96 283.21)
@@ -731,6 +899,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6fef8128-978d-42fe-a133-e45e51e44213")
+	)
+	(junction
+		(at 24.13 220.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7212fe8e-8c57-46ea-94cc-42e97e844a41")
 	)
 	(junction
 		(at 63.5 274.32)
@@ -763,6 +937,18 @@
 		(uuid "790b9d54-a87b-45de-a9ac-accb3091e03f")
 	)
 	(junction
+		(at 34.29 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7979920a-22c3-410b-a697-cf7d5e3de736")
+	)
+	(junction
+		(at 31.75 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "79c07b56-24fb-498a-a4ba-37b5a24a66f9")
+	)
+	(junction
 		(at 36.83 283.21)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -793,6 +979,12 @@
 		(uuid "7f155ab9-4fa3-4335-b2d5-368c6f4a29ac")
 	)
 	(junction
+		(at 24.13 241.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7f43f1e4-1e67-46d0-bbba-9a2b334a56a1")
+	)
+	(junction
 		(at 62.23 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -811,6 +1003,48 @@
 		(uuid "882c0b8b-dd8e-4409-954f-2476af33ae50")
 	)
 	(junction
+		(at 34.29 194.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b40a48c-6ed0-4664-91cc-c617e9eeaa62")
+	)
+	(junction
+		(at 31.75 151.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8e0bf787-8bb3-49d8-bdfe-d86ef4147291")
+	)
+	(junction
+		(at 31.75 194.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8e6a4ef9-449c-4973-9f68-1463956b9394")
+	)
+	(junction
+		(at 29.21 229.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9166dc5b-4a34-4576-bc5b-a0c68d4b84a0")
+	)
+	(junction
+		(at 34.29 151.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9266c119-dbbe-4fc7-b2db-b00e9b499606")
+	)
+	(junction
+		(at 34.29 229.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "959cdf0d-4c63-42e6-a17e-cac42b92995e")
+	)
+	(junction
+		(at 26.67 220.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9811a70c-02c3-409a-9327-f0d8f7fca7c6")
+	)
+	(junction
 		(at 59.69 187.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -827,6 +1061,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9b57a5e5-a448-46cb-8fb1-35c7d3820f8d")
+	)
+	(junction
+		(at 29.21 250.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9bd80328-b8b0-4423-ad9d-11270a553f46")
+	)
+	(junction
+		(at 26.67 203.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9c68e7fc-ba7e-4edb-824c-030f61a6118a")
 	)
 	(junction
 		(at 63.5 283.21)
@@ -853,10 +1099,22 @@
 		(uuid "a0e8bf80-f1a7-498c-a0b9-2d75dbd411d1")
 	)
 	(junction
+		(at 21.59 229.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a10f0902-95bc-43c1-b3f4-144b62c77a93")
+	)
+	(junction
 		(at 95.25 257.81)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a67fbf80-c9ad-4a94-9f66-df51d497e63c")
+	)
+	(junction
+		(at 29.21 203.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a6af5821-56ff-4b64-abee-024545f84692")
 	)
 	(junction
 		(at 66.04 214.63)
@@ -877,10 +1135,34 @@
 		(uuid "b06c53c6-5d89-492b-9037-680f9580addb")
 	)
 	(junction
+		(at 24.13 250.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b07cb1ab-bd97-4037-a7d9-fe14034f919f")
+	)
+	(junction
+		(at 24.13 194.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b0ef00e8-5355-4174-9ed1-79b29a9b426b")
+	)
+	(junction
+		(at 29.21 220.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b249107a-c837-4e16-b917-714d54f90ea9")
+	)
+	(junction
 		(at 85.09 257.81)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b30a719f-2517-443e-9778-a42b2d3a1568")
+	)
+	(junction
+		(at 21.59 151.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b3b7271d-2af9-4b2d-8c65-af7907c03fd0")
 	)
 	(junction
 		(at 64.77 237.49)
@@ -893,6 +1175,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b66797f7-65e1-4fe9-9660-f81ee0d16061")
+	)
+	(junction
+		(at 29.21 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b82fd792-32d8-49ed-9d59-e2df60ac9486")
 	)
 	(junction
 		(at 59.69 83.82)
@@ -919,6 +1207,18 @@
 		(uuid "c2d79983-c149-4433-83c9-a5b048501c6f")
 	)
 	(junction
+		(at 26.67 250.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c36b417f-1897-4499-b162-8ccc0e045aa9")
+	)
+	(junction
+		(at 29.21 194.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c4fe43dc-8f59-41d2-9347-8090d77c30d8")
+	)
+	(junction
 		(at 36.83 274.32)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -943,10 +1243,34 @@
 		(uuid "c9a8890e-7790-4744-9c9a-85bf995a6310")
 	)
 	(junction
+		(at 36.83 203.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cd3c1a9f-8a71-461e-83e2-789cd5399dcf")
+	)
+	(junction
+		(at 29.21 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cf035885-eda9-4836-9412-73fd67e15d9f")
+	)
+	(junction
 		(at 59.69 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d1c26bd9-9cac-4531-b791-ac8930049549")
+	)
+	(junction
+		(at 21.59 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d21647f4-10cd-40c1-a35c-de8fa6e13f65")
+	)
+	(junction
+		(at 26.67 241.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d3cdc061-5a14-488d-b3ec-e43261b206cf")
 	)
 	(junction
 		(at 64.77 68.58)
@@ -979,10 +1303,28 @@
 		(uuid "e3fd1b15-5bcf-4773-ae69-f262b9bee3e3")
 	)
 	(junction
+		(at 21.59 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f1770564-1c1c-4288-946c-ba66010dae46")
+	)
+	(junction
 		(at 54.61 237.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f38a8900-fb71-437b-a4e7-fa896093789f")
+	)
+	(junction
+		(at 21.59 179.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f3fbc094-7670-45c5-84eb-ff0ef1df1b4b")
+	)
+	(junction
+		(at 31.75 250.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f69783d0-96cd-41fc-9aca-bd1e1c58645c")
 	)
 	(junction
 		(at 57.15 237.49)
@@ -997,18 +1339,32 @@
 		(uuid "f8e00b5e-7c19-43b7-b818-9b55c6c364b0")
 	)
 	(junction
+		(at 34.29 203.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f916e4b4-659f-43c3-8a15-12a712433fcf")
+	)
+	(junction
+		(at 26.67 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fe73ac2e-05cb-4acf-ae44-e4884a6eaf36")
+	)
+	(junction
 		(at 62.23 187.96)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fe924849-0f1a-4eb5-a3f9-d0516bf3b531")
 	)
+	(junction
+		(at 29.21 151.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ff87a8f7-523c-438b-956d-c3bfc218b76a")
+	)
 	(no_connect
 		(at 96.52 140.97)
 		(uuid "6276ee94-5101-435e-9860-f52ed0290818")
-	)
-	(no_connect
-		(at 88.9 140.97)
-		(uuid "b2f7e521-4c60-4d3e-adf8-1a56b5b82cf3")
 	)
 	(bus_entry
 		(at 269.24 144.78)
@@ -1140,6 +1496,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 220.98) (xy 34.29 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07a9f473-0ad8-410d-b8f4-f7ecf5365063")
+	)
+	(wire
+		(pts
 			(xy 68.58 283.21) (xy 71.12 283.21)
 		)
 		(stroke
@@ -1170,6 +1536,16 @@
 	)
 	(wire
 		(pts
+			(xy 36.83 203.2) (xy 39.37 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0cb4a113-8106-4950-ad2b-9b9b65c09023")
+	)
+	(wire
+		(pts
 			(xy 31.75 283.21) (xy 34.29 283.21)
 		)
 		(stroke
@@ -1190,6 +1566,36 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 229.87) (xy 34.29 229.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "121d15c9-0d92-4a83-8707-286a64ced69b")
+	)
+	(wire
+		(pts
+			(xy 34.29 203.2) (xy 36.83 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "156afbab-707e-48cb-afc7-2f4a70cec711")
+	)
+	(wire
+		(pts
+			(xy 36.83 194.31) (xy 39.37 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "174962d7-0659-4ca1-838c-ff067945c805")
+	)
+	(wire
+		(pts
 			(xy 58.42 274.32) (xy 60.96 274.32)
 		)
 		(stroke
@@ -1197,6 +1603,16 @@
 			(type default)
 		)
 		(uuid "18a856be-bd0b-4d90-ba20-5f64a018dbf4")
+	)
+	(wire
+		(pts
+			(xy 29.21 160.02) (xy 31.75 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d4f9d2a-14fa-4152-bc2a-c27641ee0d8d")
 	)
 	(wire
 		(pts
@@ -1240,6 +1656,26 @@
 	)
 	(wire
 		(pts
+			(xy 19.05 229.87) (xy 21.59 229.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "224fcd1a-8d55-490c-a35c-aadd370440a6")
+	)
+	(wire
+		(pts
+			(xy 34.29 170.18) (xy 36.83 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "230f43ee-6de6-4e1d-845f-279483cfcdf5")
+	)
+	(wire
+		(pts
 			(xy 63.5 283.21) (xy 66.04 283.21)
 		)
 		(stroke
@@ -1247,6 +1683,16 @@
 			(type default)
 		)
 		(uuid "236bf328-3daf-4580-be73-054335d0696c")
+	)
+	(wire
+		(pts
+			(xy 26.67 220.98) (xy 29.21 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25e82ac3-d482-48c1-8f51-6b6a8a18b21c")
 	)
 	(wire
 		(pts
@@ -1280,6 +1726,16 @@
 	)
 	(wire
 		(pts
+			(xy 24.13 203.2) (xy 26.67 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28138d50-cc13-4cb6-9f8e-cdc4f100c17f")
+	)
+	(wire
+		(pts
 			(xy 134.62 78.74) (xy 134.62 106.68)
 		)
 		(stroke
@@ -1297,6 +1753,16 @@
 			(type default)
 		)
 		(uuid "292c4309-c60b-4368-a978-578f2be98298")
+	)
+	(wire
+		(pts
+			(xy 19.05 170.18) (xy 21.59 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ab470b1-fa35-4f60-82b0-85ed233a24a2")
 	)
 	(wire
 		(pts
@@ -1350,6 +1816,16 @@
 	)
 	(wire
 		(pts
+			(xy 24.13 194.31) (xy 26.67 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30b46df5-1b30-4b75-a264-826ef33a099a")
+	)
+	(wire
+		(pts
 			(xy 62.23 53.34) (xy 62.23 55.88)
 		)
 		(stroke
@@ -1357,6 +1833,16 @@
 			(type default)
 		)
 		(uuid "33f1cf7e-5b63-4e78-a915-b96d48bbd33c")
+	)
+	(wire
+		(pts
+			(xy 29.21 151.13) (xy 31.75 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34f468de-defc-4252-a82f-5329c2c427f0")
 	)
 	(wire
 		(pts
@@ -1397,6 +1883,16 @@
 			(type default)
 		)
 		(uuid "377d04da-e0e0-4ee1-824c-b4d88b5d98ce")
+	)
+	(wire
+		(pts
+			(xy 26.67 170.18) (xy 29.21 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37d7e893-71bb-4daa-9355-ecddf12eb3af")
 	)
 	(wire
 		(pts
@@ -1500,6 +1996,16 @@
 	)
 	(wire
 		(pts
+			(xy 34.29 194.31) (xy 36.83 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "403eede8-152a-4d57-812f-b9b04f66888c")
+	)
+	(wire
+		(pts
 			(xy 95.25 251.46) (xy 95.25 257.81)
 		)
 		(stroke
@@ -1517,6 +2023,16 @@
 			(type default)
 		)
 		(uuid "41ca3a4e-9d16-4476-b688-33b9654384ab")
+	)
+	(wire
+		(pts
+			(xy 19.05 151.13) (xy 21.59 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44ed13e3-5330-4a15-aab9-c62d679a7d22")
 	)
 	(bus
 		(pts
@@ -1570,6 +2086,16 @@
 	)
 	(wire
 		(pts
+			(xy 29.21 250.19) (xy 31.75 250.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47afcc16-6779-4159-ba7a-58520411e0cb")
+	)
+	(wire
+		(pts
 			(xy 39.37 53.34) (xy 39.37 55.88)
 		)
 		(stroke
@@ -1577,6 +2103,36 @@
 			(type default)
 		)
 		(uuid "4aef651a-e93e-427b-a123-fd0048b5af11")
+	)
+	(wire
+		(pts
+			(xy 21.59 170.18) (xy 24.13 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4befe54e-f1c0-465d-bfde-492dac579201")
+	)
+	(wire
+		(pts
+			(xy 21.59 229.87) (xy 24.13 229.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cd26315-4389-4608-99f3-0736fd5c0183")
+	)
+	(wire
+		(pts
+			(xy 31.75 250.19) (xy 34.29 250.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50ba1883-c674-4ac1-96f7-35312ce7be80")
 	)
 	(wire
 		(pts
@@ -1597,6 +2153,16 @@
 			(type default)
 		)
 		(uuid "511ba88a-9145-4703-b3d5-96e6c8188130")
+	)
+	(wire
+		(pts
+			(xy 26.67 179.07) (xy 29.21 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51c14589-b591-46bf-a4f0-043c121ae5bf")
 	)
 	(bus
 		(pts
@@ -1630,6 +2196,16 @@
 	)
 	(wire
 		(pts
+			(xy 26.67 151.13) (xy 29.21 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "558689d1-0da0-4c39-8b35-66e4770c316f")
+	)
+	(wire
+		(pts
 			(xy 26.67 283.21) (xy 29.21 283.21)
 		)
 		(stroke
@@ -1647,6 +2223,16 @@
 			(type default)
 		)
 		(uuid "585342ec-ca0c-437e-a381-4771f59bd09c")
+	)
+	(wire
+		(pts
+			(xy 26.67 250.19) (xy 29.21 250.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a3bd8aa-e9da-4eda-a12e-bdfe2c2c29f0")
 	)
 	(wire
 		(pts
@@ -1680,6 +2266,16 @@
 	)
 	(wire
 		(pts
+			(xy 21.59 160.02) (xy 24.13 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5cb512d5-60c8-4700-98a9-7e661ef81001")
+	)
+	(wire
+		(pts
 			(xy 55.88 283.21) (xy 58.42 283.21)
 		)
 		(stroke
@@ -1697,6 +2293,16 @@
 			(type default)
 		)
 		(uuid "6244cff8-e1d5-424a-b1cb-2e3c6b12d348")
+	)
+	(wire
+		(pts
+			(xy 34.29 151.13) (xy 36.83 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "641aa746-ac45-4423-8a67-e462c36858d8")
 	)
 	(wire
 		(pts
@@ -1750,6 +2356,16 @@
 	)
 	(wire
 		(pts
+			(xy 24.13 170.18) (xy 26.67 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "692ee4da-d6ea-4a48-ae5f-1bf4845038a0")
+	)
+	(wire
+		(pts
 			(xy 193.04 78.74) (xy 193.04 113.03)
 		)
 		(stroke
@@ -1777,6 +2393,16 @@
 			(type default)
 		)
 		(uuid "6bccd410-e760-44c6-b44f-894cab1422ee")
+	)
+	(wire
+		(pts
+			(xy 34.29 160.02) (xy 36.83 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6bcd8210-2ba1-4fbd-8819-c8683c084bc3")
 	)
 	(wire
 		(pts
@@ -1830,6 +2456,16 @@
 	)
 	(wire
 		(pts
+			(xy 29.21 170.18) (xy 31.75 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71d44343-6b0c-4168-9b30-bbb86c9dcd89")
+	)
+	(wire
+		(pts
 			(xy 36.83 36.83) (xy 43.18 36.83)
 		)
 		(stroke
@@ -1870,6 +2506,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 203.2) (xy 34.29 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "798509bc-282e-4549-bc32-cc449da5fe10")
+	)
+	(wire
+		(pts
 			(xy 36.83 283.21) (xy 39.37 283.21)
 		)
 		(stroke
@@ -1900,6 +2546,46 @@
 	)
 	(wire
 		(pts
+			(xy 26.67 241.3) (xy 29.21 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b7bf1ab-5ed9-4340-8563-617ca49d8a20")
+	)
+	(wire
+		(pts
+			(xy 31.75 151.13) (xy 34.29 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c9fc501-f6f7-422c-871d-a018c1dffc27")
+	)
+	(wire
+		(pts
+			(xy 34.29 250.19) (xy 36.83 250.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d536d2a-91a4-4090-a498-411380d56a72")
+	)
+	(wire
+		(pts
+			(xy 24.13 179.07) (xy 26.67 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e35da1c-6865-4f87-8972-d74a176d23e6")
+	)
+	(wire
+		(pts
 			(xy 63.5 153.67) (xy 63.5 160.02)
 		)
 		(stroke
@@ -1917,6 +2603,16 @@
 			(type default)
 		)
 		(uuid "7fdd544b-ffbb-4c45-9c8f-2819fd79ff84")
+	)
+	(wire
+		(pts
+			(xy 31.75 194.31) (xy 34.29 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80e69038-e4f8-4774-aeb6-4c416603b976")
 	)
 	(wire
 		(pts
@@ -1940,6 +2636,16 @@
 	)
 	(wire
 		(pts
+			(xy 19.05 160.02) (xy 21.59 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "855616cd-6145-40ac-b931-5c972fec5b4d")
+	)
+	(wire
+		(pts
 			(xy 63.5 107.95) (xy 63.5 114.3)
 		)
 		(stroke
@@ -1957,6 +2663,16 @@
 			(type default)
 		)
 		(uuid "87e930ec-ec40-4d3b-8efd-cda1ec3e5e7f")
+	)
+	(wire
+		(pts
+			(xy 21.59 194.31) (xy 24.13 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87ef146a-8660-460a-93fd-2307a62c9a72")
 	)
 	(wire
 		(pts
@@ -2000,6 +2716,16 @@
 	)
 	(wire
 		(pts
+			(xy 24.13 241.3) (xy 26.67 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d8ce47c-a3d6-4e34-bb2b-619b4bb003ab")
+	)
+	(wire
+		(pts
 			(xy 181.61 127) (xy 151.13 127)
 		)
 		(stroke
@@ -2017,6 +2743,26 @@
 			(type default)
 		)
 		(uuid "8fa73622-dcc2-47a8-8ada-c8473e362a21")
+	)
+	(wire
+		(pts
+			(xy 24.13 250.19) (xy 26.67 250.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "909d222b-0b07-4efe-a4f9-34ad4265e092")
+	)
+	(wire
+		(pts
+			(xy 26.67 203.2) (xy 29.21 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91de9acb-687f-4f6a-b9d8-a648017c56f8")
 	)
 	(wire
 		(pts
@@ -2100,6 +2846,16 @@
 	)
 	(wire
 		(pts
+			(xy 29.21 241.3) (xy 31.75 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ad5cae9-03af-49f1-8193-1dc974f6b7bb")
+	)
+	(wire
+		(pts
 			(xy 90.17 257.81) (xy 92.71 257.81)
 		)
 		(stroke
@@ -2110,6 +2866,26 @@
 	)
 	(wire
 		(pts
+			(xy 29.21 179.07) (xy 31.75 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d701a43-8883-4c2e-97de-d1069c801ff8")
+	)
+	(wire
+		(pts
+			(xy 29.21 194.31) (xy 31.75 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d801564-4b9c-40b7-b5c4-941a641aeda9")
+	)
+	(wire
+		(pts
 			(xy 30.48 36.83) (xy 36.83 36.83)
 		)
 		(stroke
@@ -2117,6 +2893,26 @@
 			(type default)
 		)
 		(uuid "9f3df5ef-2fac-4079-97c4-9800a24cc889")
+	)
+	(wire
+		(pts
+			(xy 34.29 220.98) (xy 36.83 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a139a791-b0c6-4a63-bbef-8ec80938a7e0")
+	)
+	(wire
+		(pts
+			(xy 24.13 151.13) (xy 26.67 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4304810-0a3e-4172-a414-357ab58bfbbe")
 	)
 	(wire
 		(pts
@@ -2250,6 +3046,26 @@
 	)
 	(wire
 		(pts
+			(xy 24.13 220.98) (xy 26.67 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b123319d-0147-4604-8b92-cd34a496221f")
+	)
+	(wire
+		(pts
+			(xy 24.13 229.87) (xy 26.67 229.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b183e579-a1e3-494e-89c9-22782318f2e8")
+	)
+	(wire
+		(pts
 			(xy 62.23 237.49) (xy 64.77 237.49)
 		)
 		(stroke
@@ -2267,6 +3083,16 @@
 			(type default)
 		)
 		(uuid "b2378e62-3b99-4c9f-be02-f7e2fa21938d")
+	)
+	(wire
+		(pts
+			(xy 31.75 241.3) (xy 34.29 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2da8e3f-2abc-4dec-8ab3-4fd73c388282")
 	)
 	(wire
 		(pts
@@ -2320,6 +3146,16 @@
 	)
 	(wire
 		(pts
+			(xy 29.21 220.98) (xy 31.75 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7979f3b-722b-4789-bd9b-6c3167592eed")
+	)
+	(wire
+		(pts
 			(xy 53.34 274.32) (xy 55.88 274.32)
 		)
 		(stroke
@@ -2327,6 +3163,26 @@
 			(type default)
 		)
 		(uuid "b920e79c-5803-4c5d-9645-8231f30f612a")
+	)
+	(wire
+		(pts
+			(xy 19.05 241.3) (xy 21.59 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb07febf-77cc-4995-a887-eded5c1f81ed")
+	)
+	(wire
+		(pts
+			(xy 21.59 241.3) (xy 24.13 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bba26bf4-90a8-4c56-99fc-015c9c12f0ae")
 	)
 	(bus
 		(pts
@@ -2347,6 +3203,16 @@
 			(type default)
 		)
 		(uuid "bde86a1f-d846-45fd-b38a-4d75cefa7e31")
+	)
+	(wire
+		(pts
+			(xy 19.05 220.98) (xy 21.59 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bec1e1d6-79bc-4d17-ae05-55cfb16c0235")
 	)
 	(wire
 		(pts
@@ -2377,6 +3243,16 @@
 			(type default)
 		)
 		(uuid "c0ca2fdf-0c4f-4819-89b1-6ce94f390480")
+	)
+	(wire
+		(pts
+			(xy 31.75 179.07) (xy 34.29 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c15163e7-b891-4038-adbe-177a7fdb6444")
 	)
 	(wire
 		(pts
@@ -2450,6 +3326,26 @@
 	)
 	(wire
 		(pts
+			(xy 21.59 151.13) (xy 24.13 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c919cbf7-64f0-4c7a-8e02-19119a2fdf3e")
+	)
+	(wire
+		(pts
+			(xy 26.67 194.31) (xy 29.21 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca4bfbdc-ea97-45a0-bb79-464c7200698c")
+	)
+	(wire
+		(pts
 			(xy 41.91 274.32) (xy 44.45 274.32)
 		)
 		(stroke
@@ -2457,6 +3353,16 @@
 			(type default)
 		)
 		(uuid "ca87ca59-147c-4796-9162-e7a281fa8d60")
+	)
+	(wire
+		(pts
+			(xy 34.29 241.3) (xy 36.83 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb0a3cc7-6dc0-48e1-9c96-9486758c4d2d")
 	)
 	(bus
 		(pts
@@ -2477,6 +3383,16 @@
 			(type default)
 		)
 		(uuid "cd039d69-9f3b-41a8-880c-b9e2781ae6ee")
+	)
+	(wire
+		(pts
+			(xy 19.05 250.19) (xy 21.59 250.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce702115-523f-41dd-a3ac-f47513c56e34")
 	)
 	(wire
 		(pts
@@ -2507,6 +3423,36 @@
 			(type default)
 		)
 		(uuid "d0fe85d6-1879-4a4a-bc88-8f884f918465")
+	)
+	(wire
+		(pts
+			(xy 29.21 229.87) (xy 31.75 229.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1866b09-4db2-4f74-892d-74b331b772f1")
+	)
+	(wire
+		(pts
+			(xy 26.67 229.87) (xy 29.21 229.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2597317-50a0-46a4-b3ff-9b6412f33ff6")
+	)
+	(wire
+		(pts
+			(xy 21.59 203.2) (xy 24.13 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d37060f8-76ec-451f-972b-91b10294846a")
 	)
 	(wire
 		(pts
@@ -2560,6 +3506,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 170.18) (xy 34.29 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db2af578-ede7-4659-9e2e-ebc6868c6e64")
+	)
+	(wire
+		(pts
 			(xy 39.37 274.32) (xy 41.91 274.32)
 		)
 		(stroke
@@ -2590,6 +3546,16 @@
 	)
 	(wire
 		(pts
+			(xy 26.67 160.02) (xy 29.21 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1c683d4-0aeb-465c-b8ab-3de6d3c76923")
+	)
+	(wire
+		(pts
 			(xy 62.23 68.58) (xy 62.23 71.12)
 		)
 		(stroke
@@ -2610,6 +3576,16 @@
 	)
 	(wire
 		(pts
+			(xy 21.59 179.07) (xy 24.13 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e59bddf5-4f8c-4940-a0e9-d9fe6ae887a0")
+	)
+	(wire
+		(pts
 			(xy 49.53 36.83) (xy 55.88 36.83)
 		)
 		(stroke
@@ -2617,6 +3593,16 @@
 			(type default)
 		)
 		(uuid "e5ee7620-6f26-47da-a433-1383e913794a")
+	)
+	(wire
+		(pts
+			(xy 24.13 160.02) (xy 26.67 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7905a9a-f4b0-4110-9002-b2eb8a4d8552")
 	)
 	(wire
 		(pts
@@ -2700,6 +3686,16 @@
 	)
 	(wire
 		(pts
+			(xy 19.05 179.07) (xy 21.59 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee535259-bf46-4e46-91e2-ecc47b5015e0")
+	)
+	(wire
+		(pts
 			(xy 181.61 78.74) (xy 181.61 127)
 		)
 		(stroke
@@ -2717,6 +3713,16 @@
 			(type default)
 		)
 		(uuid "eef7ebe3-520f-41a5-93f0-c6017f14c6ce")
+	)
+	(wire
+		(pts
+			(xy 21.59 220.98) (xy 24.13 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f08d4053-955c-4959-8d81-94da3b89099e")
 	)
 	(wire
 		(pts
@@ -2760,6 +3766,26 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 160.02) (xy 34.29 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6ae2877-8e36-4341-9ff9-1fe90b54667a")
+	)
+	(wire
+		(pts
+			(xy 21.59 250.19) (xy 24.13 250.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7611bdb-2ef2-4940-b2c4-485480783d0b")
+	)
+	(wire
+		(pts
 			(xy 66.04 208.28) (xy 66.04 214.63)
 		)
 		(stroke
@@ -2777,6 +3803,16 @@
 			(type default)
 		)
 		(uuid "f848a69b-c0fb-44c5-9b23-5f1eab266870")
+	)
+	(wire
+		(pts
+			(xy 34.29 229.87) (xy 36.83 229.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9e12d9d-89e5-4677-b78b-22c9b17e1a23")
 	)
 	(wire
 		(pts
@@ -2837,6 +3873,26 @@
 			(type default)
 		)
 		(uuid "fde57870-3151-4dc7-9d08-bba1adcd8ecf")
+	)
+	(wire
+		(pts
+			(xy 34.29 179.07) (xy 36.83 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe56c85c-8004-4078-a707-3015f2b91c79")
+	)
+	(wire
+		(pts
+			(xy 29.21 203.2) (xy 31.75 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe7a07c1-29cc-4e70-89b9-067993ea9fec")
 	)
 	(wire
 		(pts
@@ -2944,6 +4000,17 @@
 		)
 		(uuid "07eb5a98-73b2-4fb5-a482-97b859559059")
 	)
+	(label "AGPIO4"
+		(at 96.52 176.53 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0a99f9db-890d-42a5-ae7b-f2c2438fac62")
+	)
 	(label "5V"
 		(at 151.13 100.33 90)
 		(fields_autoplaced yes)
@@ -2976,6 +4043,17 @@
 			(justify left bottom)
 		)
 		(uuid "1b73e5b6-c467-4206-94c7-6e5b95a6b35d")
+	)
+	(label "AGPIO4"
+		(at 83.82 140.97 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "239dce6f-b4da-4976-98bb-3fc9c10aa1d4")
 	)
 	(label "5V"
 		(at 68.58 137.16 90)
@@ -3110,7 +4188,7 @@
 		(uuid "64aa934e-a799-4759-8040-1f0d0d4c3bd1")
 	)
 	(label "UART6.TX"
-		(at 83.82 140.97 90)
+		(at 86.36 140.97 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3264,7 +4342,7 @@
 		(uuid "978a61e5-ec82-41d4-8cc0-2945816010a4")
 	)
 	(label "UART6.RX"
-		(at 86.36 140.97 90)
+		(at 88.9 140.97 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3592,6 +4670,93 @@
 			(justify left bottom)
 		)
 		(uuid "fe0523cc-2f65-43ad-b7b6-41a6e1e14cfe")
+	)
+	(symbol
+		(lib_id "mousebites:Mousebite_8")
+		(at 21.59 172.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "02f07e89-a1af-41c8-93b5-f27929f8e9be")
+		(property "Reference" "U68"
+			(at 21.59 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "~"
+			(at 27.94 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "mousebites:Mousebite_8"
+			(at 21.59 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 21.59 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 21.59 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5edbc6cd-1dda-4cd4-8086-98c626a5ed96")
+		)
+		(pin "7"
+			(uuid "82ad6903-0154-467d-b909-b80ae10cea36")
+		)
+		(pin "3"
+			(uuid "44b1b079-b874-462f-b8a2-02d6bf9a46f7")
+		)
+		(pin "6"
+			(uuid "44877f43-3ea0-4f09-bbb2-a27edc05383a")
+		)
+		(pin "8"
+			(uuid "f2ceaa54-50b7-423a-98d9-5888adffa1ed")
+		)
+		(pin "2"
+			(uuid "5586f898-4c1c-4ff8-9180-44b456db6b49")
+		)
+		(pin "4"
+			(uuid "a87aae5b-cb52-459b-82cd-12cfde4c54e4")
+		)
+		(pin "5"
+			(uuid "0f0109f3-d25d-4ad8-b4cb-31b59066d66f")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "U68")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
@@ -6498,6 +7663,71 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 26.67 229.87 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2842ef31-0c93-4230-a582-d5408d1adfb9")
+		(property "Reference" "#PWR0185"
+			(at 26.67 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 26.543 225.4758 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 26.67 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 26.67 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 26.67 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7a9fe206-7eb6-4215-bba9-adc4586ee869")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "#PWR0185")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 34.29 283.21 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6982,6 +8212,93 @@
 			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "H22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "mousebites:Mousebite_8")
+		(at 21.59 232.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2d4b32b8-6487-4ec8-aa3a-6c1c16b2764f")
+		(property "Reference" "U65"
+			(at 21.59 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "~"
+			(at 27.94 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "mousebites:Mousebite_8"
+			(at 21.59 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 21.59 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 21.59 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1bd68055-136c-4cad-bff5-a8ef2bd8c870")
+		)
+		(pin "7"
+			(uuid "e9fee3b8-bf40-4c4c-b790-3484a58a2aaa")
+		)
+		(pin "3"
+			(uuid "48e25911-311f-4c47-894d-f972908475fd")
+		)
+		(pin "6"
+			(uuid "a996f4a6-90a7-4534-9bca-67851f626dd0")
+		)
+		(pin "8"
+			(uuid "1653b593-93df-41c7-a406-600681beb383")
+		)
+		(pin "2"
+			(uuid "a5abf89e-a842-4166-a1e5-5c03c3490cf7")
+		)
+		(pin "4"
+			(uuid "9183838f-69f7-4ddf-930e-a36433246f9f")
+		)
+		(pin "5"
+			(uuid "a0dfd841-ff6a-4620-af77-fb9bf1a80c2c")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "U65")
 					(unit 1)
 				)
 			)
@@ -7935,6 +9252,93 @@
 		)
 	)
 	(symbol
+		(lib_id "mousebites:Mousebite_8")
+		(at 21.59 162.56 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "55702d74-47d3-4b60-81be-473308d6b090")
+		(property "Reference" "U71"
+			(at 21.59 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "~"
+			(at 27.94 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "mousebites:Mousebite_8"
+			(at 21.59 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 21.59 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 21.59 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "48c3aa6d-60fc-4599-b6d1-62079da4b401")
+		)
+		(pin "7"
+			(uuid "c1bff4d2-bad1-4f46-b57a-e4ba3559abc6")
+		)
+		(pin "3"
+			(uuid "ed770841-bec3-47e7-a985-4ebb6f521734")
+		)
+		(pin "6"
+			(uuid "d810676f-d181-41ed-aae4-8697c28eca26")
+		)
+		(pin "8"
+			(uuid "f3d1ea62-31c7-433b-8392-b3be65acbdbd")
+		)
+		(pin "2"
+			(uuid "b5d2d9b6-1059-4d19-9976-f52a049dec05")
+		)
+		(pin "4"
+			(uuid "9d49ce44-3ad2-441c-8118-28e5b3fca084")
+		)
+		(pin "5"
+			(uuid "e356b4b3-4977-42ad-baac-2c905fa6f5eb")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "U71")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 36.83 48.26 0)
 		(unit 1)
@@ -8355,6 +9759,71 @@
 			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "H10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 26.67 241.3 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "58cebb6f-419d-4f58-9739-d426dca6f4cc")
+		(property "Reference" "#PWR02"
+			(at 26.67 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 26.543 236.9058 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 26.67 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 26.67 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 26.67 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e6ec39d8-9abe-44f6-a378-c997fe2861f9")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -10380,6 +11849,180 @@
 	)
 	(symbol
 		(lib_id "mousebites:Mousebite_8")
+		(at 21.59 252.73 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6dc4a8f9-99ef-463b-b631-a435fc9c048f")
+		(property "Reference" "U63"
+			(at 21.59 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "~"
+			(at 27.94 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "mousebites:Mousebite_8"
+			(at 21.59 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 21.59 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 21.59 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "510177f6-5944-4e59-8f8b-b018566abec0")
+		)
+		(pin "7"
+			(uuid "73f7ff4a-1744-4c77-b142-0d0f3a097e63")
+		)
+		(pin "3"
+			(uuid "43ba74bb-33e7-42b7-9fb0-0c37f628bb52")
+		)
+		(pin "6"
+			(uuid "e723539b-7ef6-480d-80e2-3add72ee1bcc")
+		)
+		(pin "8"
+			(uuid "bf668ac8-1319-4a27-a7d2-a7331cc80fe8")
+		)
+		(pin "2"
+			(uuid "e11ea703-c2e2-4f00-97f4-3854474d0499")
+		)
+		(pin "4"
+			(uuid "b06ff6f1-2724-4a01-960b-3d5de97d067e")
+		)
+		(pin "5"
+			(uuid "b563b310-22cc-40ed-89c1-8063a8775db0")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "U63")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "mousebites:Mousebite_8")
+		(at 24.13 205.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6ebf0ff2-8139-4633-93e4-9945975e60f0")
+		(property "Reference" "U67"
+			(at 24.13 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "~"
+			(at 30.48 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "mousebites:Mousebite_8"
+			(at 24.13 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 24.13 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 24.13 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c8f76e97-2ce9-4ed2-8098-dad6258657d6")
+		)
+		(pin "7"
+			(uuid "a42812d0-ccc3-41b5-8e81-4fc50ac8ec7d")
+		)
+		(pin "3"
+			(uuid "3ea6f77a-4336-4461-8d33-23c1f6eb6b56")
+		)
+		(pin "6"
+			(uuid "14cb88d1-0dd4-4422-9c6d-2504763b25ef")
+		)
+		(pin "8"
+			(uuid "f2dd639c-d88b-4f8e-ab75-466c1666cb9d")
+		)
+		(pin "2"
+			(uuid "5eb95074-c4c8-4042-aefd-b8f902ea5735")
+		)
+		(pin "4"
+			(uuid "5f2e84a5-d387-48cf-81b0-3892a6a5d776")
+		)
+		(pin "5"
+			(uuid "4711667a-12ab-4530-814f-d430d6f397eb")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "U67")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "mousebites:Mousebite_8")
 		(at 60.96 162.56 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11633,6 +13276,158 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 26.67 151.13 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9f014763-fabb-49c5-b389-19c5d934bf42")
+		(property "Reference" "#PWR0195"
+			(at 26.67 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 26.543 146.7358 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 26.67 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 26.67 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 26.67 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c71238f3-05c0-4ab2-8e08-8a7b8c7e3e85")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "#PWR0195")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "mousebites:Mousebite_8")
+		(at 24.13 196.85 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a16b9b86-4731-4996-a8ed-9c5f4e75e540")
+		(property "Reference" "U66"
+			(at 24.13 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "~"
+			(at 30.48 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "mousebites:Mousebite_8"
+			(at 24.13 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 24.13 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 24.13 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "62fe43cd-7e31-42df-9870-829536b5627f")
+		)
+		(pin "7"
+			(uuid "f847fdd3-f240-4629-ae85-1ad7542f0c5a")
+		)
+		(pin "3"
+			(uuid "4bc750e3-a45c-430a-bf8f-08670544e0aa")
+		)
+		(pin "6"
+			(uuid "a2df5567-a6f0-4bd9-8a24-4e828b438eec")
+		)
+		(pin "8"
+			(uuid "12722d6c-df39-4318-970d-a7962f28c061")
+		)
+		(pin "2"
+			(uuid "6f36bb1f-71ec-4a84-8645-1ded7bb72436")
+		)
+		(pin "4"
+			(uuid "e6d9bb08-07e3-4437-9272-ebaf85390226")
+		)
+		(pin "5"
+			(uuid "bdb860d4-8a86-4442-a6d5-04bce82c12c2")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "U66")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 59.69 36.83 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11697,16 +13492,17 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 96.52 176.53 180)
+		(lib_id "mousebites:Mousebite_8")
+		(at 21.59 223.52 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "a23c10dc-c65c-4d74-9352-5d9b52a03487")
-		(property "Reference" "#PWR0182"
-			(at 96.52 170.18 0)
+		(fields_autoplaced yes)
+		(uuid "a80d555f-b7e1-4fea-882c-8951163725ff")
+		(property "Reference" "U64"
+			(at 21.59 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11714,16 +13510,16 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 96.393 172.1358 0)
+		(property "Value" "~"
+			(at 27.94 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 96.52 176.53 0)
+		(property "Footprint" "mousebites:Mousebite_8"
+			(at 21.59 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11732,7 +13528,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 96.52 176.53 0)
+			(at 21.59 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11740,8 +13536,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 96.52 176.53 0)
+		(property "Description" ""
+			(at 21.59 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11750,12 +13546,33 @@
 			)
 		)
 		(pin "1"
-			(uuid "33cb7013-c9cf-4583-b10e-52f34e7a611e")
+			(uuid "6e40a816-50f6-4d92-bd53-ffd201d0b3f2")
+		)
+		(pin "7"
+			(uuid "c65d542e-cd2c-4734-b7ae-5e6fc40497b9")
+		)
+		(pin "3"
+			(uuid "61146041-d21b-4690-a6b0-23efcb098085")
+		)
+		(pin "6"
+			(uuid "361b2a48-a19f-42e2-a2a3-209c6aa47d32")
+		)
+		(pin "8"
+			(uuid "963d7ef2-e121-455c-b99d-8810bd2eb257")
+		)
+		(pin "2"
+			(uuid "16aaa0d1-9004-4b9f-b583-fb8a8e0da3df")
+		)
+		(pin "4"
+			(uuid "fa69dc64-c9d3-482b-84bf-f9f8d577d3cf")
+		)
+		(pin "5"
+			(uuid "f182c455-b1d7-42ca-b565-c93a5b0e5efa")
 		)
 		(instances
 			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
-					(reference "#PWR0182")
+					(reference "U64")
 					(unit 1)
 				)
 			)
@@ -12608,6 +14425,71 @@
 			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 26.67 179.07 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ae82c547-8961-4f7a-994a-45e1196a4cfa")
+		(property "Reference" "#PWR0194"
+			(at 26.67 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 26.543 174.6758 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 26.67 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 26.67 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 26.67 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2cc21303-052f-445a-840c-6f2b671d7cc1")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "#PWR0194")
 					(unit 1)
 				)
 			)
@@ -13596,6 +15478,136 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 29.21 203.2 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c0f948a1-344f-4bbb-bcf8-8e73e467577a")
+		(property "Reference" "#PWR0192"
+			(at 29.21 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 29.083 198.8058 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 29.21 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 29.21 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 29.21 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5bb25a91-3b13-40b3-a26f-57befd2c38aa")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "#PWR0192")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 26.67 220.98 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c13651f5-dc26-4523-af34-abe76c76dfb5")
+		(property "Reference" "#PWR0184"
+			(at 26.67 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 26.543 216.5858 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 26.67 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 26.67 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 26.67 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1b98b974-d37f-467f-aa12-208ba54e3c06")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "#PWR0184")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "mousebites:Mousebite_8")
 		(at 82.55 260.35 0)
 		(unit 1)
@@ -13752,6 +15764,71 @@
 			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "U61")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 26.67 160.02 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c6d20708-dbfa-4441-9fbc-665b2e2c4e0f")
+		(property "Reference" "#PWR0196"
+			(at 26.67 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 26.543 155.6258 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 26.67 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 26.67 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 26.67 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5845ee80-fa27-4951-852d-3e6f493545d5")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "#PWR0196")
 					(unit 1)
 				)
 			)
@@ -14816,6 +16893,93 @@
 	)
 	(symbol
 		(lib_id "mousebites:Mousebite_8")
+		(at 21.59 181.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e2f98707-6209-4c38-970b-08ff02b638c6")
+		(property "Reference" "U69"
+			(at 21.59 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "~"
+			(at 27.94 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "mousebites:Mousebite_8"
+			(at 21.59 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 21.59 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 21.59 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a620dfc6-b6be-4e2c-8911-fc7960823d34")
+		)
+		(pin "7"
+			(uuid "a4195534-878e-43d1-b2d6-faa1ff2697c9")
+		)
+		(pin "3"
+			(uuid "da2ccc74-d4aa-4964-b7de-40bf1addfc9c")
+		)
+		(pin "6"
+			(uuid "c5af97f7-7cec-406f-a6d4-57a643a9fe20")
+		)
+		(pin "8"
+			(uuid "67440247-849d-4f33-ac37-9c6d7765feeb")
+		)
+		(pin "2"
+			(uuid "cab1e0d0-10b9-4312-acc8-c206ccd8fbdc")
+		)
+		(pin "4"
+			(uuid "c540c2b0-7e9c-4bde-acf9-a625090dd49d")
+		)
+		(pin "5"
+			(uuid "986d4053-6b28-4a6c-948b-85a9e7dcd4da")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "U69")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "mousebites:Mousebite_8")
 		(at 29.21 285.75 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15481,6 +17645,158 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 29.21 194.31 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f57c0c6d-3303-4526-a315-3b407266d8c5")
+		(property "Reference" "#PWR0191"
+			(at 29.21 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 29.083 189.9158 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 29.21 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 29.21 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 29.21 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4e06f56c-8bda-4447-a63e-0f7b94b05ed5")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "#PWR0191")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "mousebites:Mousebite_8")
+		(at 21.59 243.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f60ac09e-553f-49cf-9191-6a0e18a4fd57")
+		(property "Reference" "U62"
+			(at 21.59 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "~"
+			(at 27.94 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "mousebites:Mousebite_8"
+			(at 21.59 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 21.59 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 21.59 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "71a27c42-8af9-47b9-a0e2-fed94569b1f0")
+		)
+		(pin "7"
+			(uuid "7119f034-7412-4497-a628-86e8fd7d41f7")
+		)
+		(pin "3"
+			(uuid "fe89fa90-8326-4b8b-beaf-a4d84967be86")
+		)
+		(pin "6"
+			(uuid "48c91464-d470-4191-a469-26f7ac42215e")
+		)
+		(pin "8"
+			(uuid "d122c5bc-9c60-4fdf-8f11-c900eed0c827")
+		)
+		(pin "2"
+			(uuid "dc722033-3939-4a23-a47f-ac746b1a2b62")
+		)
+		(pin "4"
+			(uuid "dbc01a01-7ab5-487c-a1e4-0fac831b3ff4")
+		)
+		(pin "5"
+			(uuid "8f1d165f-e388-4834-8a51-32ddf8f7b482")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "U62")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 60.96 274.32 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15539,6 +17855,158 @@
 			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "#PWR0126")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 26.67 170.18 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f944765a-bad7-4bf3-8617-0171d7132a03")
+		(property "Reference" "#PWR0193"
+			(at 26.67 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 26.543 165.7858 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 26.67 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 26.67 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 26.67 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0817186b-7615-43f7-afed-6db276f93801")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "#PWR0193")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "mousebites:Mousebite_8")
+		(at 21.59 153.67 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fcc8d851-6229-4498-81e4-92db571224a0")
+		(property "Reference" "U70"
+			(at 21.59 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "~"
+			(at 27.94 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "mousebites:Mousebite_8"
+			(at 21.59 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 21.59 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 21.59 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9861ee25-8a0d-4dbe-bbf3-5ed0a6ee7a14")
+		)
+		(pin "7"
+			(uuid "597c2073-c402-4ee6-b130-bd7bf9efbb47")
+		)
+		(pin "3"
+			(uuid "db888e18-96dc-4e6d-b575-3e6f50324497")
+		)
+		(pin "6"
+			(uuid "24f36965-353a-4676-a239-2c40592cebea")
+		)
+		(pin "8"
+			(uuid "315ba5ce-adf8-4d57-9c99-a2b408b91b87")
+		)
+		(pin "2"
+			(uuid "50764b41-9880-41ff-ba39-4ff80dc043e4")
+		)
+		(pin "4"
+			(uuid "b33494c9-b2cb-4d56-94a1-23d7fb9e3e44")
+		)
+		(pin "5"
+			(uuid "d2393f99-d80d-4440-9501-1b8dd9feb552")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "U70")
 					(unit 1)
 				)
 			)
@@ -16391,6 +18859,71 @@
 			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "H15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 26.67 250.19 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ffd30199-fc68-451b-859c-e019dc637b2e")
+		(property "Reference" "#PWR0182"
+			(at 26.67 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 26.543 245.7958 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 26.67 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 26.67 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 26.67 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f5a596cc-1f30-4001-9361-93451b55025f")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
+					(reference "#PWR0182")
 					(unit 1)
 				)
 			)

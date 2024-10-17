@@ -586,22 +586,23 @@
 				)
 			)
 		)
-		(symbol "Connector:TestPoint_2Pole"
+		(symbol "Connector:TestPoint"
+			(pin_numbers hide)
 			(pin_names
 				(offset 0.762) hide)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "TP"
-				(at 0 1.524 0)
+				(at 0 6.858 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" "TestPoint_2Pole"
-				(at 0 -1.778 0)
+			(property "Value" "TestPoint"
+				(at 0 5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -609,7 +610,7 @@
 				)
 			)
 			(property "Footprint" ""
-				(at 0 0 0)
+				(at 5.08 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -618,6 +619,15 @@
 				)
 			)
 			(property "Datasheet" "~"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "test point"
 				(at 0 0 0)
 				(effects
 					(font
@@ -626,16 +636,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "2-polar test point"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "point tp"
+			(property "ki_keywords" "test point tp"
 				(at 0 0 0)
 				(effects
 					(font
@@ -653,9 +654,9 @@
 					(hide yes)
 				)
 			)
-			(symbol "TestPoint_2Pole_0_1"
+			(symbol "TestPoint_0_1"
 				(circle
-					(center -1.778 0)
+					(center 0 3.302)
 					(radius 0.762)
 					(stroke
 						(width 0)
@@ -665,19 +666,10 @@
 						(type none)
 					)
 				)
-				(circle
-					(center 1.778 0)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
+			)
+			(symbol "TestPoint_1_1"
 				(pin passive line
-					(at -5.08 0 0)
+					(at 0 0 90)
 					(length 2.54)
 					(name "1"
 						(effects
@@ -687,24 +679,6 @@
 						)
 					)
 					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16797,7 +16771,8 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Male")
-		(at 373.38 214.63 180)
+		(at 373.38 214.63 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16805,7 +16780,7 @@
 		(dnp no)
 		(uuid "2cec2bc8-5234-4e0d-ba72-e6ba9bb1ce63")
 		(property "Reference" "J52"
-			(at 374.0912 212.9028 0)
+			(at 374.0912 216.3572 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16814,7 +16789,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Male"
-			(at 374.0912 215.2142 0)
+			(at 374.0912 214.0458 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21785,74 +21760,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint_2Pole")
-		(at 71.12 551.18 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "63a7fec6-c764-436d-9513-d1b949567bc9")
-		(property "Reference" "TP2"
-			(at 71.12 546.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint_2Pole"
-			(at 71.12 548.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 71.12 551.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 71.12 551.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "2-polar test point"
-			(at 71.12 551.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "081adf9f-1b23-492b-b191-6d198df990ec")
-		)
-		(pin "2"
-			(uuid "d07a8267-0ebb-4fd1-a5b1-b3ffca873afd")
-		)
-		(instances
-			(project "hw-openmower-universal"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8"
-					(reference "TP2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 172.72 461.01 90)
 		(unit 1)
@@ -24245,7 +24152,8 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Male")
-		(at 373.38 232.41 180)
+		(at 373.38 232.41 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24253,7 +24161,7 @@
 		(dnp no)
 		(uuid "8bb5d17e-e775-4c9a-b814-fe47db2f6e5c")
 		(property "Reference" "J54"
-			(at 374.0912 230.6828 0)
+			(at 374.0912 234.1372 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24262,7 +24170,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Male"
-			(at 374.0912 232.9942 0)
+			(at 374.0912 231.8258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29535,73 +29443,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 76.2 551.18 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c0505c63-29c8-4cfd-8544-93293f2c7b20")
-		(property "Reference" "#PWR02"
-			(at 76.2 557.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 76.2001 554.99 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 76.2 551.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 76.2 551.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 76.2 551.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cb6c7b7e-dcbb-4dfe-b3ac-fa057050d6ce")
-		)
-		(instances
-			(project "hw-openmower-universal"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8"
-					(reference "#PWR02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 133.35 172.72 90)
 		(mirror x)
@@ -31347,7 +31188,8 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Male")
-		(at 373.38 196.85 180)
+		(at 373.38 196.85 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31355,7 +31197,7 @@
 		(dnp no)
 		(uuid "c9b2b661-7cd6-47d4-99b8-1d134774aa74")
 		(property "Reference" "J30"
-			(at 374.0912 195.1228 0)
+			(at 374.0912 198.5772 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31364,7 +31206,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Male"
-			(at 374.0912 197.4342 0)
+			(at 374.0912 196.2658 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35727,6 +35569,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 66.04 551.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ef6e25cd-b723-460f-a03b-b6a083828121")
+		(property "Reference" "TP2"
+			(at 68.58 546.6079 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 68.58 549.1479 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_Pin:Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork"
+			(at 71.12 551.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 551.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 66.04 551.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "76f3a4e2-e1d0-46d7-a7c3-11e53ce78a17")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8"
+					(reference "TP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 71.12 424.18 90)
 		(unit 1)
@@ -38951,7 +38860,8 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Male")
-		(at 373.38 179.07 180)
+		(at 373.38 179.07 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -38959,7 +38869,7 @@
 		(dnp no)
 		(uuid "faf3d4a1-f9c2-48da-ba0f-c56c0bcf8a5d")
 		(property "Reference" "J28"
-			(at 374.0912 177.3428 0)
+			(at 374.0912 180.7972 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38968,7 +38878,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Male"
-			(at 374.0912 179.6542 0)
+			(at 374.0912 178.4858 0)
 			(effects
 				(font
 					(size 1.27 1.27)
