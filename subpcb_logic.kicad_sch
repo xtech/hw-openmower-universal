@@ -8106,6 +8106,18 @@
 		(uuid "004c5f67-7710-4398-a419-8b97ed6d2843")
 	)
 	(junction
+		(at 219.71 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0466e1a1-c1ea-4db5-9e9a-741828476bc3")
+	)
+	(junction
+		(at 264.16 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "151dd2e7-7934-4bf2-98cd-92fabc290e48")
+	)
+	(junction
 		(at 144.78 180.34)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8154,6 +8166,18 @@
 		(uuid "4d40eb7c-7d76-4f73-abcc-8175e0ee925c")
 	)
 	(junction
+		(at 176.53 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "505b00e7-d83c-40a0-9408-0f919e7ef75c")
+	)
+	(junction
+		(at 175.26 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "507a6a60-9437-413a-aa8d-8d110a8a2ff3")
+	)
+	(junction
 		(at 215.9 182.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8188,6 +8212,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "69b5385c-f209-4521-9e0f-855fe36b3d2f")
+	)
+	(junction
+		(at 220.98 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6ef4546c-eec8-4aa2-b21f-ed0b64c12aa3")
 	)
 	(junction
 		(at 473.71 109.22)
@@ -8688,6 +8718,15 @@
 		(uuid "2e0ca5a9-162c-48da-bd33-af97d374f2ae")
 	)
 	(bus_entry
+		(at 129.54 259.08)
+		(size -2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "304b4701-88ed-423e-8a65-6180cbef1bac")
+	)
+	(bus_entry
 		(at 43.18 408.94)
 		(size 2.54 2.54)
 		(stroke
@@ -8877,6 +8916,15 @@
 		(uuid "a665ff49-f6b0-447f-b641-e6a761c6a1f6")
 	)
 	(bus_entry
+		(at 129.54 256.54)
+		(size -2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab93e525-ba31-406d-b852-a3cc6b56456f")
+	)
+	(bus_entry
 		(at 43.18 411.48)
 		(size 2.54 2.54)
 		(stroke
@@ -9033,6 +9081,16 @@
 	)
 	(wire
 		(pts
+			(xy 129.54 256.54) (xy 157.48 256.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "058ca5c1-5bbd-42a2-b7c3-5f66546cb39a")
+	)
+	(wire
+		(pts
 			(xy 481.33 116.84) (xy 473.71 116.84)
 		)
 		(stroke
@@ -9060,6 +9118,16 @@
 			(type default)
 		)
 		(uuid "0707ed22-e01d-4aa6-9f77-2c9c2a9ffa04")
+	)
+	(wire
+		(pts
+			(xy 186.69 130.81) (xy 175.26 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "075c00e4-d73a-4764-aa07-a12b252f1acf")
 	)
 	(wire
 		(pts
@@ -9253,6 +9321,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 261.62) (xy 152.4 265.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17a5b84e-7491-4089-bca1-406fcaa468af")
+	)
+	(wire
+		(pts
 			(xy 360.68 234.95) (xy 368.3 234.95)
 		)
 		(stroke
@@ -9280,6 +9358,16 @@
 			(type default)
 		)
 		(uuid "19e0d61a-a5ae-43c1-8c57-d7917c035950")
+	)
+	(wire
+		(pts
+			(xy 220.98 49.53) (xy 220.98 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a74eeaf-02c0-4922-b1a1-d2f379548f70")
 	)
 	(wire
 		(pts
@@ -9483,6 +9571,16 @@
 	)
 	(wire
 		(pts
+			(xy 186.69 134.62) (xy 186.69 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b38b8b3-301f-4f41-a8e6-c9cfe4cb8a6f")
+	)
+	(wire
+		(pts
 			(xy 330.2 381) (xy 346.71 381)
 		)
 		(stroke
@@ -9680,6 +9778,16 @@
 			(type default)
 		)
 		(uuid "38e4cc55-2c38-45b6-9a8f-761c7c8fd0f1")
+	)
+	(wire
+		(pts
+			(xy 157.48 261.62) (xy 152.4 261.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "394223a8-93bf-4255-8cbb-898c4f45cb6a")
 	)
 	(wire
 		(pts
@@ -9933,7 +10041,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 40.64) (xy 220.98 52.07)
+			(xy 220.98 40.64) (xy 220.98 49.53)
 		)
 		(stroke
 			(width 0)
@@ -10043,7 +10151,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 40.64) (xy 264.16 52.07)
+			(xy 264.16 40.64) (xy 264.16 49.53)
 		)
 		(stroke
 			(width 0)
@@ -10133,6 +10241,16 @@
 	)
 	(wire
 		(pts
+			(xy 187.96 49.53) (xy 176.53 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5cd4a9fd-8a1b-49f4-813a-ee65e46c09fc")
+	)
+	(wire
+		(pts
 			(xy 248.92 172.72) (xy 245.11 172.72)
 		)
 		(stroke
@@ -10183,6 +10301,16 @@
 	)
 	(bus
 		(pts
+			(xy 111.76 251.46) (xy 127 251.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65a49180-c1df-4acc-b259-dc5af94a79ea")
+	)
+	(bus
+		(pts
 			(xy 154.94 448.31) (xy 154.94 450.85)
 		)
 		(stroke
@@ -10230,6 +10358,16 @@
 			(type default)
 		)
 		(uuid "691140f3-4d24-4777-a0d7-86c8295d5def")
+	)
+	(wire
+		(pts
+			(xy 275.59 53.34) (xy 275.59 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69649448-1e60-488f-822f-966793d24d2f")
 	)
 	(wire
 		(pts
@@ -10461,6 +10599,16 @@
 		)
 		(uuid "7b5e9f9c-3ebb-444c-b7d5-5c9b6dc92a32")
 	)
+	(bus
+		(pts
+			(xy 127 254) (xy 127 256.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c432aa5-f003-4c4b-a1f6-fbb0cb8d1325")
+	)
 	(wire
 		(pts
 			(xy 44.45 529.59) (xy 44.45 532.13)
@@ -10520,6 +10668,16 @@
 			(type default)
 		)
 		(uuid "81613013-02db-4bce-be2c-06f6daed82a8")
+	)
+	(wire
+		(pts
+			(xy 232.41 53.34) (xy 232.41 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "817c0b2b-b113-4f35-b15a-d36201315d66")
 	)
 	(wire
 		(pts
@@ -10593,6 +10751,16 @@
 	)
 	(wire
 		(pts
+			(xy 175.26 130.81) (xy 175.26 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88f2f532-1fe7-4744-9257-5a2f489a38d7")
+	)
+	(wire
+		(pts
 			(xy 360.68 224.79) (xy 360.68 234.95)
 		)
 		(stroke
@@ -10633,7 +10801,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 120.65) (xy 219.71 134.62)
+			(xy 219.71 120.65) (xy 219.71 130.81)
 		)
 		(stroke
 			(width 0)
@@ -10703,6 +10871,16 @@
 	)
 	(wire
 		(pts
+			(xy 232.41 49.53) (xy 220.98 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f6ad934-a192-415a-9c71-55bc6d35d31f")
+	)
+	(wire
+		(pts
 			(xy 181.61 415.29) (xy 170.18 415.29)
 		)
 		(stroke
@@ -10760,6 +10938,16 @@
 			(type default)
 		)
 		(uuid "96ad52e2-512b-48df-ae57-0762befc2e49")
+	)
+	(wire
+		(pts
+			(xy 176.53 49.53) (xy 176.53 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96b48911-b6df-425d-af86-77de3f37c7e8")
 	)
 	(wire
 		(pts
@@ -10880,6 +11068,16 @@
 			(type default)
 		)
 		(uuid "a2047fd5-a8be-4bba-bbf3-ff2edeb2ffe4")
+	)
+	(wire
+		(pts
+			(xy 129.54 259.08) (xy 157.48 259.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a241662b-7b1b-4fd0-89f2-7c24081cbc2d")
 	)
 	(wire
 		(pts
@@ -11023,6 +11221,16 @@
 	)
 	(wire
 		(pts
+			(xy 219.71 130.81) (xy 219.71 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae7d76c3-a6a4-4415-97fb-de98fbb10719")
+	)
+	(wire
+		(pts
 			(xy 144.78 180.34) (xy 156.21 180.34)
 		)
 		(stroke
@@ -11123,6 +11331,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 254) (xy 157.48 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b59f1ae3-b0ac-4a4d-84c3-a642daa0a22b")
+	)
+	(wire
+		(pts
 			(xy 501.65 119.38) (xy 501.65 123.19)
 		)
 		(stroke
@@ -11133,7 +11351,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 40.64) (xy 176.53 52.07)
+			(xy 176.53 40.64) (xy 176.53 49.53)
 		)
 		(stroke
 			(width 0)
@@ -11150,6 +11368,16 @@
 			(type default)
 		)
 		(uuid "b6749247-a5ca-4945-8afa-949a9c7b3f4b")
+	)
+	(bus
+		(pts
+			(xy 127 251.46) (xy 127 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b737927c-f0f9-4ae8-9a72-53ceb06aac22")
 	)
 	(wire
 		(pts
@@ -11363,6 +11591,16 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 49.53) (xy 264.16 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c93522f2-f173-4d49-bc8c-5eda4fb9ab43")
+	)
+	(wire
+		(pts
 			(xy 66.04 344.17) (xy 78.74 344.17)
 		)
 		(stroke
@@ -11380,6 +11618,26 @@
 			(type default)
 		)
 		(uuid "cb31f9c4-2933-4aa2-8092-cef7e55468f7")
+	)
+	(wire
+		(pts
+			(xy 275.59 49.53) (xy 264.16 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbbe2432-220c-4eac-89f0-4b839f3f736c")
+	)
+	(wire
+		(pts
+			(xy 187.96 53.34) (xy 187.96 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbc67331-8b70-479f-aab5-578850dced26")
 	)
 	(wire
 		(pts
@@ -11433,6 +11691,16 @@
 	)
 	(wire
 		(pts
+			(xy 231.14 130.81) (xy 219.71 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce71c8e2-db75-48aa-b1db-c4e8c2374812")
+	)
+	(wire
+		(pts
 			(xy 346.71 431.8) (xy 335.28 431.8)
 		)
 		(stroke
@@ -11440,6 +11708,16 @@
 			(type default)
 		)
 		(uuid "ce962afa-57ba-4f77-9702-366ceaa6d832")
+	)
+	(wire
+		(pts
+			(xy 231.14 134.62) (xy 231.14 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d011661c-69ac-4b6d-98d4-2e2b18c0558e")
 	)
 	(wire
 		(pts
@@ -11623,7 +11901,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 120.65) (xy 175.26 134.62)
+			(xy 175.26 120.65) (xy 175.26 130.81)
 		)
 		(stroke
 			(width 0)
@@ -12216,6 +12494,17 @@
 		)
 		(uuid "fc4d4eef-c8d5-4300-b13c-0ab9f1551415")
 	)
+	(label "UART10{TX RX}"
+		(at 111.76 251.46 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "025dc432-9243-4895-a656-a148df6b07c1")
+	)
 	(label "UART10.TX"
 		(at 175.26 74.93 270)
 		(fields_autoplaced yes)
@@ -12689,6 +12978,17 @@
 		)
 		(uuid "4398d3d0-ee20-4158-925a-a281bcb4bdc4")
 	)
+	(label "5V"
+		(at 152.4 254 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "45010b09-00a8-4f54-aff2-ca1a640d1ec9")
+	)
 	(label "I2C1.SDA"
 		(at 172.72 74.93 270)
 		(fields_autoplaced yes)
@@ -12776,6 +13076,17 @@
 			(justify left bottom)
 		)
 		(uuid "4dac1910-9f36-4947-a5c4-e28b0571b6c6")
+	)
+	(label "UART10.RX"
+		(at 142.24 259.08 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5029336a-9986-4a26-8922-36176b2f6e2f")
 	)
 	(label "ETH2.PAIR_C_N"
 		(at 330.2 398.78 0)
@@ -12875,6 +13186,17 @@
 			(justify left bottom)
 		)
 		(uuid "6791ae74-2741-43e9-9326-97c4f6ba62ab")
+	)
+	(label "UART10.TX"
+		(at 142.24 256.54 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "67ff8e78-8e53-442b-81dc-581ac41d5c73")
 	)
 	(label "STM_SWDIO"
 		(at 368.3 52.07 180)
@@ -17808,6 +18130,72 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 186.69 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "32902497-8bc2-40a7-ac7d-7e450f067191")
+		(property "Reference" "#PWR0149"
+			(at 186.69 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 186.69 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 186.69 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 186.69 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 186.69 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "955a82a5-d0d6-4506-ad21-42116adb5d7c")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8"
+					(reference "#PWR0149")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 223.52 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18288,6 +18676,85 @@
 			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8"
 					(reference "C18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 186.69 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3d60ada8-8a0a-459d-86b5-51c6529e69cb")
+		(property "Reference" "C2"
+			(at 190.5 137.1599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22pF/50V"
+			(at 190.5 139.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 187.6552 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 186.69 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 186.69 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C1653"
+			(at 186.69 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b1be31e8-e2a9-4ac8-a942-326323f0a51d")
+		)
+		(pin "2"
+			(uuid "dbb08554-f9b9-4018-8a6d-6206c05b2494")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8"
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -18911,6 +19378,71 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 152.4 265.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "48091e8a-6778-4102-80d6-4e86fd9ab7a6")
+		(property "Reference" "#PWR04"
+			(at 152.4 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 152.527 269.8242 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 152.4 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 152.4 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 152.4 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a6c6d303-c5ca-4670-b350-c0101daae19b")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 162.56 107.95 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19433,6 +19965,85 @@
 			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8"
 					(reference "J15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 232.41 57.15 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "50931114-60c7-45f0-86e6-00900605f8a5")
+		(property "Reference" "C8"
+			(at 236.22 55.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22pF/50V"
+			(at 236.22 58.4199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 233.3752 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 232.41 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 232.41 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C1653"
+			(at 232.41 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c816bd99-b190-48f9-af6f-e5f1377ccc24")
+		)
+		(pin "2"
+			(uuid "0d6660fe-b0dd-42ee-82c2-73923f05942f")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8"
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -20886,6 +21497,72 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 187.96 60.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "55e02d95-aaa4-4fd7-a626-b8fe31326139")
+		(property "Reference" "#PWR0155"
+			(at 187.96 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 187.96 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 187.96 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 187.96 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 187.96 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7a9f5392-b1cc-4ead-9bc2-f2872d38c8f6")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8"
+					(reference "#PWR0155")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 54.61 537.21 0)
 		(mirror y)
 		(unit 1)
@@ -21315,6 +21992,72 @@
 			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8"
 					(reference "#PWR048")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 231.14 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6fd84123-2523-40fa-a465-be157bcaa4ad")
+		(property "Reference" "#PWR0151"
+			(at 231.14 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 231.14 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 231.14 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 231.14 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 231.14 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f7fa2f75-94c7-4ef7-98ac-3ec2ee2872cc")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8"
+					(reference "#PWR0151")
 					(unit 1)
 				)
 			)
@@ -26667,6 +27410,468 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x04")
+		(at 162.56 256.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(uuid "9d2ba1d5-1eae-4c14-901c-448125801a6e")
+		(property "Reference" "J1"
+			(at 164.592 256.7432 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x04"
+			(at 164.592 259.0546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "455-2249-ND"
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "B4B-XH-A(LF)(SN)"
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stock_PN" "J-JST-XH-1x4"
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C144395"
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "APPLICATION" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CASE" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CONFIGURATION" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CONNECTOR" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CURRENT_RATING" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Centerline_Pitch" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESIGNATOR" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "EU_RoHS_Compliance" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FINISH" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FOOTPRINT" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FOOTPRINT_PATH" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FOOTPRINT_REFERENCE" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "GENDER" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LATEST_REVISION_DATE" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LATEST_REVISION_NOTE" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY_PATH" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY_REF" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_LINK" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Number_of_Positions" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ORIENTATION" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_DESCRIPTION" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_REV" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PITCH" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "POSITIONS" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHED" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Product_Type" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RESISTANCE" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ROHS_COMPLIANT" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SERIES" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SIGNAL_INTEGRITY" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPICE_MODEL" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TECHNOLOGY" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TYPE" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VOLTAGE_RATING_AC" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VOLTAGE_RATING_DC" ""
+			(at 162.56 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2cb8c1c0-c4b8-4f7d-83fd-a6032343da08")
+		)
+		(pin "2"
+			(uuid "1832ecef-82e9-4307-a22e-84a5f6c8e372")
+		)
+		(pin "3"
+			(uuid "357bd0f4-416c-4417-b150-70c7cd523ae9")
+		)
+		(pin "4"
+			(uuid "45300721-fb52-4d22-8901-257083b4f882")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "local_GPS:AS-RTK2B-MICRO-F9P-L1L2SMATH-00")
 		(at 577.85 133.35 0)
 		(unit 1)
@@ -27002,6 +28207,151 @@
 			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8"
 					(reference "R40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 275.59 57.15 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a0eb4c94-6573-4d4e-8e8c-1989744bdd59")
+		(property "Reference" "C7"
+			(at 279.4 55.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22pF/50V"
+			(at 279.4 58.4199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 276.5552 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 275.59 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 275.59 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C1653"
+			(at 275.59 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8bccd9b9-9709-4bf2-8efe-d57d8bb2f30f")
+		)
+		(pin "2"
+			(uuid "7ea26e0b-596a-446a-9d6d-f643bf526b33")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 232.41 60.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a661926e-c441-4fc5-be27-77cf7794e806")
+		(property "Reference" "#PWR0154"
+			(at 232.41 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 232.41 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 232.41 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 232.41 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 232.41 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c0819dd7-1723-490a-9c8b-c1bfda737f7e")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8"
+					(reference "#PWR0154")
 					(unit 1)
 				)
 			)
@@ -27615,6 +28965,85 @@
 			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8"
 					(reference "R85")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 187.96 57.15 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ad1ff5a1-8362-452c-bc32-c1f9eaab5142")
+		(property "Reference" "C48"
+			(at 191.77 55.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22pF/50V"
+			(at 191.77 58.4199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 188.9252 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 187.96 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 187.96 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C1653"
+			(at 187.96 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "09018a4c-354d-44eb-9ea7-78c6db666d89")
+		)
+		(pin "2"
+			(uuid "4f322f68-1d60-45af-9e19-63482fbe51d8")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8"
+					(reference "C48")
 					(unit 1)
 				)
 			)
@@ -30376,6 +31805,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 275.59 60.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ce42cebf-d39f-4a0e-ac7e-fd94967f3e2d")
+		(property "Reference" "#PWR0153"
+			(at 275.59 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 275.59 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 275.59 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 275.59 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 275.59 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d83808e1-4dcb-4ada-9118-a2d6ae7c95fe")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8"
+					(reference "#PWR0153")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 516.89 114.3 90)
 		(unit 1)
@@ -33109,6 +34604,85 @@
 			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8"
 					(reference "J31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 231.14 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "de797820-3700-41bc-a29a-02a56d1795b2")
+		(property "Reference" "C6"
+			(at 234.95 137.1599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22pF/50V"
+			(at 234.95 139.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 232.1052 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 231.14 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 231.14 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C1653"
+			(at 231.14 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4e54858b-d8b7-4292-a653-f2a51ff2bd36")
+		)
+		(pin "2"
+			(uuid "76c40054-6021-43e2-8f84-568f94e61a92")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/becd8bd3-4d11-46de-85b5-377ba260c0f8"
+					(reference "C6")
 					(unit 1)
 				)
 			)

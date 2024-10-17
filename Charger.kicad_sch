@@ -133,22 +133,22 @@
 				)
 			)
 		)
-		(symbol "Connector_Generic:Conn_02x07_Odd_Even"
+		(symbol "Connector_Generic:Conn_02x04_Odd_Even"
 			(pin_names
 				(offset 1.016) hide)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "J"
-				(at 1.27 10.16 0)
+				(at 1.27 5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" "Conn_02x07_Odd_Even"
-				(at 1.27 -10.16 0)
+			(property "Value" "Conn_02x04_Odd_Even"
+				(at 1.27 -7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -173,7 +173,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Generic connector, double row, 02x07, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(property "Description" "Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
 				(at 0 0 0)
 				(effects
 					(font
@@ -200,18 +200,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "Conn_02x07_Odd_Even_1_1"
-				(rectangle
-					(start -1.27 -7.493)
-					(end 0 -7.747)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
+			(symbol "Conn_02x04_Odd_Even_1_1"
 				(rectangle
 					(start -1.27 -4.953)
 					(end 0 -5.207)
@@ -257,47 +246,14 @@
 					)
 				)
 				(rectangle
-					(start -1.27 5.207)
-					(end 0 4.953)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 7.747)
-					(end 0 7.493)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 8.89)
-					(end 3.81 -8.89)
+					(start -1.27 3.81)
+					(end 3.81 -6.35)
 					(stroke
 						(width 0.254)
 						(type default)
 					)
 					(fill
 						(type background)
-					)
-				)
-				(rectangle
-					(start 3.81 -7.493)
-					(end 2.54 -7.747)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
 					)
 				)
 				(rectangle
@@ -344,30 +300,8 @@
 						(type none)
 					)
 				)
-				(rectangle
-					(start 3.81 5.207)
-					(end 2.54 4.953)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 3.81 7.747)
-					(end 2.54 7.493)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
 				(pin passive line
-					(at -5.08 7.62 0)
+					(at -5.08 2.54 0)
 					(length 3.81)
 					(name "Pin_1"
 						(effects
@@ -385,97 +319,7 @@
 					)
 				)
 				(pin passive line
-					(at 7.62 -2.54 180)
-					(length 3.81)
-					(name "Pin_10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -5.08 0)
-					(length 3.81)
-					(name "Pin_11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 -5.08 180)
-					(length 3.81)
-					(name "Pin_12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -7.62 0)
-					(length 3.81)
-					(name "Pin_13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 -7.62 180)
-					(length 3.81)
-					(name "Pin_14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 7.62 180)
+					(at 7.62 2.54 180)
 					(length 3.81)
 					(name "Pin_2"
 						(effects
@@ -493,7 +337,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 5.08 0)
+					(at -5.08 0 0)
 					(length 3.81)
 					(name "Pin_3"
 						(effects
@@ -511,7 +355,7 @@
 					)
 				)
 				(pin passive line
-					(at 7.62 5.08 180)
+					(at 7.62 0 180)
 					(length 3.81)
 					(name "Pin_4"
 						(effects
@@ -529,7 +373,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 2.54 0)
+					(at -5.08 -2.54 0)
 					(length 3.81)
 					(name "Pin_5"
 						(effects
@@ -547,7 +391,7 @@
 					)
 				)
 				(pin passive line
-					(at 7.62 2.54 180)
+					(at 7.62 -2.54 180)
 					(length 3.81)
 					(name "Pin_6"
 						(effects
@@ -565,7 +409,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 0 0)
+					(at -5.08 -5.08 0)
 					(length 3.81)
 					(name "Pin_7"
 						(effects
@@ -583,7 +427,7 @@
 					)
 				)
 				(pin passive line
-					(at 7.62 0 180)
+					(at 7.62 -5.08 180)
 					(length 3.81)
 					(name "Pin_8"
 						(effects
@@ -593,24 +437,6 @@
 						)
 					)
 					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1490,6 +1316,187 @@
 					(at 0 -3.81 90)
 					(length 1.27)
 					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Jumper:SolderJumper_2_Open"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim yes)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "JP"
+				(at 0 2.032 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SolderJumper_2_Open"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Solder Jumper, 2-pole, open"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "solder jumper SPST"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SolderJumper*Open*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SolderJumper_2_Open_0_1"
+				(arc
+					(start -0.254 1.016)
+					(mid -1.2656 0)
+					(end -0.254 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -0.254 1.016)
+					(mid -1.2656 0)
+					(end -0.254 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.254 1.016) (xy -0.254 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 1.016) (xy 0.254 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0.254 -1.016)
+					(mid 1.2656 0)
+					(end 0.254 1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0.254 -1.016)
+					(mid 1.2656 0)
+					(end 0.254 1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "SolderJumper_2_Open_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "B"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3150,12 +3157,6 @@
 		)
 	)
 	(junction
-		(at 304.8 177.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "02cfb36b-76de-4a4f-a9ec-662cf85513fc")
-	)
-	(junction
 		(at 336.55 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3184,12 +3185,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "22c5cc38-1339-45c6-9fbe-60fe9fd839f2")
-	)
-	(junction
-		(at 294.64 177.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "25219d6a-371e-44db-8ad9-90fc21e2028a")
 	)
 	(junction
 		(at 372.11 124.46)
@@ -3228,6 +3223,12 @@
 		(uuid "3e079c39-6c26-4fd3-b2d3-1a2ae4fcd21f")
 	)
 	(junction
+		(at 302.26 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3e5a7f12-406d-4a1f-8209-d2ffa0076c07")
+	)
+	(junction
 		(at 193.04 143.51)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3238,12 +3239,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "425333d8-1d5f-42c5-a8d6-298161c2cc83")
-	)
-	(junction
-		(at 299.72 177.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "44d8cf1a-41cc-4aaa-b910-10dd38c3fe4d")
 	)
 	(junction
 		(at 121.92 55.88)
@@ -3306,12 +3301,6 @@
 		(uuid "5a0a1c9f-7f73-42da-b853-20fa171f71df")
 	)
 	(junction
-		(at 189.23 208.28)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6661ec75-b5f3-441c-aeb9-e973a5454164")
-	)
-	(junction
 		(at 292.1 220.98)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3322,12 +3311,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "735cced4-3bae-4b8b-a47d-4b9b8369ba58")
-	)
-	(junction
-		(at 302.26 177.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "761c6f1e-5163-46d6-9847-b02db44f75ad")
 	)
 	(junction
 		(at 110.49 168.91)
@@ -3352,12 +3335,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "87c042ab-ae20-4224-9b0d-383eec29b274")
-	)
-	(junction
-		(at 134.62 220.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8846eb38-7ca4-43cd-ad8f-bdab4a0ea5e7")
 	)
 	(junction
 		(at 185.42 102.87)
@@ -3510,22 +3487,16 @@
 		(uuid "c0b2eb47-8054-4789-a7d7-20c0b112ca9a")
 	)
 	(junction
+		(at 299.72 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c20642d1-cf85-42ff-a38c-2609257d4dc9")
+	)
+	(junction
 		(at 281.94 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c50284dc-abba-4345-ae9e-b7274b631e64")
-	)
-	(junction
-		(at 297.18 177.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c5e47244-1139-40b6-bf2c-c309823c5dc7")
-	)
-	(junction
-		(at 189.23 220.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c6e88b1b-e14f-4430-8c58-991a95bcaed4")
 	)
 	(junction
 		(at 341.63 132.08)
@@ -3564,6 +3535,12 @@
 		(uuid "ddb4879c-f3d7-4f4a-866e-ba168d4bc9b5")
 	)
 	(junction
+		(at 304.8 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e1dd9229-570b-4a28-b4e9-1ce5b27975f4")
+	)
+	(junction
 		(at 372.11 156.21)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3598,12 +3575,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f7fd1d1e-0d7e-4ccd-9cfb-6f3f3173c9ed")
-	)
-	(junction
-		(at 134.62 208.28)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f966eed4-589b-487d-af9c-e4065092701f")
 	)
 	(junction
 		(at 72.39 63.5)
@@ -3673,16 +3644,6 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 190.5) (xy 294.64 194.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "04cfc4b2-d385-45c1-95c8-8974d64111d4")
-	)
-	(wire
-		(pts
 			(xy 48.26 55.88) (xy 48.26 57.15)
 		)
 		(stroke
@@ -3690,16 +3651,6 @@
 			(type default)
 		)
 		(uuid "0761390e-5eee-47ae-be5b-ae6d3d02445d")
-	)
-	(wire
-		(pts
-			(xy 302.26 177.8) (xy 304.8 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "080f03c9-d664-4ed3-9d63-5f65d0d5a955")
 	)
 	(wire
 		(pts
@@ -3820,6 +3771,16 @@
 			(type default)
 		)
 		(uuid "179d4e19-9de2-4de2-ad35-16d27ae1543d")
+	)
+	(wire
+		(pts
+			(xy 297.18 177.8) (xy 299.72 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17b79a62-e908-4da0-8d44-254a0c63f765")
 	)
 	(wire
 		(pts
@@ -4043,16 +4004,6 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 210.82) (xy 152.4 208.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2f6702a9-9633-4a8a-8078-3eec5ba532bc")
-	)
-	(wire
-		(pts
 			(xy 422.91 133.35) (xy 422.91 138.43)
 		)
 		(stroke
@@ -4080,16 +4031,6 @@
 			(type default)
 		)
 		(uuid "30a940ac-bad3-4ae3-98ff-dd9d99b13734")
-	)
-	(wire
-		(pts
-			(xy 134.62 193.04) (xy 134.62 208.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "30afc081-dcac-4ed6-9b6c-0234e6f5f4db")
 	)
 	(wire
 		(pts
@@ -4183,16 +4124,6 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 177.8) (xy 297.18 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "37872066-77f4-4136-8b52-28259d3667af")
-	)
-	(wire
-		(pts
 			(xy 347.98 196.85) (xy 347.98 209.55)
 		)
 		(stroke
@@ -4230,16 +4161,6 @@
 			(type default)
 		)
 		(uuid "3a44aba8-1f54-4a01-a3d3-a801d9daacbe")
-	)
-	(wire
-		(pts
-			(xy 152.4 208.28) (xy 134.62 208.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3d066287-5698-435f-818e-9c5a177d8a8b")
 	)
 	(wire
 		(pts
@@ -4403,26 +4324,6 @@
 	)
 	(wire
 		(pts
-			(xy 292.1 177.8) (xy 294.64 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "51fed98b-9652-4ee0-a2af-6bda14a08190")
-	)
-	(wire
-		(pts
-			(xy 134.62 208.28) (xy 134.62 210.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "52755855-2462-4d55-8ee6-9ee7973f294f")
-	)
-	(wire
-		(pts
 			(xy 77.47 63.5) (xy 82.55 63.5)
 		)
 		(stroke
@@ -4430,6 +4331,16 @@
 			(type default)
 		)
 		(uuid "54b698c0-7751-4eaf-a698-6e3c06bd95ec")
+	)
+	(wire
+		(pts
+			(xy 299.72 177.8) (xy 302.26 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55c7e15f-d7ce-4760-b38e-83640fc73b7e")
 	)
 	(wire
 		(pts
@@ -4473,17 +4384,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 220.98) (xy 134.62 220.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5e060c8c-69d3-4a02-88e8-b750ecca8ccb")
-	)
-	(wire
-		(pts
-			(xy 307.34 193.04) (xy 452.12 193.04)
+			(xy 312.42 193.04) (xy 452.12 193.04)
 		)
 		(stroke
 			(width 0)
@@ -4553,13 +4454,13 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 193.04) (xy 292.1 193.04)
+			(xy 304.8 177.8) (xy 312.42 177.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "69d59f6a-4189-43ae-87c4-52627ed60b1a")
+		(uuid "697a87ce-e5df-4a1d-b529-3f15b4ecccb6")
 	)
 	(wire
 		(pts
@@ -4580,6 +4481,16 @@
 			(type default)
 		)
 		(uuid "6ab3fe4e-38cc-47fd-be91-397d926eb05e")
+	)
+	(wire
+		(pts
+			(xy 312.42 186.69) (xy 312.42 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b7784fc-bf13-4547-ae69-96e65d6f1a1b")
 	)
 	(wire
 		(pts
@@ -4693,16 +4604,6 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 218.44) (xy 207.01 220.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "74faa9e2-9b28-4c88-8422-924cd36ea08d")
-	)
-	(wire
-		(pts
 			(xy 309.88 220.98) (xy 292.1 220.98)
 		)
 		(stroke
@@ -4743,16 +4644,6 @@
 	)
 	(wire
 		(pts
-			(xy 292.1 193.04) (xy 292.1 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "78780f3f-f9ef-4ea5-9f1b-29ed9f298164")
-	)
-	(wire
-		(pts
 			(xy 237.49 248.92) (xy 245.11 248.92)
 		)
 		(stroke
@@ -4763,16 +4654,6 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 194.31) (xy 189.23 208.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7c38de8c-5bea-4777-a624-a9ad583d05c9")
-	)
-	(wire
-		(pts
 			(xy 109.22 73.66) (xy 109.22 55.88)
 		)
 		(stroke
@@ -4780,26 +4661,6 @@
 			(type default)
 		)
 		(uuid "7e2d90f2-8208-46ba-834c-7fbc22ef9f16")
-	)
-	(wire
-		(pts
-			(xy 304.8 177.8) (xy 307.34 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f3a46bc-636e-4b79-bb58-4dd83c62f1a5")
-	)
-	(wire
-		(pts
-			(xy 134.62 220.98) (xy 134.62 226.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8053422b-9a53-4eb5-9868-7de81b1bc693")
 	)
 	(wire
 		(pts
@@ -4883,16 +4744,6 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 208.28) (xy 189.23 210.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8999e606-e5ec-4e94-a673-6e8a15859108")
-	)
-	(wire
-		(pts
 			(xy 331.47 132.08) (xy 336.55 132.08)
 		)
 		(stroke
@@ -4913,16 +4764,6 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 218.44) (xy 152.4 220.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8c621921-ec3d-4b3b-92aa-825a82cb5c1f")
-	)
-	(wire
-		(pts
 			(xy 326.39 132.08) (xy 331.47 132.08)
 		)
 		(stroke
@@ -4930,16 +4771,6 @@
 			(type default)
 		)
 		(uuid "8ccb5de0-aa82-4427-837f-0be114d4f928")
-	)
-	(wire
-		(pts
-			(xy 189.23 218.44) (xy 189.23 220.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8df72c2f-2df2-47e8-9c32-1dcc7a7667f3")
 	)
 	(wire
 		(pts
@@ -5020,16 +4851,6 @@
 			(type default)
 		)
 		(uuid "9b127c01-5b57-4123-a66b-8505c57fe461")
-	)
-	(wire
-		(pts
-			(xy 207.01 210.82) (xy 207.01 208.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c59858e-0561-4354-aa9f-53db4bf0ee41")
 	)
 	(wire
 		(pts
@@ -5253,26 +5074,6 @@
 	)
 	(wire
 		(pts
-			(xy 297.18 177.8) (xy 299.72 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b8343ffc-501b-4095-84ed-838cc9332add")
-	)
-	(wire
-		(pts
-			(xy 207.01 220.98) (xy 189.23 220.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b866d320-92a1-4e1b-a8db-51572b6abe3d")
-	)
-	(wire
-		(pts
 			(xy 445.77 124.46) (xy 450.85 124.46)
 		)
 		(stroke
@@ -5310,16 +5111,6 @@
 			(type default)
 		)
 		(uuid "ba80b1a4-933e-483e-9a8e-b0d0bc234764")
-	)
-	(wire
-		(pts
-			(xy 207.01 208.28) (xy 189.23 208.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb19c5f1-3e36-4b8d-ba80-51601fd3aa0d")
 	)
 	(wire
 		(pts
@@ -5470,16 +5261,6 @@
 			(type default)
 		)
 		(uuid "c702c487-e804-47b5-99d3-c00520ce99b5")
-	)
-	(wire
-		(pts
-			(xy 134.62 218.44) (xy 134.62 220.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c7a36592-296a-4f8b-a4cc-81fead32e4aa")
 	)
 	(wire
 		(pts
@@ -5713,16 +5494,6 @@
 	)
 	(wire
 		(pts
-			(xy 307.34 190.5) (xy 307.34 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dcf56561-cc88-4896-94e4-14c028b3331e")
-	)
-	(wire
-		(pts
 			(xy 129.54 151.13) (xy 144.78 151.13)
 		)
 		(stroke
@@ -5730,16 +5501,6 @@
 			(type default)
 		)
 		(uuid "dfc4efc9-e0dc-44d5-828e-2041b1984021")
-	)
-	(wire
-		(pts
-			(xy 299.72 177.8) (xy 302.26 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dffaa266-f1a2-416a-8041-0ad05d3c0e39")
 	)
 	(wire
 		(pts
@@ -5803,16 +5564,6 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 220.98) (xy 189.23 226.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e66b034a-8137-48c7-85a9-0d64fb74b6c2")
-	)
-	(wire
-		(pts
 			(xy 294.64 129.54) (xy 289.56 129.54)
 		)
 		(stroke
@@ -5820,6 +5571,16 @@
 			(type default)
 		)
 		(uuid "e95f3dd5-5507-4139-afba-c9423cc847fd")
+	)
+	(wire
+		(pts
+			(xy 312.42 177.8) (xy 312.42 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e980903f-1a4b-4a21-b24a-158cf402793b")
 	)
 	(wire
 		(pts
@@ -5953,16 +5714,6 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 194.31) (xy 189.23 194.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f63a612a-aa50-45ee-bd05-d3ef7f0dc36e")
-	)
-	(wire
-		(pts
 			(xy 417.83 222.25) (xy 400.05 222.25)
 		)
 		(stroke
@@ -6051,16 +5802,15 @@
 		)
 		(uuid "fd28b52d-895e-4bbd-a0e3-d7068cca5bf7")
 	)
-	(text "3S\nRBot = 35.7 kOhms gives 4.08V cell end voltage."
-		(exclude_from_sim no)
-		(at 133.858 233.172 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
+	(wire
+		(pts
+			(xy 302.26 177.8) (xy 304.8 177.8)
 		)
-		(uuid "12d6928d-91e0-4465-b44f-8773c1a7791a")
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe4d457f-bfd8-408b-8519-005ec4f21f59")
 	)
 	(text "6S\nRBot = 16.2 kOhms gives 4.15V cell end voltage."
 		(exclude_from_sim no)
@@ -6072,17 +5822,6 @@
 			(justify left)
 		)
 		(uuid "30ca25a4-b897-454f-a2ef-bfb9bb8ead2f")
-	)
-	(text "4S\nRBot = 25.5 kOhms gives 4.14V cell end voltage."
-		(exclude_from_sim no)
-		(at 188.468 233.172 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c304c5ed-9879-4daf-83e0-1735e827a659")
 	)
 	(text "Custom"
 		(exclude_from_sim no)
@@ -6205,17 +5944,6 @@
 		)
 		(uuid "272636f6-e4df-42af-ad98-dea584ab114f")
 	)
-	(label "FBG"
-		(at 189.23 226.06 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "29c29b6b-985d-4aca-a906-73da08471eed")
-	)
 	(label "FB"
 		(at 139.7 140.97 180)
 		(fields_autoplaced yes)
@@ -6281,17 +6009,6 @@
 			(justify left bottom)
 		)
 		(uuid "58b1c759-42c9-43fa-9207-35e423c18856")
-	)
-	(label "FBG"
-		(at 134.62 226.06 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5961bb1f-bf9b-44c4-bdfd-4c59a349c900")
 	)
 	(label "FBG"
 		(at 292.1 226.06 0)
@@ -22542,427 +22259,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 134.62 214.63 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "aada965f-895f-4a21-b27f-1d01cad7f5d8")
-		(property "Reference" "R91"
-			(at 137.16 213.3599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "35.7k 1%"
-			(at 137.16 215.8999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 132.842 214.63 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLC" "C23027"
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "APPLICATION" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CASE" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIGURATION" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONNECTOR" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CURRENT_RATING" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Centerline_Pitch" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DESIGNATOR" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "EU_RoHS_Compliance" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FINISH" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_PATH" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_REFERENCE" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GENDER" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_DATE" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_NOTE" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_PATH" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_REF" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_LINK" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Number_of_Positions" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ORIENTATION" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_DESCRIPTION" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_REV" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PITCH" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "POSITIONS" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Product_Type" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RESISTANCE" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_COMPLIANT" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SIGNAL_INTEGRITY" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPICE_MODEL" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TYPE" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_AC" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_DC" ""
-			(at 134.62 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b907f274-b4b9-478c-93eb-e427bb819990")
-		)
-		(pin "1"
-			(uuid "27be0f61-6f45-46eb-b1d2-344dd756f109")
-		)
-		(instances
-			(project "hw-openmower-universal"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2930b75f-7142-4414-b99a-728851a6a7da/06123601-78a7-45a5-9135-d0172885f72e"
-					(reference "R91")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 193.04 147.32 0)
 		(unit 1)
@@ -24221,427 +23517,6 @@
 			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2930b75f-7142-4414-b99a-728851a6a7da/06123601-78a7-45a5-9135-d0172885f72e"
 					(reference "R96")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 207.01 214.63 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "b0a74a3b-aa84-455d-9ae4-579cac205da1")
-		(property "Reference" "R90"
-			(at 209.55 213.3599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "DNP"
-			(at 209.55 215.8999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 205.232 214.63 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLC" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "APPLICATION" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CASE" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIGURATION" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONNECTOR" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CURRENT_RATING" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Centerline_Pitch" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DESIGNATOR" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "EU_RoHS_Compliance" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FINISH" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_PATH" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_REFERENCE" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GENDER" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_DATE" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_NOTE" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_PATH" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_REF" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_LINK" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Number_of_Positions" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ORIENTATION" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_DESCRIPTION" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_REV" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PITCH" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "POSITIONS" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Product_Type" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RESISTANCE" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_COMPLIANT" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SIGNAL_INTEGRITY" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPICE_MODEL" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TYPE" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_AC" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_DC" ""
-			(at 207.01 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "d295a997-c076-4a4b-8c78-52c36a95dfe3")
-		)
-		(pin "1"
-			(uuid "b9f641fb-2314-4268-9964-e8f11b0e8538")
-		)
-		(instances
-			(project "hw-openmower-universal"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2930b75f-7142-4414-b99a-728851a6a7da/06123601-78a7-45a5-9135-d0172885f72e"
-					(reference "R90")
 					(unit 1)
 				)
 			)
@@ -27361,6 +26236,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 312.42 182.88 90)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c06196b2-c1b0-4c24-897e-05c7f792a946")
+		(property "Reference" "JP3"
+			(at 314.96 181.6099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 314.96 184.1499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
+			(at 312.42 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 312.42 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 312.42 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fbf132a1-dd4c-4f09-b9eb-208e59531998")
+		)
+		(pin "1"
+			(uuid "cdec8a41-1dcd-4a19-9e46-468874286884")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2930b75f-7142-4414-b99a-728851a6a7da/06123601-78a7-45a5-9135-d0172885f72e"
+					(reference "JP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint_2Pole")
 		(at 160.02 257.81 90)
 		(mirror x)
@@ -29872,6 +28817,95 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_02x04_Odd_Even")
+		(at 299.72 182.88 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c6ce4f0a-2674-4954-9963-eca6ba34dcd2")
+		(property "Reference" "J2"
+			(at 307.34 182.8799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_02x04_Odd_Even"
+			(at 307.34 185.4199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical"
+			(at 299.72 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 299.72 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 299.72 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "06a9207c-700b-49c8-9553-0b4ffa44a984")
+		)
+		(pin "5"
+			(uuid "64918b0d-2e95-4b20-b4c4-6a7647e868b5")
+		)
+		(pin "1"
+			(uuid "26f90475-c4e5-4612-b776-298920110944")
+		)
+		(pin "7"
+			(uuid "a90049de-5e53-47a8-b6bd-428198c8e054")
+		)
+		(pin "6"
+			(uuid "d80b5ef5-d6fc-4339-ac85-7c2cec080130")
+		)
+		(pin "2"
+			(uuid "c745b1a1-33e0-4093-b742-af941eb821c6")
+		)
+		(pin "4"
+			(uuid "c09d7f11-dace-4e99-ac79-25f54badd49e")
+		)
+		(pin "8"
+			(uuid "5504ca6c-7c1c-494b-81a1-1c7868ffe19d")
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2930b75f-7142-4414-b99a-728851a6a7da/06123601-78a7-45a5-9135-d0172885f72e"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 372.11 128.27 0)
 		(unit 1)
@@ -30287,427 +29321,6 @@
 			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2930b75f-7142-4414-b99a-728851a6a7da/06123601-78a7-45a5-9135-d0172885f72e"
 					(reference "R68")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 152.4 214.63 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "c8510f21-3275-47b2-8db2-9ff387fce0f8")
-		(property "Reference" "R92"
-			(at 154.94 213.3599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "DNP"
-			(at 154.94 215.8999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 150.622 214.63 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLC" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "APPLICATION" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CASE" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIGURATION" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONNECTOR" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CURRENT_RATING" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Centerline_Pitch" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DESIGNATOR" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "EU_RoHS_Compliance" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FINISH" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_PATH" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_REFERENCE" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GENDER" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_DATE" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_NOTE" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_PATH" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_REF" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_LINK" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Number_of_Positions" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ORIENTATION" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_DESCRIPTION" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_REV" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PITCH" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "POSITIONS" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Product_Type" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RESISTANCE" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_COMPLIANT" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SIGNAL_INTEGRITY" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPICE_MODEL" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TYPE" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_AC" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_DC" ""
-			(at 152.4 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "89e43e25-364c-4bbe-aea8-985c2ab9bf15")
-		)
-		(pin "1"
-			(uuid "aba32e7e-d8fe-4e3e-a00f-cad2fde58121")
-		)
-		(instances
-			(project "hw-openmower-universal"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2930b75f-7142-4414-b99a-728851a6a7da/06123601-78a7-45a5-9135-d0172885f72e"
-					(reference "R92")
 					(unit 1)
 				)
 			)
@@ -35109,427 +33722,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 189.23 214.63 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e81a77f8-f52b-473c-bd7d-9ded59d9c533")
-		(property "Reference" "R89"
-			(at 191.77 213.3599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "25.5k 0.5%"
-			(at 191.77 215.8999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 187.452 214.63 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLC" "C273793"
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "APPLICATION" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CASE" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIGURATION" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONNECTOR" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CURRENT_RATING" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Centerline_Pitch" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DESIGNATOR" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "EU_RoHS_Compliance" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FINISH" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_PATH" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_REFERENCE" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GENDER" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_DATE" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_NOTE" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_PATH" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_REF" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_LINK" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Number_of_Positions" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ORIENTATION" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_DESCRIPTION" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_REV" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PITCH" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "POSITIONS" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Product_Type" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RESISTANCE" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_COMPLIANT" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SIGNAL_INTEGRITY" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPICE_MODEL" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TYPE" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_AC" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_DC" ""
-			(at 189.23 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "70bf151e-50d3-41fa-9e07-a041a3ba880e")
-		)
-		(pin "1"
-			(uuid "9239c530-9288-4825-95fc-63abbab53d89")
-		)
-		(instances
-			(project "hw-openmower-universal"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2930b75f-7142-4414-b99a-728851a6a7da/06123601-78a7-45a5-9135-d0172885f72e"
-					(reference "R89")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 321.31 128.27 0)
 		(unit 1)
@@ -35944,121 +34136,6 @@
 			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2930b75f-7142-4414-b99a-728851a6a7da/06123601-78a7-45a5-9135-d0172885f72e"
 					(reference "C55")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_02x07_Odd_Even")
-		(at 299.72 182.88 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ebe70f7f-218e-4f39-9928-ddf0ada3a6ca")
-		(property "Reference" "J23"
-			(at 289.56 185.4201 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_02x07_Odd_Even"
-			(at 289.56 182.8801 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical"
-			(at 299.72 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 299.72 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, double row, 02x07, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 299.72 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLC" "C5156678"
-			(at 299.72 182.88 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "101dcf37-cace-4089-9cf5-67f350f47a16")
-		)
-		(pin "13"
-			(uuid "29f14a29-d86b-44ae-b78d-2fea1604b3d9")
-		)
-		(pin "14"
-			(uuid "494e8572-36d5-4427-bd1d-c84c58fde63d")
-		)
-		(pin "2"
-			(uuid "fc9b72f4-b4d8-4f2f-9969-09cc3a808929")
-		)
-		(pin "4"
-			(uuid "99381698-e709-4031-a792-97b4b7277d9a")
-		)
-		(pin "8"
-			(uuid "cff5924d-769e-49fb-9614-220b4254ee14")
-		)
-		(pin "12"
-			(uuid "0bc90ae4-9259-4813-b614-2e12daa76cb3")
-		)
-		(pin "5"
-			(uuid "ce178b76-3498-47b4-b1bb-1ec26a3b45e6")
-		)
-		(pin "10"
-			(uuid "3cbd26f0-b0fc-46e8-9e5e-02e5e4766694")
-		)
-		(pin "7"
-			(uuid "95d03c03-6960-470c-8a9f-0b9908bdf2cd")
-		)
-		(pin "6"
-			(uuid "3e1b34df-d7b6-4cc1-aeec-1f39dd7caef8")
-		)
-		(pin "11"
-			(uuid "fc6b833c-e370-4c94-a642-76542ac218f6")
-		)
-		(pin "9"
-			(uuid "ee6ce4fa-dc2b-4fcb-a28d-f821e5794675")
-		)
-		(pin "3"
-			(uuid "a73688b8-621c-4029-8faa-1acd23ac3b31")
-		)
-		(instances
-			(project "hw-openmower-universal"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2930b75f-7142-4414-b99a-728851a6a7da/06123601-78a7-45a5-9135-d0172885f72e"
-					(reference "J23")
 					(unit 1)
 				)
 			)
