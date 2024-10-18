@@ -58,9 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "courtyards_overlap|54448375|24050001|16d3366e-4e0a-41fc-9a68-910fbf45c194|fae2d629-8e3b-4c40-9b37-8ac44d6e48f8"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -98,7 +96,7 @@
         "padstack": "warning",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
+        "silk_edge_clearance": "ignore",
         "silk_over_copper": "ignore",
         "silk_overlap": "ignore",
         "skew_out_of_range": "error",
