@@ -21152,6 +21152,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC" "C306045"
+			(at 365.76 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "114"
 			(uuid "d8548408-8013-4648-8b35-668637d57f2b")
 		)
@@ -23315,6 +23324,15 @@
 			)
 		)
 		(property "Part Description" ""
+			(at 201.93 424.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C306045"
 			(at 201.93 424.18 0)
 			(effects
 				(font
@@ -27218,6 +27236,15 @@
 			)
 		)
 		(property "Part Description" ""
+			(at 96.52 436.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C306045"
 			(at 96.52 436.88 0)
 			(effects
 				(font
@@ -35617,6 +35644,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC" "C306045"
+			(at 97.79 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "114"
 			(uuid "aeed1836-a24c-4781-ac76-af324f277ba9")
 		)
@@ -40873,6 +40909,15 @@
 			)
 		)
 		(property "Part Description" ""
+			(at 364.49 425.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C306045"
 			(at 364.49 425.45 0)
 			(effects
 				(font
