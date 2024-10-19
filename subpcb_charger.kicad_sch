@@ -5194,7 +5194,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_AMASS:AMASS_XT30UPB-F_1x02_P5.0mm_Vertical"
+		(property "Footprint" "Connector_AMASS:AMASS_XT30U-F_1x02_P5.0mm_Vertical"
 			(at 147.32 156.21 0)
 			(effects
 				(font
@@ -5266,7 +5266,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C108769"
+		(property "JLC" "C99102"
 			(at 147.32 156.21 0)
 			(effects
 				(font
@@ -5777,7 +5777,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_AMASS:AMASS_XT30UPB-F_1x02_P5.0mm_Vertical"
+		(property "Footprint" "Connector_AMASS:AMASS_XT30U-F_1x02_P5.0mm_Vertical"
 			(at 90.17 156.21 0)
 			(effects
 				(font
@@ -5849,7 +5849,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C108769"
+		(property "JLC" "C99102"
 			(at 90.17 156.21 0)
 			(effects
 				(font
@@ -6796,7 +6796,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_AMASS:AMASS_XT30UPB-M_1x02_P5.0mm_Vertical"
+		(property "Footprint" "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical"
 			(at 57.15 59.69 0)
 			(effects
 				(font
@@ -6868,7 +6868,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C428721"
+		(property "JLC" "C99101"
 			(at 57.15 59.69 0)
 			(effects
 				(font
@@ -8453,7 +8453,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_AMASS:AMASS_XT30UPB-M_1x02_P5.0mm_Vertical"
+		(property "Footprint" "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical"
 			(at 57.15 106.68 0)
 			(effects
 				(font
@@ -8525,7 +8525,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C428721"
+		(property "JLC" "C99101"
 			(at 57.15 106.68 0)
 			(effects
 				(font
@@ -10210,7 +10210,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_AMASS:AMASS_XT30UPB-F_1x02_P5.0mm_Vertical"
+		(property "Footprint" "Connector_AMASS:AMASS_XT30U-F_1x02_P5.0mm_Vertical"
 			(at 118.11 156.21 0)
 			(effects
 				(font
@@ -10282,7 +10282,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C108769"
+		(property "JLC" "C99102"
 			(at 118.11 156.21 0)
 			(effects
 				(font
@@ -10400,7 +10400,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_AMASS:AMASS_XT30UPB-F_1x02_P5.0mm_Vertical"
+		(property "Footprint" "Connector_AMASS:AMASS_XT30U-F_1x02_P5.0mm_Vertical"
 			(at 60.96 156.21 0)
 			(effects
 				(font
@@ -10472,7 +10472,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C108769"
+		(property "JLC" "C99102"
 			(at 60.96 156.21 0)
 			(effects
 				(font
