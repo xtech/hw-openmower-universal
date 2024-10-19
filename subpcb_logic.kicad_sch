@@ -8440,6 +8440,10 @@
 		(uuid "2719e336-a61c-441b-adb7-22aeaa8b7a07")
 	)
 	(no_connect
+		(at 181.61 417.83)
+		(uuid "289229ff-45e3-4647-9abc-1b439647faa7")
+	)
+	(no_connect
 		(at 181.61 397.51)
 		(uuid "29613a45-f856-48f5-9838-d9f5e6984c9e")
 	)
@@ -10082,16 +10086,6 @@
 			(type default)
 		)
 		(uuid "53278495-9274-48ae-ace0-3db187825e3a")
-	)
-	(wire
-		(pts
-			(xy 181.61 417.83) (xy 170.18 417.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "53f654ef-e7ee-440a-a93d-21c6fdd18a14")
 	)
 	(bus
 		(pts
@@ -13007,17 +13001,6 @@
 		)
 		(uuid "4a44a925-ae65-45ed-aa8e-5ca577d77879")
 	)
-	(label "GPIO14"
-		(at 170.18 417.83 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4a71e9ec-398b-41a2-9397-c2e5ce06416c")
-	)
 	(label "5V"
 		(at 218.44 46.99 90)
 		(fields_autoplaced yes)
@@ -15083,7 +15066,7 @@
 				)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "150R"
 			(at 497.84 204.47 90)
 			(effects
 				(font
@@ -15137,15 +15120,6 @@
 			)
 		)
 		(property "Part Number" "RC0805FR-07150RL"
-			(at 497.84 208.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" ""
 			(at 497.84 208.28 0)
 			(effects
 				(font
@@ -17175,15 +17149,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
-			(at 373.38 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "JLC" "C144394"
 			(at 373.38 214.63 0)
 			(effects
@@ -17616,7 +17581,7 @@
 				)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "150R"
 			(at 447.04 120.65 90)
 			(effects
 				(font
@@ -17670,15 +17635,6 @@
 			)
 		)
 		(property "Part Number" "RC0805FR-07150RL"
-			(at 447.04 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" ""
 			(at 447.04 124.46 0)
 			(effects
 				(font
@@ -20204,15 +20160,6 @@
 			)
 		)
 		(property "Stock_PN" "J-JST-XH-1x4"
-			(at 72.39 256.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" ""
 			(at 72.39 256.54 0)
 			(effects
 				(font
@@ -24217,15 +24164,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
-			(at 490.22 215.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "JLC" "C17414"
 			(at 490.22 215.9 0)
 			(effects
@@ -25375,15 +25313,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
-			(at 373.38 232.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "JLC" "C144394"
 			(at 373.38 232.41 0)
 			(effects
@@ -25817,7 +25746,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BSS138"
+		(property "Value" "AO3400A"
 			(at 466.09 125.7299 0)
 			(effects
 				(font
@@ -25856,15 +25785,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
-			(at 459.74 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part Number" "AP2300"
 			(at 459.74 124.46 0)
 			(effects
@@ -25892,7 +25812,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C3040446"
+		(property "JLC" "C20917"
 			(at 459.74 124.46 0)
 			(effects
 				(font
@@ -26419,15 +26339,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 504.19 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" ""
 			(at 504.19 194.31 0)
 			(effects
 				(font
@@ -28811,15 +28722,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
-			(at 162.56 256.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "JLC" "C144395"
 			(at 162.56 256.54 0)
 			(effects
@@ -29932,15 +29834,6 @@
 			)
 		)
 		(property "Stock_PN" "J-JST-XH-1x2"
-			(at 175.26 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" ""
 			(at 175.26 172.72 0)
 			(effects
 				(font
@@ -33374,15 +33267,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
-			(at 373.38 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "JLC" "C144394"
 			(at 373.38 196.85 0)
 			(effects
@@ -34810,7 +34694,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BSS138"
+		(property "Value" "AO3400A"
 			(at 516.89 209.5499 0)
 			(effects
 				(font
@@ -34849,15 +34733,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
-			(at 510.54 208.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part Number" "AP2300"
 			(at 510.54 208.28 0)
 			(effects
@@ -34885,7 +34760,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C3040446"
+		(property "JLC" "C20917"
 			(at 510.54 208.28 0)
 			(effects
 				(font
@@ -37518,15 +37393,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
-			(at 439.42 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "JLC" "C17414"
 			(at 439.42 132.08 0)
 			(effects
@@ -40143,15 +40009,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
-			(at 513.08 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part Number" "DZ254R-11-02-63"
 			(at 513.08 195.58 0)
 			(effects
@@ -41920,15 +41777,6 @@
 			)
 		)
 		(property "Stock_PN" "J-JST-XH-1x3"
-			(at 373.38 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" ""
 			(at 373.38 179.07 0)
 			(effects
 				(font

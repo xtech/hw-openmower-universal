@@ -8920,7 +8920,7 @@
 				)
 			)
 		)
-		(property "Value" "470nF@25V"
+		(property "Value" "470nF/25V"
 			(at 386.08 151.13 90)
 			(effects
 				(font
@@ -13908,7 +13908,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "16.2k 0.1%"
+		(property "Value" "16.2k 1%"
 			(at 118.11 226.0599 0)
 			(effects
 				(font
@@ -15384,7 +15384,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "16.2k 0.1%"
+		(property "Value" "16.2k 1%"
 			(at 294.64 215.8999 0)
 			(effects
 				(font

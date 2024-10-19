@@ -4641,15 +4641,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C3117"
-			(at 83.82 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "APPLICATION" ""
 			(at 83.82 92.71 0)
 			(effects
@@ -5354,7 +5345,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C206977"
+		(property "JLC" "C3130"
 			(at 252.73 163.83 0)
 			(effects
 				(font
@@ -6182,7 +6173,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C206977"
+		(property "JLC" "C3130"
 			(at 252.73 154.94 0)
 			(effects
 				(font
@@ -8033,15 +8024,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C3117"
-			(at 76.2 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "APPLICATION" ""
 			(at 76.2 45.72 0)
 			(effects
@@ -8999,7 +8981,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C206977"
+		(property "JLC" "C3130"
 			(at 252.73 146.05 0)
 			(effects
 				(font
@@ -9477,15 +9459,6 @@
 			)
 		)
 		(property "Stock_PN" "D-SMA-Schottky-40V-5A"
-			(at 92.71 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" ""
 			(at 92.71 88.9 0)
 			(effects
 				(font
@@ -10710,7 +10683,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C206977"
+		(property "JLC" "C3130"
 			(at 252.73 137.16 0)
 			(effects
 				(font
