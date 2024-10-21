@@ -138,6 +138,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "J2","Conn_02x04_Odd_Even","PinHeader_2x04_P2.54mm_Vertical",68.2244,-187.5028,90.0000,top
 "J3","Screw_Terminal_01x03","TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",50.4000,-168.0210,270.0000,top
 "J4","Conn_02x05_Odd_Even","PinHeader_2x05_P2.54mm_Vertical",123.4800,-157.7500,270.0000,top
+"J5","Conn_02x08_Odd_Even","PinHeader_2x08_P2.54mm_Vertical",185.1600,-34.8200,0.0000,top
 "J6","USB_A_Stacked","USB_A_Wuerth_61400826021_Horizontal_Stacked",249.7500,-32.2500,180.0000,top
 "J7","HR911130A","HR911130A",228.2500,-27.3050,0.0000,top
 "J8","HR911130A","HR911130A",208.7500,-27.3050,0.0000,top
