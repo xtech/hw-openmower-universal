@@ -13291,17 +13291,6 @@
 		)
 		(uuid "0411ac08-2d15-4c7c-8f75-2b0ef286feac")
 	)
-	(label "3.3V_Out"
-		(at 39.37 521.97 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "04916e85-29fa-42ae-8836-1a25fb1307fb")
-	)
 	(label "UART6.RX"
 		(at 222.25 74.93 270)
 		(fields_autoplaced yes)
@@ -14610,6 +14599,17 @@
 			(justify left bottom)
 		)
 		(uuid "badbfabb-bc81-4978-9e69-624d87ba5e72")
+	)
+	(label "3.3V"
+		(at 40.64 521.97 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "bdd750cc-075c-4ddd-8855-afe791b23568")
 	)
 	(label "5V"
 		(at 60.96 332.74 180)
