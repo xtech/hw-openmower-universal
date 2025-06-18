@@ -3642,6 +3642,79 @@
 		)
 	)
 	(symbol
+		(lib_id "xtech:Dummy")
+		(at 254 207.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "08d3a76f-6a43-44a3-9b94-0c38ea74adf2")
+		(property "Reference" "U74"
+			(at 273.05 202.5649 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Fuse 2A"
+			(at 273.05 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "xtech:Dummy"
+			(at 254 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 254 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 254 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C356459"
+			(at 254 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2930b75f-7142-4414-b99a-728851a6a7da"
+					(reference "U74")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D_Zener")
 		(at 104.14 59.69 270)
 		(unit 1)
@@ -9167,6 +9240,79 @@
 			(project "hw-openmower-universal"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2930b75f-7142-4414-b99a-728851a6a7da"
 					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "xtech:Dummy")
+		(at 254 217.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a30fb4ae-eba0-46da-88b2-71b00beb2ebb")
+		(property "Reference" "U75"
+			(at 273.05 212.7249 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Fuse 2A"
+			(at 273.05 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "xtech:Dummy"
+			(at 254 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 254 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 254 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C356459"
+			(at 254 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "hw-openmower-universal"
+				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11/2930b75f-7142-4414-b99a-728851a6a7da"
+					(reference "U75")
 					(unit 1)
 				)
 			)
