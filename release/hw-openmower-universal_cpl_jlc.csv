@@ -164,7 +164,6 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "J28","Conn_01x03_Male","PinHeader_1x03_P2.54mm_Vertical",176.9000,-26.9240,90.0000,top
 "J29","Conn_01x05","JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical",162.1000,-149.5000,270.0000,top
 "J30","Conn_01x03_Male","PinHeader_1x03_P2.54mm_Vertical",168.2000,-26.9240,90.0000,top
-"J32","Conn_01x05_Pin","PinHeader_1x05_P2.54mm_Vertical",262.8000,-47.4250,0.0000,top
 "J34","Screw_Terminal_01x03","TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",104.5800,-31.8050,180.0000,top
 "J35","Screw_Terminal_01x03","TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",141.5850,-31.7500,180.0000,top
 "J36","Conn_02x03_Odd_Even","PinHeader_2x03_P2.54mm_Vertical",48.3000,-32.7250,0.0000,top
