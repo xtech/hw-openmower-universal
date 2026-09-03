@@ -1,5 +1,20 @@
 # Universal OpenMower Mainboard
 
+> [!WARNING]
+> ## ⚠️ This repository is deprecated
+>
+> The universal board has been split into multiple smaller modules. Reasons:
+> - some people had issues breaking the board
+> - people can order replacements without needing to order the whole board
+> - iteration on individual modules is easier
+> - hardly anyone used the board in a non-broken fashion anyways, since it was too large for most mowers
+>
+> Please use the following repos instead:
+> - [hw-module-xesc](https://github.com/xtech/hw-module-xesc) — carrier to use xESC standalone
+> - [hw-module-charger](https://github.com/xtech/hw-module-charger) — charger module
+> - [hw-module-logic](https://github.com/xtech/hw-module-logic) — logic board for universal application
+> - [hw-module-gps](https://github.com/xtech/hw-module-gps) — module for using Arduino Shield style GPS units with xBot modular platform
+
 
 
 ## Information
